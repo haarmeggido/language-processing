@@ -24,7 +24,6 @@ for word in words:
 		dc.update({word: 1})
  
 ndc = sorted(dc.items(), key=lambda x:x[1], reverse = True)
-print(ndc)
 
 with open("words.txt", 'w') as f:  
     for key, value in dc.items():  
