@@ -26,7 +26,7 @@ for word in words:
 ndc = sorted(dc.items(), key=lambda x:x[1], reverse = True)
 print(ndc)
 
-with open("myfile.txt", 'w') as f:  
+with open("words.txt", 'w') as f:  
     for key, value in dc.items():  
         f.write('%s:%s\n' % (key, value))
 f.close()
