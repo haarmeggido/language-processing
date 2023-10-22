@@ -10,7 +10,7 @@ text = text.lower()
 l = "qwertyuiopasdfghjklzxcvbnm -áéíóúàèëïöü"
  
 for letter in text:
-	if letter not in text:
+	if letter not in l:
 		text = text.replace(letter,'')
  
 words = text.split()
