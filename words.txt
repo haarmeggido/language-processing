@@ -43,7 +43,7 @@ voor:111
 drie:13
 grote:50
 westelijke:14
-democratieën:2
+democratieï¿½n:2
 verenigd:10
 koninkrijk:11
 derde:7
@@ -73,7 +73,7 @@ regimes:3
 communistische:6
 sovjet-unie:48
 fascistische:2
-italië:17
+italiï¿½:17
 na:48
 japanse:50
 militaire:19
@@ -107,14 +107,14 @@ eiste:1
 zomer:6
 versloeg:1
 toen:19
-mongolië:2
+mongoliï¿½:2
 wilde:15
 veroveren:11
 besloot:3
 zich:69
 hierna:1
 verovering:7
-zuidoost-azië:2
+zuidoost-aziï¿½:2
 te:269
 richten:2
 nationaalsocialistische:4
@@ -130,7 +130,7 @@ annexeerde:3
 anschluss:2
 oostenrijk:3
 verdrag:4
-münchen:2
+mï¿½nchen:2
 moest:22
 tsjecho-slowakije:5
 duitstalige:4
@@ -219,7 +219,7 @@ vergeefs:4
 breken:7
 via:17
 duikbootoorlog:1
-materiële:1
+materiï¿½le:1
 steun:7
 leveren:3
 sinds:5
@@ -303,7 +303,7 @@ pijnlijke:1
 echecs:1
 veroverde:3
 delen:2
-azië:4
+aziï¿½:4
 maar:69
 leed:1
 beslissende:4
@@ -327,7 +327,7 @@ verwoesten:4
 beperkt:5
 effect:3
 hadden:24
-industriële:12
+industriï¿½le:12
 laatste:9
 groot:10
 duits:5
@@ -350,10 +350,10 @@ stellen:6
 desalniettemin:2
 lukte:4
 d-day:5
-normandië:5
+normandiï¿½:5
 vernietigen:6
 bevrijdden:1
-belgië:8
+belgiï¿½:8
 tegelijkertijd:4
 vernietigde:5
 legergroep:11
@@ -361,7 +361,7 @@ midden:10
 operatie:28
 bagration:2
 finland:3
-roemenië:5
+roemeniï¿½:5
 bulgarije:6
 gingen:8
 over:43
@@ -505,7 +505,7 @@ daaropvolgende:1
 bezetting:4
 duurde:2
 rivieren:2
-nederlands-indië:6
+nederlands-indiï¿½:6
 nooit:7
 volledige:2
 controle:6
@@ -793,11 +793,11 @@ directeur:1
 rijksbank:1
 hjalmar:1
 schacht:1
-beëindigde:3
+beï¿½indigde:3
 inflatie:1
 marken:1
 gelijk:4
-één:4
+ï¿½ï¿½n:4
 valuta:1
 waardevast:1
 leningen:2
@@ -851,12 +851,12 @@ betalingsregeling:1
 premiers:1
 ramsay:1
 macdonald:1
-édouard:1
+ï¿½douard:1
 herriot:1
 stemden:1
 ging:9
 akkoord:1
-groot-brittannië:1
+groot-brittanniï¿½:1
 aantal:9
 andere:12
 buurlanden:2
@@ -943,7 +943,7 @@ schorten:1
 vooruitzicht:2
 daarop:2
 destabiliseerde:1
-financiële:3
+financiï¿½le:3
 systeemgrote:1
 depressiede:1
 beurscrash:1
@@ -964,7 +964,7 @@ getroffen:2
 aangetreden:1
 kabinet:7
 heinrich:1
-brüning:2
+brï¿½ning:2
 reageerde:1
 strenge:1
 bezuinigingen:1
@@ -1176,11 +1176,11 @@ uitgegeven:1
 beschikte:2
 kanonnen:2
 vliegtuigen:14
-onderzeeërs:8
+onderzeeï¿½rs:8
 oppervlakteschepen:2
 wapentypen:1
 achter:3
-potentiële:2
+potentiï¿½le:2
 vijanden:2
 geldgebrek:1
 agressie-oorlog:1
@@ -1300,7 +1300,7 @@ kans:5
 schoon:1
 verliet:1
 oktober:10
-abessinië:3
+abessiniï¿½:3
 verbond:1
 anti-kominternpact:1
 as:6
@@ -1355,7 +1355,7 @@ brak:2
 rompstaat:2
 protectoraat:1
 bohemen:1
-moravië:1
+moraviï¿½:1
 slowaakse:1
 vazalstaat:2
 omvangrijke:1
@@ -1442,7 +1442,7 @@ beperkten:2
 zwakke:5
 saaroffensief:1
 negen:2
-silezië:3
+sileziï¿½:3
 hoofdaanval:1
 richting:5
 warschau:5
@@ -1488,7 +1488,7 @@ officieel:3
 bleef:13
 neutraal:3
 gevechten:4
-beëindigd:1
+beï¿½indigd:1
 karpatenleger:1
 weken:5
 gevechtseenheden:2
@@ -1663,7 +1663,7 @@ vlak:3
 leningrad:4
 ussr:3
 finstalig:1
-oost-karelië:2
+oost-kareliï¿½:2
 finse:3
 isthmus:1
 mannerheimlinie:3
@@ -1701,7 +1701,7 @@ mate:3
 onderschatting:1
 krachtde:1
 baltische:1
-bessarabië:2
+bessarabiï¿½:2
 noord-boekovina:1
 honderdduizenden:1
 inwoners:2
@@ -1762,7 +1762,7 @@ kopenhagen:1
 onbezet:1
 garnizoen:3
 parlement:1
-faeröer:1
+faerï¿½er:1
 ijsland:2
 amerikaans:2
 bestuur:4
@@ -1821,7 +1821,7 @@ expeditieleger:1
 e:4
 verenigden:1
 belgische:2
-midden-belgië:1
+midden-belgiï¿½:1
 a:1
 continue:1
 massale:2
@@ -1849,7 +1849,7 @@ omsingeling:1
 ontsnappen:2
 achterlating:1
 achttiendaagse:1
-beëindigend:1
+beï¿½indigend:1
 leopold:1
 iii:1
 week:1
@@ -1876,7 +1876,7 @@ eenvoudig:1
 graag:1
 vergelijk:2
 verhinderen:2
-koloniën:2
+koloniï¿½n:2
 voortzetten:3
 verlokken:1
 ondertekende:1
@@ -1891,7 +1891,7 @@ marionettenstaat:1
 vichy-frankrijk:3
 conservatief-nationalistische:1
 philippe:1
-pétain:1
+pï¿½tain:1
 staatshoofd:1
 gaulle:1
 aangekondigd:1
@@ -1901,7 +1901,7 @@ km:1
 brachten:5
 vloot:21
 zinken:10
-mers-el-kébir:1
+mers-el-kï¿½bir:1
 vrees:3
 vallende:1
 engelandna:1
@@ -1917,7 +1917,7 @@ onmogelijk:1
 hopend:4
 intimideren:1
 opdracht:1
-seelöwe:2
+seelï¿½we:2
 bereiden:3
 planning:1
 landingsvaartuigen:1
@@ -1998,7 +1998,7 @@ imperium:2
 afrika:3
 toevallen:1
 india:3
-zuid-oost-azië:3
+zuid-oost-aziï¿½:3
 vreedzaam:2
 samenwerkingsverband:1
 voedde:1
@@ -2113,7 +2113,7 @@ konvooien:6
 atlantische:6
 oceaan:6
 vochten:2
-onderzeeërsde:1
+onderzeeï¿½rsde:1
 oceaanuit:1
 schrik:1
 onbeperkte:1
@@ -2147,7 +2147,7 @@ oppervlaktevloot:1
 hulpkruisers:1
 handelsroutes:1
 verre:3
-zeeën:1
+zeeï¿½n:1
 oorlogschepen:1
 raider:1
 vitale:1
@@ -2189,7 +2189,7 @@ uitbreken:1
 vijandelijkheden:2
 konvooiroutes:1
 besliste:2
-dönitz:3
+dï¿½nitz:3
 kusten:1
 gekonvooieerd:1
 geboekt:1
@@ -2241,7 +2241,7 @@ viermotorige:1
 vliegbereik:1
 massaproductie:1
 bevolkingscentra:1
-industrieën:1
+industrieï¿½n:1
 treffen:1
 ver:2
 enige:5
@@ -2290,7 +2290,7 @@ waarbij:8
 half:4
 burgerdoden:1
 middellandse:1
-zeeitalië:1
+zeeitaliï¿½:1
 capaciteit:3
 reeks:2
 avonturen:1
@@ -2298,7 +2298,7 @@ somaliland:2
 onvoorbereid:1
 italiaans:4
 vanuit:5
-libië:2
+libiï¿½:2
 beheerste:3
 kilometer:5
 stilstandde:1
@@ -2319,21 +2319,21 @@ terugtrok:1
 tegenoffensief:3
 verlies:2
 eritrea:1
-abessyniëhet:1
+abessyniï¿½het:1
 afrikakorps:1
 heroverde:1
 cyrenaica:1
 rukte:3
 gazala:1
-alexandrië:1
+alexandriï¿½:1
 stelling:1
 heen:1
-perzië:1
+perziï¿½:1
 sovjets:3
 balkanzie:1
 balkanveldtocht:1
 hoofdartikelen:1
-onderwerpalbanië:1
+onderwerpalbaniï¿½:1
 italianen:2
 jaloers:1
 grieks-italiaanse:1
@@ -2352,8 +2352,8 @@ hongarije:3
 dobroedzja:1
 binnentrokken:1
 stonden:1
-vastelandjoegoslavië:1
-joegoslavië:4
+vastelandjoegoslaviï¿½:1
+joegoslaviï¿½:4
 overweldigden:1
 hongaarse:3
 bulgaarse:1
@@ -2379,7 +2379,7 @@ eerder:4
 suezkanaal:1
 sovjet-uniede:1
 schijnbaar:2
-albanië:2
+albaniï¿½:2
 krijgen:3
 felle:1
 partizanenstrijd:1
@@ -2402,7 +2402,7 @@ generalplan:1
 ost:1
 uitgedunde:1
 imperialistisch:1
-existentiële:1
+existentiï¿½le:1
 worsteling:1
 leven:7
 doodaan:1
@@ -2513,7 +2513,7 @@ tanksterkte:1
 drieduizend:3
 charkov:2
 oeral:1
-geëvacueerd:1
+geï¿½vacueerd:1
 ruim:4
 twintigduizend:2
 fabriceren:1
@@ -2577,7 +2577,7 @@ getrainde:2
 eenheden:1
 verslaanel:1
 torch:3
-italiëtegelijk:1
+italiï¿½tegelijk:1
 bernard:1
 montgomery:1
 aanzienlijk:1
@@ -2585,10 +2585,10 @@ versterkt:1
 vernietigende:2
 algerije:1
 marokko:1
-tunesië:2
+tunesiï¿½:2
 verdreven:1
 warende:1
-sicilië:1
+siciliï¿½:1
 arrestatie:1
 pietro:1
 badoglio:1
@@ -2610,7 +2610,7 @@ monte:1
 cassino:1
 doorheen:1
 voelden:1
-sardinië:1
+sardiniï¿½:1
 corsica:1
 ontruimen:1
 linie:2
@@ -2725,7 +2725,7 @@ uitgroeien:1
 parallel:1
 daaraan:1
 bestede:1
-efficiënter:1
+efficiï¿½nter:1
 onderbezette:1
 reguliere:2
 beklemtoonde:1
@@ -2778,7 +2778,7 @@ verbod:1
 trekken:2
 onnodig:1
 verliezenlanding:1
-normandiëtot:1
+normandiï¿½tot:1
 materieelreserves:1
 opgebouwd:1
 factor:1
@@ -2876,7 +2876,7 @@ intense:1
 langere:1
 aanvoerlijnen:2
 helemaal:1
-normandiëop:1
+normandiï¿½op:1
 zwakte:1
 rijnbrug:1
 arnhem:1
@@ -2884,7 +2884,7 @@ omtrekken:1
 stoten:1
 schelde:1
 zeeweg:1
-essentiële:1
+essentiï¿½le:1
 antwerpen:3
 vergokte:1
 vertraagde:1
@@ -2951,7 +2951,7 @@ vertegenwoordigers:1
 karl:1
 getekendnadat:1
 midden-amerika:1
-brazilië:1
+braziliï¿½:1
 hen:2
 voorgegaan:1
 zuid-amerikaanse:1
@@ -3008,7 +3008,7 @@ stagnerende:1
 steenkool:1
 verreweg:1
 energiebron:1
-efficiënt:1
+efficiï¿½nt:1
 technisch:1
 sociaal:1
 onderontwikkeld:1
@@ -3017,7 +3017,7 @@ leverden:1
 flinke:1
 dwangarbeid:1
 dienst:3
-inefficiënt:1
+inefficiï¿½nt:1
 doodwerken:1
 dwangarbeiders:1
 maatschappij:1
@@ -3031,7 +3031,7 @@ bestrijdende:1
 facties:1
 wedijverden:1
 gunst:1
-industriëlen:1
+industriï¿½len:1
 poogden:1
 spectaculaire:1
 doch:1
@@ -3063,7 +3063,7 @@ dienen:1
 ontwikkelingentankproductie:1
 flink:2
 geallieerdenvliegtuigproductie:1
-aziëjapan:1
+aziï¿½japan:1
 eeuwjapan:1
 moderniseerde:1
 meijiperiode:1
@@ -3269,7 +3269,7 @@ javazee:1
 eskader:2
 java:1
 luchtruim:1
-noord-australië:1
+noord-australiï¿½:1
 colombo:1
 ceylon:2
 vliegkampschip:3
@@ -3290,8 +3290,8 @@ oorlogsdoelen:1
 behaald:1
 twijfelden:1
 categorisch:1
-australië:4
-indië:1
+australiï¿½:4
+indiï¿½:1
 verderzetten:1
 eilanden:4
 isoleren:1
@@ -3332,7 +3332,7 @@ noch:1
 keizerlijke:3
 pogen:1
 landaanval:1
-australiërs:2
+australiï¿½rs:2
 geblokkeerd:1
 kokoda:1
 track:1
@@ -3382,7 +3382,7 @@ mcarthur:1
 haasje-over:1
 spelen:1
 passeerde:1
-nieuw-brittannië:1
+nieuw-brittanniï¿½:1
 noordkust:1
 uitgebreid:1
 posities:2
@@ -3418,7 +3418,7 @@ landverbinding:1
 brengend:1
 u-go:1
 afgeslagen:1
-indiërs:1
+indiï¿½rs:1
 chinezen:1
 heroverenuss:1
 hill:1
@@ -3600,7 +3600,7 @@ afworp:1
 uss:1
 missouri:1
 geleid:1
-beëindiging:1
+beï¿½indiging:1
 vredesverdrag:1
 francisco:1
 dispuut:1
@@ -3683,7 +3683,7 @@ gedeelte:1
 concentratie-:1
 vernietigingskampen:1
 grootschalige:1
-efficiënte:1
+efficiï¿½nte:1
 gerund:1
 ongelukkigen:1
 ogen:1
@@ -3714,7 +3714,7 @@ kanton:1
 guangzhou:1
 coventry:1
 bestookt:2
-knieën:1
+knieï¿½n:1
 krijgenhamburg:1
 voortdurende:1
 bommenregen:1
@@ -3761,7 +3761,7 @@ iedereen:1
 verdacht:1
 collaboratie:1
 gedeporteerd:1
-geëxecuteerdook:1
+geï¿½xecuteerdook:1
 acties:2
 komt:1
 dienden:1
@@ -3848,11 +3848,11 @@ leren:1
 middelgrote:1
 palestina:1
 kort:2
-israël:1
+israï¿½l:1
 gesticht:1
 hiermee:1
 kiem:1
-arabisch-israëlisch:1
+arabisch-israï¿½lisch:1
 midden-oosten:1
 geregeld:1
 gewapende:1
@@ -3885,4 +3885,4 @@ atoombomin:1
 misschien:1
 literaire:1
 kaalslagliteratuur:1
-trümmerliteratur:1
+trï¿½mmerliteratur:1
