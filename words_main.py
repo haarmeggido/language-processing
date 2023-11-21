@@ -1,8 +1,4 @@
-import pandas as pd
- 
-#text = "De Tweede Wereldoorlog was de escalatie van de Tweede Chinees-Japanse Oorlog die begon in 1937 en een Europese oorlog begonnen in 1939 tot een militair conflict dat van 1941 tot 1945 op wereldschaal werd uitgevochten tussen twee allianties: de asmogendheden en de geallieerden. In het westen worden meestal de jaren 1939 en 1945 aangehouden als begin en eind van de oorlog."
- 
-
+#stary kod, spełnia część założeń, ale następny (n_grams.py) spełnia wszystkie
 with open('ww2.txt', 'r', encoding= "utf-8") as file:
   text = file.read()
 

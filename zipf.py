@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 
 # Read the data from the "words.txt" file
 data = {}
-with open("words.txt", "r") as file:
+with open("words_files/words.txt", "r") as file:
     for line in file:
         word, count = line.strip().split(":")
         data[word] = int(count)

@@ -1,0 +1,7895 @@
+   fgag2:1
+  fgag2 gdae:1
+ fgag2 gdae ar:1
+fgag2 gdae ar gham:1
+gdae ar gham soe:1
+ar gham soe sorg:1
+gham soe sorg 0d0rc2:1
+soe sorg 0d0rc2 gdor:1
+sorg 0d0rc2 gdor soe8g:1
+0d0rc2 gdor soe8g :1
+gdor soe8g  2org:1
+soe8g  2org dzar:1
+ 2org dzar org:1
+2org dzar org dair:1
+dzar org dair tham:1
+org dair tham sor:1
+dair tham sor ar:1
+tham sor ar hzar:1
+sor ar hzar hzar:1
+ar hzar hzar 8ala:1
+hzar hzar 8ala :1
+hzar 8ala  2gaiir:1
+8ala  2gaiir scdg:1
+ 2gaiir scdg or:1
+2gaiir scdg or gdam:1
+scdg or gdam so8:1
+or gdam so8 hzoarg:1
+gdam so8 hzoarg hzc2:1
+so8 hzoarg hzc2 8aram:1
+hzoarg hzc2 8aram 2g:1
+hzc2 8aram 2g :1
+8aram 2g  0om:1
+2g  0om ohccg:1
+ 0om ohccg ohcar:1
+0om ohccg ohcar roeohg:1
+ohccg ohcar roeohg hzaar:1
+ohcar roeohg hzaar 8am:1
+roeohg hzaar 8am odam:1
+hzaar 8am odam or:1
+8am odam or odal:1
+odam or odal :1
+or odal  2airg:1
+odal  2airg tcar:1
+ 2airg tcar hzam:1
+2airg tcar hzam pzar:1
+tcar hzam pzar fzam:1
+hzam pzar fzam :1
+pzar fzam  g8araisg:1
+fzam  g8araisg :1
+ g8araisg  o8ar:1
+g8araisg  o8ar sg:1
+ o8ar sg soe:1
+o8ar sg soe pzog:1
+sg soe pzog og8ar:1
+soe pzog og8ar s:1
+pzog og8ar s 2:1
+og8ar s 2 fzoam:1
+s 2 fzoam so8arg:1
+2 fzoam so8arg :1
+fzoam so8arg  gscg:1
+so8arg  gscg so8g:1
+ gscg so8g odto:1
+gscg so8g odto g:1
+so8g odto g ohtoe:1
+odto g ohtoe tohzg:1
+g ohtoe tohzg o2tg:1
+ohtoe tohzg o2tg 8an:1
+tohzg o2tg 8an tor:1
+o2tg 8an tor do2:1
+8an tor do2 :1
+tor do2  8am:1
+do2  8am sor:1
+ 8am sor fzoe:1
+8am sor fzoe so8g:1
+sor fzoe so8g :1
+fzoe so8g  8an:1
+so8g  8an 02:1
+ 8an 02 hco8g:1
+8an 02 hco8g :1
+02 hco8g  g8an:1
+hco8g  g8an pzc2am:1
+ g8an pzc2am oe2:1
+g8an pzc2am oe2 pzcg:1
+pzc2am oe2 pzcg ghan:1
+oe2 pzcg ghan sosg:1
+pzcg ghan sosg pzo8aec2:1
+ghan sosg pzo8aec2 :1
+sosg pzo8aec2  odso:1
+pzo8aec2  odso dsog:1
+ odso dsog ohairn:1
+odso dsog ohairn ohcoe:1
+dsog ohairn ohcoe odal:1
+ohairn ohcoe odal so8an:1
+ohcoe odal so8an 2dzcg:1
+odal so8an 2dzcg 8am:1
+so8an 2dzcg 8am :1
+2dzcg 8am  sog:1
+8am  sog dzcg:1
+ sog dzcg do8am:1
+sog dzcg do8am pzg:1
+dzcg do8am pzg pz08aiie2:1
+do8am pzg pz08aiie2 hzcg:1
+pzg pz08aiie2 hzcg sc:1
+pz08aiie2 hzcg sc oe8an:1
+hzcg sc oe8an 8:1
+sc oe8an 8 :1
+oe8an 8  8an:1
+8  8an om:1
+ 8an om toe:1
+8an om toe o8am:1
+om toe o8am to8an:1
+toe o8am to8an t8g:1
+o8am to8an t8g odon:1
+to8an t8g odon 80r:1
+t8g odon 80r hzg:1
+odon 80r hzg do8:1
+80r hzg do8 :1
+hzg do8  8am:1
+do8  8am sdzcg:1
+ 8am sdzcg dzor:1
+8am sdzcg dzor tor:1
+sdzcg dzor tor scg:1
+dzor tor scg doe:1
+tor scg doe toe:1
+scg doe toe toe:1
+doe toe toe dor:1
+toe toe dor toe:1
+toe dor toe :1
+dor toe  so:1
+toe  so toe:1
+ so toe so8al:1
+so toe so8al dsg:1
+toe so8al dsg dtg:1
+so8al dsg dtg 8or:1
+dsg dtg 8or to8am:1
+dtg 8or to8am so:1
+8or to8am so docak:1
+to8am so docak :1
+so docak  gto:1
+docak  gto htcg:1
+ gto htcg tcdan:1
+gto htcg tcdan sco:1
+htcg tcdan sco psoe:1
+tcdan sco psoe 8g8g8:1
+sco psoe 8g8g8 hzg:1
+psoe 8g8g8 hzg 8aihzg:1
+8g8g8 hzg 8aihzg :1
+hzg 8aihzg  gho:1
+8aihzg  gho soe:1
+ gho soe sc:1
+gho soe sc do8scg:1
+soe sc do8scg pzcaeg:1
+sc do8scg pzcaeg 8aran:1
+do8scg pzcaeg 8aran 8an:1
+pzcaeg 8aran 8an dzg82:1
+8aran 8an dzg82 :1
+8an dzg82  8tar:1
+dzg82  8tar shzam:1
+ 8tar shzam odaiir:1
+8tar shzam odaiir tcg:1
+shzam odaiir tcg 2tg:1
+odaiir tcg 2tg pzhoe:1
+tcg 2tg pzhoe hzoe2:1
+2tg pzhoe hzoe2 8aocha:1
+pzhoe hzoe2 8aocha :1
+hzoe2 8aocha  sod:1
+8aocha  sod tor:1
+ sod tor tcg:1
+sod tor tcg 8an:1
+tor tcg 8an dzcg:1
+tcg 8an dzcg :1
+8an dzcg  ohoe:1
+dzcg  ohoe 8aim:1
+ ohoe 8aim :1
+ohoe 8aim  pzo:1
+8aim  pzo sam:1
+ pzo sam sodtccg:1
+pzo sam sodtccg toe:1
+sam sodtccg toe hso8cc2g:1
+sodtccg toe hso8cc2g scg:1
+toe hso8cc2g scg pg8ccg:1
+hso8cc2g scg pg8ccg tg:1
+scg pg8ccg tg ro8:1
+pg8ccg tg ro8 :1
+tg ro8  00on:1
+ro8  00on toe:1
+ 00on toe 8an:1
+00on toe 8an hzae:1
+toe 8an hzae 8ar:1
+8an hzae 8ar scar:1
+hzae 8ar scar dam:1
+8ar scar dam 8ar:1
+scar dam 8ar scg:1
+dam 8ar scg hzcar:1
+8ar scg hzcar :1
+scg hzcar  cto00:1
+hzcar  cto00 dam:1
+ cto00 dam soam:1
+cto00 dam soam odoe:1
+dam soam odoe 8am:1
+soam odoe 8am far:1
+odoe 8am far hzoe:1
+8am far hzoe 8am:1
+far hzoe 8am hzoe8ar:1
+hzoe 8am hzoe8ar :1
+8am hzoe8ar  gtccg:1
+hzoe8ar  gtccg odccg:1
+ gtccg odccg odg:1
+gtccg odccg odg 8am:1
+odccg odg 8am odtcg:1
+odg 8am odtcg dodam:1
+8am odtcg dodam 0toe:1
+odtcg dodam 0toe da8tg:1
+dodam 0toe da8tg 8ae:1
+0toe da8tg 8ae :1
+da8tg 8ae  8tco:1
+8ae  8tco so8g:1
+ 8tco so8g dotcg:1
+8tco so8g dotcg hzg:1
+so8g dotcg hzg odtcg:1
+dotcg hzg odtcg dccg:1
+hzg odtcg dccg dccg:1
+odtcg dccg dccg 8ae:1
+dccg dccg 8ae thor:1
+dccg 8ae thor :1
+8ae thor  0co:1
+thor  0co toe:1
+ 0co toe tod:1
+0co toe tod tohg:1
+toe tod tohg tohcg:1
+tod tohg tohcg :1
+tohg tohcg  8tam:1
+tohcg  8tam :1
+ 8tam  :1
+8tam   :1
+   dtrg:1
+  dtrg to8am:1
+ dtrg to8am oe:1
+dtrg to8am oe oehtcg:1
+to8am oe oehtcg tar:1
+oe oehtcg tar fzar:1
+oehtcg tar fzar ak:1
+tar fzar ak :1
+fzar ak  ghccg:1
+ak  ghccg tar:1
+ ghccg tar or:1
+ghccg tar or otg:1
+tar or otg 8to:1
+or otg 8to edo8g:1
+otg 8to edo8g odo8ar:1
+8to edo8g odo8ar to8g:1
+edo8g odo8ar to8g :1
+odo8ar to8g  8o:1
+to8g  8o dzg:1
+ 8o dzg dzo:1
+8o dzg dzo dzg:1
+dzg dzo dzg sg:1
+dzo dzg sg 8dsccg:1
+dzg sg 8dsccg hzg:1
+sg 8dsccg hzg dohto8g:1
+8dsccg hzg dohto8g 8ae:1
+hzg dohto8g 8ae :1
+dohto8g 8ae  8oe:1
+8ae  8oe todco:1
+ 8oe todco 8air:1
+8oe todco 8air 8ak:1
+todco 8air 8ak 2otcg:1
+8air 8ak 2otcg todo8g:1
+8ak 2otcg todo8g :1
+2otcg todo8g  pohog:1
+todo8g  pohog soe:1
+ pohog soe 8air:1
+pohog soe 8air pzoae:1
+soe 8air pzoae 8ar:1
+8air pzoae 8ar tcg:1
+pzoae 8ar tcg ho8g:1
+8ar tcg ho8g ohoam:1
+tcg ho8g ohoam sosg:1
+ho8g ohoam sosg :1
+ohoam sosg  todg:1
+sosg  todg toe:1
+ todg toe hzoe:1
+todg toe hzoe soe:1
+toe hzoe soe odae:1
+hzoe soe odae 8oetcg:1
+soe odae 8oetcg to8o:1
+odae 8oetcg to8o eoe:1
+8oetcg to8o eoe tg:1
+to8o eoe tg hzg:1
+eoe tg hzg :1
+tg hzg  4o:1
+hzg  4o oe:1
+ 4o oe toic2:1
+4o oe toic2 tcoe:1
+oe toic2 tcoe 8oe:1
+toic2 tcoe 8oe hzcg:1
+tcoe 8oe hzcg gdoe:1
+8oe hzcg gdoe 8oe:1
+hzcg gdoe 8oe 8oeo:1
+gdoe 8oe 8oeo gdoe:1
+8oe 8oeo gdoe 8oe:1
+8oeo gdoe 8oe to8g:1
+gdoe 8oe to8g :1
+8oe to8g  odoe:1
+to8g  odoe soe:1
+ odoe soe doe:1
+odoe soe doe dctg:1
+soe doe dctg toe:1
+doe dctg toe dg:1
+dctg toe dg toe:1
+toe dg toe hzoe:1
+dg toe hzoe to8g:1
+toe hzoe to8g toe:1
+hzoe to8g toe 8am:1
+to8g toe 8am :1
+toe 8am  sor:1
+8am  sor odoe:1
+ sor odoe toe:1
+sor odoe toe 8oe:1
+odoe toe 8oe dg:1
+toe 8oe dg 8ar:1
+8oe dg 8ar soe:1
+dg 8ar soe 8tor:1
+8ar soe 8tor ohto:1
+soe 8tor ohto 8ar:1
+8tor ohto 8ar so8g:1
+ohto 8ar so8g :1
+8ar so8g  haor:1
+so8g  haor tohtcg:1
+ haor tohtcg 8ae:1
+haor tohtcg 8ae to8g:1
+tohtcg 8ae to8g 2to8g:1
+8ae to8g 2to8g poe:1
+to8g 2to8g poe to8ar:1
+2to8g poe to8ar :1
+poe to8ar  :1
+to8ar   :1
+   dg8ang:1
+  dg8ang gptoe:1
+ dg8ang gptoe 8am:1
+dg8ang gptoe 8am ohtae:1
+gptoe 8am ohtae gptam:1
+8am ohtae gptam dzoe2g:1
+ohtae gptam dzoe2g :1
+gptam dzoe2g  8ortorg:1
+dzoe2g  8ortorg tdar:1
+ 8ortorg tdar 2:1
+8ortorg tdar 2 sor:1
+tdar 2 sor hzg:1
+2 sor hzg hzo:1
+sor hzg hzo :1
+hzg hzo  4oham:1
+hzo  4oham hzcg:1
+ 4oham hzcg g:1
+4oham hzcg g tor:1
+hzcg g tor tg:1
+g tor tg g8g:1
+tor tg g8g tam:1
+tg g8g tam :1
+g8g tam  saii8g:1
+tam  saii8g tho88g:1
+ saii8g tho88g pzg:1
+saii8g tho88g pzg 8ae2:1
+tho88g pzg 8ae2 todam:1
+pzg 8ae2 todam 8:1
+8ae2 todam 8 :1
+todam 8  ohotor:1
+8  ohotor ae:1
+ ohotor ae so8am:1
+ohotor ae so8am toe:1
+ae so8am toe 8al:1
+so8am toe 8al ghtam:1
+toe 8al ghtam 8al:1
+8al ghtam 8al :1
+ghtam 8al  2am:1
+8al  2am 8an8:1
+ 2am 8an8 8doe:1
+2am 8an8 8doe 2or:1
+8an8 8doe 2or ghoe8g:1
+8doe 2or ghoe8g 8toe:1
+2or ghoe8g 8toe 8tg:1
+ghoe8g 8toe 8tg hzg:1
+8toe 8tg hzg :1
+8tg hzg  sor:1
+hzg  sor dzg:1
+ sor dzg 8amg:1
+sor dzg 8amg toe:1
+dzg 8amg toe 8al:1
+8amg toe 8al :1
+toe 8al  dg8an:1
+8al  dg8an sam:1
+ dg8an sam 4og:1
+dg8an sam 4og 2:1
+sam 4og 2 soe:1
+4og 2 soe fo8al:1
+2 soe fo8al gds:1
+soe fo8al gds oesccg:1
+fo8al gds oesccg 8aiie8g:1
+gds oesccg 8aiie8g :1
+oesccg 8aiie8g  8e2so:1
+8aiie8g  8e2so doe:1
+ 8e2so doe sccg:1
+8e2so doe sccg 4odcg:1
+doe sccg 4odcg gdo8g:1
+sccg 4odcg gdo8g 2o:1
+4odcg gdo8g 2o toe:1
+gdo8g 2o toe gdg:1
+2o toe gdg 8an:1
+toe gdg 8an 8aiiroe:1
+gdg 8an 8aiiroe :1
+8an 8aiiroe  4odg:1
+8aiiroe  4odg toeam:1
+ 4odg toeam soe:1
+4odg toeam soe scdg:1
+toeam soe scdg 8am:1
+soe scdg 8am hzcg:1
+scdg 8am hzcg dcoe:1
+8am hzcg dcoe 2:1
+hzcg dcoe 2 am:1
+dcoe 2 am 2am:1
+2 am 2am :1
+am 2am  gtan:1
+2am  gtan 8ae:1
+ gtan 8ae tg:1
+gtan 8ae tg 8aeor:1
+8ae tg 8aeor sal:1
+tg 8aeor sal 8al:1
+8aeor sal 8al oe2am:1
+sal 8al oe2am sccg:1
+8al oe2am sccg dzor:1
+oe2am sccg dzor :1
+sccg dzor  odoe:1
+dzor  odoe tg:1
+ odoe tg tor:1
+odoe tg tor hzor:1
+tg tor hzor gor:1
+tor hzor gor al:1
+hzor gor al tal:1
+gor al tal 2am:1
+al tal 2am tchg:1
+tal 2am tchg tgdg:1
+2am tchg tgdg 2ae:1
+tchg tgdg 2ae :1
+tgdg 2ae  so:1
+2ae  so gdccg:1
+ so gdccg tcg:1
+so gdccg tcg 8am:1
+gdccg tcg 8am thzg:1
+tcg 8am thzg :1
+8am thzg  :1
+thzg   :1
+   doom:2
+  doom tco:1
+ doom tco ptor:1
+doom tco ptor oham:1
+tco ptor oham o8an:1
+ptor oham o8an tor:1
+oham o8an tor 8air:1
+o8an tor 8air shg:1
+tor 8air shg :1
+8air shg  dto:1
+shg  dto dtg:1
+ dto dtg so:1
+dto dtg so soe:1
+dtg so soe 4ohto:1
+so soe 4ohto eoccc2:1
+soe 4ohto eoccc2 4ohg:1
+4ohto eoccc2 4ohg tor:1
+eoccc2 4ohg tor 8am:1
+4ohg tor 8am :1
+tor 8am  ohtg:1
+8am  ohtg tor:1
+ ohtg tor esg:1
+ohtg tor esg toe:1
+tor esg toe to8g:1
+esg toe to8g to8an:1
+toe to8g to8an thzg:1
+to8g to8an thzg 8am:1
+to8an thzg 8am :1
+thzg 8am  so:1
+8am  so toeo:1
+ so toeo tcor:1
+so toeo tcor to8am:1
+toeo tcor to8am :1
+tcor to8am  dtor:1
+to8am  dtor sg:1
+ dtor sg 8aim:1
+dtor sg 8aim tdzog:1
+sg 8aim tdzog 2:1
+8aim tdzog 2 scg:1
+tdzog 2 scg 8or:1
+2 scg 8or toe:1
+scg 8or toe 8am:1
+8or toe 8am :1
+toe 8am  8or:1
+8am  8or toe:1
+ 8or toe tor:1
+8or toe tor toe:1
+toe tor toe dcoe:1
+tor toe dcoe tg:1
+toe dcoe tg thg:1
+dcoe tg thg 8am:1
+tg thg 8am ohtor:1
+thg 8am ohtor tal:1
+8am ohtor tal :1
+ohtor tal  8am:1
+tal  8am tohtcg:1
+ 8am tohtcg 4ohcccg:1
+8am tohtcg 4ohcccg todco2:1
+tohtcg 4ohcccg todco2 tcc2:1
+4ohcccg todco2 tcc2 tr:1
+todco2 tcc2 tr tcam:1
+tcc2 tr tcam :1
+tr tcam  todoisc:1
+tcam  todoisc tor:1
+ todoisc tor tcoe:1
+todoisc tor tcoe toe:1
+tor tcoe toe 8oeo8g:1
+tcoe toe 8oeo8g :1
+toe 8oeo8g  :1
+8oeo8g   :1
+   hsco2:1
+  hsco2 4opae:1
+ hsco2 4opae toe:1
+hsco2 4opae toe hzoe:1
+4opae toe hzoe 8aikk:1
+toe hzoe 8aikk :1
+hzoe 8aikk  gtcor:1
+8aikk  gtcor tor:1
+ gtcor tor 8ak:1
+gtcor tor 8ak 4ohtak:1
+tor 8ak 4ohtak tak:1
+8ak 4ohtak tak :1
+4ohtak tak  otor:1
+tak  otor 4otcor:1
+ otor 4otcor toe:1
+otor 4otcor toe 8am:1
+4otcor toe 8am hzg:1
+toe 8am hzg :2
+8am hzg  2tcg:2
+hzg  2tcg tor:1
+ 2tcg tor tae:1
+2tcg tor tae tak:1
+tor tae tak tak:1
+tae tak tak to:1
+tak tak to :1
+tak to  4odoe:1
+to  4odoe toeoeg:1
+ 4odoe toeoeg 2:1
+4odoe toeoeg 2 tak:1
+toeoeg 2 tak hzoe:1
+2 tak hzoe :1
+tak hzoe  gtham:1
+hzoe  gtham tor:1
+ gtham tor hzok:1
+gtham tor hzok ohae:1
+tor hzok ohae 8ak:1
+hzok ohae 8ak :1
+ohae 8ak  ohtoe:1
+8ak  ohtoe 4o8am:1
+ ohtoe 4o8am tok:1
+ohtoe 4o8am tok sok:1
+4o8am tok sok 8ako:1
+tok sok 8ako :1
+sok 8ako  gscor:1
+8ako  gscor tor:1
+ gscor tor toe:1
+gscor tor toe odg:1
+tor toe odg 8ako:1
+toe odg 8ako :1
+odg 8ako  so:1
+8ako  so 0or:1
+ so 0or scoe8ak:1
+so 0or scoe8ak ohto8g:1
+0or scoe8ak ohto8g oe:1
+scoe8ak ohto8g oe :1
+ohto8g oe  g8ar:1
+oe  g8ar toe:1
+ g8ar toe hzok:1
+g8ar toe hzok :1
+toe hzok  ptcoe:1
+hzok  ptcoe soe:1
+ ptcoe soe 2oe2:1
+ptcoe soe 2oe2 scoe:1
+soe 2oe2 scoe scg:1
+2oe2 scoe scg :1
+scoe scg  oda8am:1
+scg  oda8am 4odtor:1
+ oda8am 4odtor 4o2to8ak:1
+oda8am 4odtor 4o2to8ak ohzg:1
+4odtor 4o2to8ak ohzg :1
+4o2to8ak ohzg  4odccg:1
+ohzg  4odccg 4ohscg:1
+ 4odccg 4ohscg 4odo8g:1
+4odccg 4ohscg 4odo8g 4odtcg:1
+4ohscg 4odo8g 4odtcg tco8g:1
+4odo8g 4odtcg tco8g :1
+4odtcg tco8g  tor:1
+tco8g  tor 4o8air:1
+ tor 4o8air odccg:1
+tor 4o8air odccg 4odccg:1
+4o8air odccg 4odccg :1
+odccg 4odccg  hscoarok:1
+4odccg  hscoarok sor:1
+ hscoarok sor or:1
+hscoarok sor or tor:1
+sor or tor oft2g:1
+or tor oft2g tok:1
+tor oft2g tok ohtok:1
+oft2g tok ohtok oporar:1
+tok ohtok oporar :1
+ohtok oporar  ohcoe:1
+oporar  ohcoe toe:1
+ ohcoe toe 2:1
+ohcoe toe 2 tcoe:1
+toe 2 tcoe cdsg:1
+2 tcoe cdsg 4odcok:1
+tcoe cdsg 4odcok 4odoe:1
+cdsg 4odcok 4odoe 8am:1
+4odcok 4odoe 8am 2oecck:1
+4odoe 8am 2oecck :1
+8am 2oecck  2ocok:1
+2oecck  2ocok odcok:1
+ 2ocok odcok ghco8g:1
+2ocok odcok ghco8g 4odcco:1
+odcok ghco8g 4odcco 8ae:1
+ghco8g 4odcco 8ae 2ak:1
+4odcco 8ae 2ak :1
+8ae 2ak  ptcoe8ok:1
+2ak  ptcoe8ok so8am:1
+ ptcoe8ok so8am 4optor:1
+ptcoe8ok so8am 4optor 4opoe:1
+so8am 4optor 4opoe optoe:1
+4optor 4opoe optoe 4ohg:1
+4opoe optoe 4ohg ohoeok:1
+optoe 4ohg ohoeok :1
+4ohg ohoeok  ohtor:1
+ohoeok  ohtor oe:1
+ ohtor oe tcor:1
+ohtor oe tcor 4ocor:1
+oe tcor 4ocor 8air:1
+tcor 4ocor 8air 4ohcoe:1
+4ocor 8air 4ohcoe 4o2am:1
+8air 4ohcoe 4o2am tor:1
+4ohcoe 4o2am tor hzg:1
+4o2am tor hzg :1
+tor hzg  gtcor:1
+hzg  gtcor toe:1
+ gtcor toe o8am:1
+gtcor toe o8am toe:1
+toe o8am toe 2am:1
+o8am toe 2am odoeor:1
+toe 2am odoeor ak:1
+2am odoeor ak :1
+odoeor ak  :1
+ak   :1
+   doam:1
+  doam pzor:1
+ doam pzor 4ohog:1
+doam pzor 4ohog sa:1
+pzor 4ohog sa dzoe:1
+4ohog sa dzoe gdoam:1
+sa dzoe gdoam 2:1
+dzoe gdoam 2 oeg:1
+gdoam 2 oeg :1
+2 oeg  8aii8g:1
+oeg  8aii8g 4ohccoe:1
+ 8aii8g 4ohccoe odtor:1
+8aii8g 4ohccoe odtor odor:1
+4ohccoe odtor odor oeghoe:1
+odtor odor oeghoe 8oe:1
+odor oeghoe 8oe 8ar:1
+oeghoe 8oe 8ar :1
+8oe 8ar  odok:1
+8ar  odok toe:1
+ odok toe soe:1
+odok toe soe 2ccc2:1
+toe soe 2ccc2 tok:1
+soe 2ccc2 tok tccgdak:1
+2ccc2 tok tccgdak odai0:1
+tok tccgdak odai0 :1
+tccgdak odai0  4o8ar:1
+odai0  4o8ar cc2:1
+ 4o8ar cc2 ccg:1
+4o8ar cc2 ccg dtcoe:1
+cc2 ccg dtcoe odae:1
+ccg dtcoe odae 8or:1
+dtcoe odae 8or tcar:1
+odae 8or tcar ccl:1
+8or tcar ccl :1
+tcar ccl  gcccar:1
+ccl  gcccar ohtae:1
+ gcccar ohtae ccor:1
+gcccar ohtae ccor ccar:1
+ohtae ccor ccar dzg:1
+ccor ccar dzg :1
+ccar dzg  or:1
+dzg  or tcor:1
+ or tcor dor:1
+or tcor dor to8aeg:1
+tcor dor to8aeg tok:1
+dor to8aeg tok :1
+to8aeg tok  htor:1
+tok  htor ohtak:1
+ htor ohtak tor:1
+htor ohtak tor fzak:1
+ohtak tor fzak 2:1
+tor fzak 2 :1
+fzak 2  gdtg:1
+2  gdtg dtok:1
+ gdtg dtok tor:1
+gdtg dtok tor tcdcoe:1
+dtok tor tcdcoe oda:1
+tor tcdcoe oda :1
+tcdcoe oda  ghtccar:1
+oda  ghtccar odcoe:1
+ ghtccar odcoe hzo8oaeg:1
+ghtccar odcoe hzo8oaeg tor:1
+odcoe hzo8oaeg tor hzg:1
+hzo8oaeg tor hzg :1
+tor hzg  otor:1
+hzg  otor 8am:1
+ otor 8am 4odsoe:1
+otor 8am 4odsoe 8aiik:1
+8am 4odsoe 8aiik toe:1
+4odsoe 8aiik toe odarg:1
+8aiik toe odarg :1
+toe odarg  so:1
+odarg  so sodzo:1
+ so sodzo dzg:1
+so sodzo dzg htor:1
+sodzo dzg htor to8am:1
+dzg htor to8am tok:1
+htor to8am tok :1
+to8am tok  os:1
+tok  os to8air:1
+ os to8air ghtg:1
+os to8air ghtg htor:1
+to8air ghtg htor dtak:1
+ghtg htor dtak 2:1
+htor dtak 2 :1
+dtak 2  sar:1
+2  sar sdam:1
+ sar sdam 4odtg:1
+sar sdam 4odtg ghg:1
+sdam 4odtg ghg hzae:1
+4odtg ghg hzae tdg:1
+ghg hzae tdg :1
+hzae tdg  8an:1
+tdg  8an scak:1
+ 8an scak ghcak:1
+8an scak ghcak :1
+scak ghcak  :1
+ghcak   :1
+   do8aetg:1
+  do8aetg tpa8g:1
+ do8aetg tpa8g scoe:1
+do8aetg tpa8g scoe oe:1
+tpa8g scoe oe sccg:1
+scoe oe sccg 4ohcg:1
+oe sccg 4ohcg 8om:1
+sccg 4ohcg 8om tor:1
+4ohcg 8om tor ghog:1
+8om tor ghog :1
+tor ghog  8tor:1
+ghog  8tor toe:1
+ 8tor toe soe:1
+8tor toe soe hzoe:1
+toe soe hzoe shtg:1
+soe hzoe shtg tam:1
+hzoe shtg tam 2:1
+shtg tam 2 toram:1
+tam 2 toram tok:1
+2 toram tok :1
+toram tok  ohtoe:1
+tok  ohtoe toe:1
+ ohtoe toe tg:1
+ohtoe toe tg tam:1
+toe tg tam 4oham:1
+tg tam 4oham 8am:1
+tam 4oham 8am san:1
+4oham 8am san :1
+8am san  4ohtoe:1
+san  4ohtoe tg:1
+ 4ohtoe tg ghg:1
+4ohtoe tg ghg 8am:1
+tg ghg 8am odam:1
+ghg 8am odam hzg:1
+8am odam hzg :1
+odam hzg  pg8am:1
+hzg  pg8am 4ohtg:1
+ pg8am 4ohtg 8g:1
+pg8am 4ohtg 8g hg8g:1
+4ohtg 8g hg8g :1
+8g hg8g  tor:1
+hg8g  tor sg:1
+ tor sg htg:1
+tor sg htg 8g:1
+sg htg 8g htccg:1
+htg 8g htccg :1
+8g htccg  4oham:1
+htccg  4oham hzoe:1
+ 4oham hzoe 8am:1
+4oham hzoe 8am hzok:1
+hzoe 8am hzok :1
+8am hzok  tor:1
+hzok  tor toe:1
+ tor toe soe:1
+tor toe soe hzg:1
+toe soe hzg pzoe8g:1
+soe hzg pzoe8g :1
+hzg pzoe8g  8am:1
+pzoe8g  8am dzotg:1
+ 8am dzotg htg:1
+8am dzotg htg doram:1
+dzotg htg doram :1
+htg doram  o8ae:1
+doram  o8ae sor:1
+ o8ae sor sgsoe:1
+o8ae sor sgsoe pzam:1
+sor sgsoe pzam :1
+sgsoe pzam  4ohtom:1
+pzam  4ohtom scar:1
+ 4ohtom scar 4ohg:1
+4ohtom scar 4ohg :1
+scar 4ohg  2om:1
+4ohg  2om tam:1
+ 2om tam tam:1
+2om tam tam :1
+tam tam  8am:1
+tam  8am hzcg:1
+ 8am hzcg :1
+8am hzcg  :1
+hzcg   :1
+   ptoom:1
+  ptoom dsca:1
+ ptoom dsca dtog:1
+ptoom dsca dtog taptg:1
+dsca dtog taptg 8oe82:1
+dtog taptg 8oe82 8eo8:1
+taptg 8oe82 8eo8 :1
+8oe82 8eo8  oetcg:1
+8eo8  oetcg tg:1
+ oetcg tg hzg:1
+oetcg tg hzg sdtor:1
+tg hzg sdtor sco:1
+hzg sdtor sco tcorg:1
+sdtor sco tcorg toe8g:1
+sco tcorg toe8g :1
+tcorg toe8g  so:1
+toe8g  so so:1
+ so so tam:1
+so so tam sam:1
+so tam sam 8am:1
+tam sam 8am 4o8am:1
+sam 8am 4o8am oarak:1
+8am 4o8am oarak :1
+4o8am oarak  4odsg:1
+oarak  4odsg 4ohzg:1
+ 4odsg 4ohzg tohcoe:1
+4odsg 4ohzg tohcoe 8am:1
+4ohzg tohcoe 8am hzcg:1
+tohcoe 8am hzcg toam:1
+8am hzcg toam :1
+hzcg toam  sor:1
+toam  sor sccg:1
+ sor sccg hzx:1
+sor sccg hzx ohom:1
+sccg hzx ohom scg:1
+hzx ohom scg 4ohtom:1
+ohom scg 4ohtom to8an:1
+scg 4ohtom to8an :1
+4ohtom to8an  ghtog:1
+to8an  ghtog sodtg:1
+ ghtog sodtg pz:1
+ghtog sodtg pz o8g:1
+sodtg pz o8g :1
+pz o8g  hortg:1
+o8g  hortg sccor:1
+ hortg sccor tor:1
+hortg sccor tor todtg:1
+sccor tor todtg pzg8g:1
+tor todtg pzg8g :1
+todtg pzg8g  oecl:1
+pzg8g  oecl tor:1
+ oecl tor hzoe:1
+oecl tor hzoe so:1
+tor hzoe so ohor:1
+hzoe so ohor hzorg:1
+so ohor hzorg :1
+ohor hzorg  4oodo:1
+hzorg  4oodo iintcok:1
+ 4oodo iintcok thzg:1
+4oodo iintcok thzg sodg:1
+iintcok thzg sodg 8am:1
+thzg sodg 8am :1
+sodg 8am  oham:1
+8am  oham sco:1
+ oham sco odco8g:1
+oham sco odco8g toe:1
+sco odco8g toe todco8g:1
+odco8g toe todco8g :1
+toe todco8g  so:1
+todco8g  so dtcor:1
+ so dtcor so8g:1
+so dtcor so8g sham:1
+dtcor so8g sham 4ohoe:1
+so8g sham 4ohoe 8am:1
+sham 4ohoe 8am :1
+4ohoe 8am  4odcg:1
+8am  4odcg so:1
+ 4odcg so odcoe:1
+4odcg so odcoe 2:1
+so odcoe 2 dccg:1
+odcoe 2 dccg sar:1
+2 dccg sar tar:1
+dccg sar tar o8g:1
+sar tar o8g :1
+tar o8g  so8g:1
+o8g  so8g 2:1
+ so8g 2 tcor:1
+so8g 2 tcor todo8g:1
+2 tcor todo8g so8am:1
+tcor todo8g so8am 4ohg:1
+todo8g so8am 4ohg :1
+so8am 4ohg  oto8g:1
+4ohg  oto8g tg:1
+ oto8g tg dcg:1
+oto8g tg dcg tho8g:1
+tg dcg tho8g :1
+dcg tho8g  :1
+tho8g   :1
+   dso8g:2
+  dso8g ptog:1
+ dso8g ptog tdog:1
+dso8g ptog tdog oam:1
+ptog tdog oam oar:1
+tdog oam oar oe2g:1
+oam oar oe2g to8g:1
+oar oe2g to8g 8dsg:1
+oe2g to8g 8dsg 8g:1
+to8g 8dsg 8g :1
+8dsg 8g  otcg:1
+8g  otcg odcg:1
+ otcg odcg 4odam:1
+otcg odcg 4odam so:1
+odcg 4odam so dzog:1
+4odam so dzog hzcg:1
+so dzog hzcg tcg:1
+dzog hzcg tcg od00or:1
+hzcg tcg od00or ohoe:1
+tcg od00or ohoe :1
+od00or ohoe  4oam:1
+ohoe  4oam ohal:1
+ 4oam ohal tg:1
+4oam ohal tg 8am:1
+ohal tg 8am ohcccl:1
+tg 8am ohcccl to:1
+8am ohcccl to hzg:1
+ohcccl to hzg ohtg:1
+to hzg ohtg 4ohto8g:1
+hzg ohtg 4ohto8g :1
+ohtg 4ohto8g  ohan:1
+4ohto8g  ohan sco8g:1
+ ohan sco8g tal:1
+ohan sco8g tal 2:1
+sco8g tal 2 tcor:1
+tal 2 tcor tohzg:1
+2 tcor tohzg :1
+tcor tohzg  hsg:1
+tohzg  hsg so8g:1
+ hsg so8g 4oam:1
+hsg so8g 4oam toeoe2:1
+so8g 4oam toeoe2 so:1
+4oam toeoe2 so 4ohtco:1
+toeoe2 so 4ohtco 8am:1
+so 4ohtco 8am so8am:1
+4ohtco 8am so8am :1
+8am so8am  so:1
+so8am  so tcor:1
+ so tcor tcg:1
+so tcor tcg 4occcg:1
+tcor tcg 4occcg 4ogdcccg:1
+tcg 4occcg 4ogdcccg 4ocor:1
+4occcg 4ogdcccg 4ocor hzg:1
+4ogdcccg 4ocor hzg sohsg:1
+4ocor hzg sohsg 8g:1
+hzg sohsg 8g :1
+sohsg 8g  4ohoccg:1
+8g  4ohoccg dccg:1
+ 4ohoccg dccg tco:1
+4ohoccg dccg tco dtg:1
+dccg tco dtg so8g:1
+tco dtg so8g :1
+dtg so8g  :1
+so8g   :1
+   d:1
+  d o:1
+ d o tcor:1
+d o tcor tor:1
+o tcor tor ghtcg:1
+tcor tor ghtcg pso8:1
+tor ghtcg pso8 toe2:1
+ghtcg pso8 toe2 to8am:1
+pso8 toe2 to8am ghoim:1
+toe2 to8am ghoim 8am:1
+to8am ghoim 8am :1
+ghoim 8am  8toe:1
+8am  8toe sg:1
+ 8toe sg toe:1
+8toe sg toe oham:1
+sg toe oham 8an:1
+toe oham 8an hzor:1
+oham 8an hzor toh2:1
+8an hzor toh2 gtopor8k:1
+hzor toh2 gtopor8k :1
+toh2 gtopor8k  4ohto:1
+gtopor8k  4ohto ghor:1
+ 4ohto ghor 8am:1
+4ohto ghor 8am 8am:1
+ghor 8am 8am ohtor:1
+8am 8am ohtor 8am:1
+8am ohtor 8am 4o:1
+ohtor 8am 4o 8artor:1
+8am 4o 8artor 8o:1
+4o 8artor 8o :1
+8artor 8o  4ohor:1
+8o  4ohor scc2:1
+ 4ohor scc2 ohof:1
+4ohor scc2 ohof gdom:1
+scc2 ohof gdom soe:1
+ohof gdom soe 8am:1
+gdom soe 8am hzor:1
+soe 8am hzor odtg:1
+8am hzor odtg ham:1
+hzor odtg ham :1
+odtg ham  sodccoe:1
+ham  sodccoe tor:1
+ sodccoe tor tcohoe:1
+sodccoe tor tcohoe ohtoe:1
+tor tcohoe ohtoe 8am:1
+tcohoe ohtoe 8am 8ae:1
+ohtoe 8am 8ae toe:1
+8am 8ae toe toham:1
+8ae toe toham :1
+toe toham  ohof:1
+toham  ohof toe:1
+ ohof toe 8airo88:1
+ohof toe 8airo88 :1
+toe 8airo88  :1
+8airo88   :1
+   foar:1
+  foar g:1
+ foar g soe:1
+foar g soe toeor:1
+g soe toeor pzoe:1
+soe toeor pzoe tor:1
+toeor pzoe tor tdz:1
+pzoe tor tdz toptoe:1
+tor tdz toptoe ohtak:1
+tdz toptoe ohtak :1
+toptoe ohtak  8am:1
+ohtak  8am tdzg:1
+ 8am tdzg tor:1
+8am tdzg tor tor:1
+tdzg tor tor dar:1
+tor tor dar hzg:1
+tor dar hzg hzor:1
+dar hzg hzor tohoe2:1
+hzg hzor tohoe2 :1
+hzor tohoe2  poccar:1
+tohoe2  poccar dsor:1
+ poccar dsor todg:1
+poccar dsor todg o2:1
+dsor todg o2 tcocc2:1
+todg o2 tcocc2 gdcor:1
+o2 tcocc2 gdcor gham:1
+tcocc2 gdcor gham 8ak:1
+gdcor gham 8ak :1
+gham 8ak  8ar:1
+8ak  8ar to:1
+ 8ar to 2:1
+8ar to 2 scor:1
+to 2 scor tohzg:1
+2 scor tohzg ohtak:1
+scor tohzg ohtak gaiir:1
+tohzg ohtak gaiir tg:1
+ohtak gaiir tg :1
+gaiir tg  har:1
+tg  har odom:1
+ har odom scc2:1
+har odom scc2 ghaeg:1
+odom scc2 ghaeg hzam:1
+scc2 ghaeg hzam o8ak:1
+ghaeg hzam o8ak :1
+hzam o8ak  or:1
+o8ak  or ae:1
+ or ae 8am:1
+or ae 8am dzak:1
+ae 8am dzak odok:1
+8am dzak odok hzam:1
+dzak odok hzam g8am:1
+odok hzam g8am :1
+hzam g8am  8am:1
+g8am  8am 4o8am:1
+ 8am 4o8am to:1
+8am 4o8am to 2:1
+4o8am to 2 toe:1
+to 2 toe odam:1
+2 toe odam 2:1
+toe odam 2 :1
+odam 2  gtoe:1
+2  gtoe dzor:1
+ gtoe dzor ptar:1
+gtoe dzor ptar sca:1
+dzor ptar sca dzam:1
+ptar sca dzam :1
+sca dzam  8ar:1
+dzam  8ar sccoe:1
+ 8ar sccoe 2daiio8ar:1
+8ar sccoe 2daiio8ar oham:1
+sccoe 2daiio8ar oham torg:1
+2daiio8ar oham torg :1
+oham torg  htor:1
+torg  htor hzco8:1
+ htor hzco8 tg:1
+htor hzco8 tg sor:1
+hzco8 tg sor o8sc:1
+tg sor o8sc o8:1
+sor o8sc o8 :1
+o8sc o8  gtar:1
+o8  gtar oeta8:1
+ gtar oeta8 oetodam:1
+gtar oeta8 oetodam :1
+oeta8 oetodam  or:1
+oetodam  or soe:1
+ or soe hzok:1
+or soe hzok tor:1
+soe hzok tor hzg:1
+hzok tor hzg :1
+tor hzg  4ohzoe:1
+hzg  4ohzoe 4o8am:1
+ 4ohzoe 4o8am hzg:1
+4ohzoe 4o8am hzg :1
+4o8am hzg  gso:1
+hzg  gso ham:1
+ gso ham gdaiik:1
+gso ham gdaiik :1
+ham gdaiik  :1
+gdaiik   :1
+   doarg:1
+  doarg 2ar:1
+ doarg 2ar tccdar:1
+doarg 2ar tccdar 4oor:1
+2ar tccdar 4oor sor:1
+tccdar 4oor sor taptg:1
+4oor sor taptg 2:1
+sor taptg 2 tcar:1
+taptg 2 tcar tar:1
+2 tcar tar ohtg:1
+tcar tar ohtg :1
+tar ohtg  occ2:1
+ohtg  occ2 tor:1
+ occ2 tor tdzg:1
+occ2 tor tdzg 4ocdtar:1
+tor tdzg 4ocdtar tca2:1
+tdzg 4ocdtar tca2 o8am:1
+4ocdtar tca2 o8am dtcg:1
+tca2 o8am dtcg tor:1
+o8am dtcg tor tam:1
+dtcg tor tam :1
+tor tam  4oair:1
+tam  4oair dzg:1
+ 4oair dzg toe:1
+4oair dzg toe ootodzg:1
+dzg toe ootodzg tcdtog:1
+toe ootodzg tcdtog dzg:1
+ootodzg tcdtog dzg odoe:1
+tcdtog dzg odoe 2gto2:1
+dzg odoe 2gto2 :1
+odoe 2gto2  gtdzg:1
+2gto2  gtdzg ghtog:1
+ gtdzg ghtog 2o2:1
+gtdzg ghtog 2o2 g:1
+ghtog 2o2 g 8a8g:1
+2o2 g 8a8g 8tg:1
+g 8a8g 8tg 8cg:1
+8a8g 8tg 8cg odo8g:1
+8tg 8cg odo8g gho8g:1
+8cg odo8g gho8g :1
+odo8g gho8g  8an:1
+gho8g  8an s00:1
+ 8an s00 to8ak:1
+8an s00 to8ak 8ak:1
+s00 to8ak 8ak odor:1
+to8ak 8ak odor ohg:1
+8ak odor ohg 8oe:1
+odor ohg 8oe 8ok:1
+ohg 8oe 8ok :1
+8oe 8ok  hto8g:1
+8ok  hto8g sohzoe:1
+ hto8g sohzoe tohzg:1
+hto8g sohzoe tohzg 2:1
+sohzoe tohzg 2 :1
+tohzg 2  gto2:1
+2  gto2 gtoe:1
+ gto2 gtoe 8am:1
+gto2 gtoe 8am hzoe:1
+gtoe 8am hzoe 8oe:1
+8am hzoe 8oe :1
+hzoe 8oe  gtor:1
+8oe  gtor tor:1
+ gtor tor odtcg:1
+gtor tor odtcg 4odok:1
+tor odtcg 4odok :1
+odtcg 4odok  occo:1
+4odok  occo 8ae:1
+ occo 8ae tor:1
+occo 8ae tor hzok:1
+8ae tor hzok 2:1
+tor hzok 2 :1
+hzok 2  4odto8:1
+2  4odto8 gtcar:1
+ 4odto8 gtcar dt8g:1
+4odto8 gtcar dt8g :1
+gtcar dt8g  eor:1
+dt8g  eor tar:1
+ eor tar ohak:1
+eor tar ohak hzok:1
+tar ohak hzok 8g:1
+ohak hzok 8g :1
+hzok 8g  ghtor:1
+8g  ghtor sg:1
+ ghtor sg 4odak:1
+ghtor sg 4odak hzg:1
+sg 4odak hzg :1
+4odak hzg  go8am:1
+hzg  go8am hzg:1
+ go8am hzg 2:1
+go8am hzg 2 tor:1
+hzg 2 tor occ2:1
+2 tor occ2 or:1
+tor occ2 or :1
+occ2 or  4odor:1
+or  4odor toe:1
+ 4odor toe hzoe:1
+4odor toe hzoe htaeo8g:1
+toe hzoe htaeo8g :1
+hzoe htaeo8g  todzg:1
+htaeo8g  todzg 2:1
+ todzg 2 o2:1
+todzg 2 o2 tg:1
+2 o2 tg 2an:1
+o2 tg 2an or:1
+tg 2an or :1
+2an or  otg:1
+or  otg hzar:1
+ otg hzar hzar:1
+otg hzar hzar hzg:1
+hzar hzar hzg :1
+hzar hzg  gtam:1
+hzg  gtam dzae:1
+ gtam dzae hzo8ak:1
+gtam dzae hzo8ak 8g:1
+dzae hzo8ak 8g :1
+hzo8ak 8g  ghto:1
+8g  ghto hzoe:1
+ ghto hzoe tc2:1
+ghto hzoe tc2 hzor:1
+hzoe tc2 hzor :1
+tc2 hzor  otoeg:1
+hzor  otoeg dtor:1
+ otoeg dtor tg:1
+otoeg dtor tg 8or:1
+dtor tg 8or :1
+tg 8or  8tor:1
+8or  8tor toe8ar:1
+ 8tor toe8ar odoe:1
+8tor toe8ar odoe 8am:1
+toe8ar odoe 8am :1
+odoe 8am  gtcor:1
+8am  gtcor tor:1
+ gtcor tor ohzak:1
+gtcor tor ohzak :1
+tor ohzak  :1
+ohzak   :1
+   fto8am:1
+  fto8am toptcg:1
+ fto8am toptcg 4do:1
+fto8am toptcg 4do tcg:1
+toptcg 4do tcg 4oo2:1
+4do tcg 4oo2 sccg:1
+tcg 4oo2 sccg torotg:1
+4oo2 sccg torotg :1
+sccg torotg  8tccg:1
+torotg  8tccg dcor:1
+ 8tccg dcor tor:1
+8tccg dcor tor 8oe8:1
+dcor tor 8oe8 8tcg:1
+tor 8oe8 8tcg dtcg:1
+8oe8 8tcg dtcg ohtg:1
+8tcg dtcg ohtg tco8g:1
+dtcg ohtg tco8g :1
+ohtg tco8g  otcc2:1
+tco8g  otcc2 tco8am:1
+ otcc2 tco8am sccg:1
+otcc2 tco8am sccg ghtccg:1
+tco8am sccg ghtccg 4ohtg:1
+sccg ghtccg 4ohtg tae8:1
+ghtccg 4ohtg tae8 :1
+4ohtg tae8  4odto:1
+tae8  4odto to:1
+ 4odto to eotcg:1
+4odto to eotcg 8am:1
+to eotcg 8am gtcg:1
+eotcg 8am gtcg dto2:1
+8am gtcg dto2 o8am:1
+gtcg dto2 o8am :1
+dto2 o8am  oan2:1
+o8am  oan2 oham:1
+ oan2 oham :1
+oan2 oham  dsoeo:1
+oham  dsoeo tcg:1
+ dsoeo tcg 4ohocc2:1
+dsoeo tcg 4ohocc2 tdoe8g:1
+tcg 4ohocc2 tdoe8g ohtor:1
+4ohocc2 tdoe8g ohtor toam:1
+tdoe8g ohtor toam :1
+ohtor toam  8sog:1
+toam  8sog hzoe:1
+ 8sog hzoe toe:1
+8sog hzoe toe ohtoe:1
+hzoe toe ohtoe 8an:1
+toe ohtoe 8an so8g:1
+ohtoe 8an so8g soe:1
+8an so8g soe tohtg:1
+so8g soe tohtg :1
+soe tohtg  odtcg:1
+tohtg  odtcg 8cccc2c:1
+ odtcg 8cccc2c tohg:1
+odtcg 8cccc2c tohg 4odtg:1
+8cccc2c tohg 4odtg soe:1
+tohg 4odtg soe dccg:1
+4odtg soe dccg tohg:1
+soe dccg tohg 8an:1
+dccg tohg 8an :1
+tohg 8an  4odctg:1
+8an  4odctg oetom:1
+ 4odctg oetom toe:1
+4odctg oetom toe pzcg:1
+oetom toe pzcg sdzg:1
+toe pzcg sdzg totg:1
+pzcg sdzg totg dto8:1
+sdzg totg dto8 :1
+totg dto8  2tan:1
+dto8  2tan tor:1
+ 2tan tor 8am:1
+2tan tor 8am tdzg:1
+tor 8am tdzg :1
+8am tdzg  :1
+tdzg   :1
+   poegsg:1
+  poegsg scg:1
+ poegsg scg hto8g:1
+poegsg scg hto8g 4optg:1
+scg hto8g 4optg ohsoe:1
+hto8g 4optg ohsoe 8g:1
+4optg ohsoe 8g 8am:1
+ohsoe 8g 8am hso8o8g:1
+8g 8am hso8o8g :1
+8am hso8o8g  totg:1
+hso8o8g  totg hzg:1
+ totg hzg 8am:1
+totg hzg 8am 4odg:1
+hzg 8am 4odg tpzcg:1
+8am 4odg tpzcg 8am:1
+4odg tpzcg 8am hzoe:1
+tpzcg 8am hzoe hzg:1
+8am hzoe hzg hz8:1
+hzoe hzg hz8 :1
+hzg hz8  4odtg:1
+hz8  4odtg 8g:1
+ 4odtg 8g dtg:1
+4odtg 8g dtg tdccg:1
+8g dtg tdccg dsg:1
+dtg tdccg dsg dg:1
+tdccg dsg dg hg:1
+dsg dg hg 8or:1
+dg hg 8or tccg:1
+hg 8or tccg oe:1
+8or tccg oe tcoe8g:1
+tccg oe tcoe8g :1
+oe tcoe8g  tohcccl:1
+tcoe8g  tohcccl otar:1
+ tohcccl otar to2tg:1
+tohcccl otar to2tg 8an:1
+otar to2tg 8an so:1
+to2tg 8an so dsg:1
+8an so dsg soe:1
+so dsg soe 8ccc2:1
+dsg soe 8ccc2 8oe:1
+soe 8ccc2 8oe :1
+8ccc2 8oe  8to8am:1
+8oe  8to8am 4ohtg:1
+ 8to8am 4ohtg tccg:1
+8to8am 4ohtg tccg htccg:1
+4ohtg tccg htccg :1
+tccg htccg  dtor:1
+htccg  dtor sco8:1
+ dtor sco8 sco8am:1
+dtor sco8 sco8am so:1
+sco8 sco8am so 8am:1
+sco8am so 8am odso:1
+so 8am odso esoe:1
+8am odso esoe 8air:1
+odso esoe 8air 4o2:1
+esoe 8air 4o2 :1
+8air 4o2  odso:1
+4o2  odso 8cccl:1
+ odso 8cccl tor:1
+odso 8cccl tor tcor:1
+8cccl tor tcor o8am:1
+tor tcor o8am soht:1
+tcor o8am soht 8oe:1
+o8am soht 8oe 8oe:1
+soht 8oe 8oe 8oram:1
+8oe 8oe 8oram :1
+8oe 8oram  4ohccco:1
+8oram  4ohccco rto:1
+ 4ohccco rto tcco8g:1
+4ohccco rto tcco8g 4ohtcg:1
+rto tcco8g 4ohtcg hcg:1
+tcco8g 4ohtcg hcg odtor:1
+4ohtcg hcg odtor 8am:1
+hcg odtor 8am :1
+odtor 8am  so:1
+8am  so dcco:1
+ so dcco 8aiir:1
+so dcco 8aiir todtg:1
+dcco 8aiir todtg 8or:1
+8aiir todtg 8or 8coe:1
+todtg 8or 8coe 8g:1
+8or 8coe 8g 8oe:1
+8coe 8g 8oe 8am:1
+8g 8oe 8am :1
+8oe 8am  :1
+8am   :5
+   psoe:1
+  psoe tor:1
+ psoe tor ohsae:1
+psoe tor ohsae topg:1
+tor ohsae topg pzoe:1
+ohsae topg pzoe to8g:1
+topg pzoe to8g sg:1
+pzoe to8g sg fzo8ar:1
+to8g sg fzo8ar sor:1
+sg fzo8ar sor :1
+fzo8ar sor  hthg:1
+sor  hthg sdtcae2:1
+ hthg sdtcae2 so:1
+hthg sdtcae2 so odtc:1
+sdtcae2 so odtc 8o:1
+so odtc 8o 8tg:1
+odtc 8o 8tg 8an:1
+8o 8tg 8an ae:1
+8tg 8an ae :1
+8an ae  to8ar:1
+ae  to8ar sg:1
+ to8ar sg rg:1
+to8ar sg rg to8am:1
+sg rg to8am sodtg:1
+rg to8am sodtg tor:1
+to8am sodtg tor 8g:1
+sodtg tor 8g :1
+tor 8g  4ohor:1
+8g  4ohor tor:1
+ 4ohor tor tor:1
+4ohor tor tor sccg:1
+tor tor sccg 8toe:1
+tor sccg 8toe sc2c8:1
+sccg 8toe sc2c8 toftg:1
+8toe sc2c8 toftg 8ak:1
+sc2c8 toftg 8ak :1
+toftg 8ak  odtcg:1
+8ak  odtcg 8o:1
+ odtcg 8o r:1
+odtcg 8o r tcccg:1
+8o r tcccg 8g:1
+r tcccg 8g dg:1
+tcccg 8g dg 2to:1
+8g dg 2to tdg:1
+dg 2to tdg cdooam:1
+2to tdg cdooam tg:1
+tdg cdooam tg ham:1
+cdooam tg ham :1
+tg ham  hos:1
+ham  hos cdtccg:1
+ hos cdtccg doe:1
+hos cdtccg doe hoe8g:1
+cdtccg doe hoe8g sg:1
+doe hoe8g sg tochg:1
+hoe8g sg tochg tcco8g:1
+sg tochg tcco8g 2oe:1
+tochg tcco8g 2oe :1
+tcco8g 2oe  toho:1
+2oe  toho dtoal:1
+ toho dtoal toor:1
+toho dtoal toor 8an:1
+dtoal toor 8an :1
+toor 8an  8to:1
+8an  8to 8am:1
+ 8to 8am :2
+8to 8am  htocp:1
+8am  htocp to:1
+ htocp to ptccg:1
+htocp to ptccg ptcg:1
+to ptccg ptcg oftcg:1
+ptccg ptcg oftcg 8sccg:1
+ptcg oftcg 8sccg soe:1
+oftcg 8sccg soe 8am:1
+8sccg soe 8am sor:1
+soe 8am sor :1
+8am sor  8am:1
+sor  8am tccg:1
+ 8am tccg hcco8al:1
+8am tccg hcco8al 8g:1
+tccg hcco8al 8g tcohzg:1
+hcco8al 8g tcohzg odsco:1
+8g tcohzg odsco 8oe:1
+tcohzg odsco 8oe 8air:1
+odsco 8oe 8air :1
+8oe 8air  k:1
+8air  k soe:1
+ k soe tco8am:1
+k soe tco8am 8am:1
+soe tco8am 8am 8o:1
+tco8am 8am 8o ghto8g:1
+8am 8o ghto8g toh:1
+8o ghto8g toh tohg:1
+ghto8g toh tohg oharm:1
+toh tohg oharm :1
+tohg oharm  4oto8am:1
+oharm  4oto8am sohodo8g:1
+ 4oto8am sohodo8g tohoe:1
+4oto8am sohodo8g tohoe :1
+sohodo8g tohoe  ododto8:1
+tohoe  ododto8 :1
+ ododto8  k:1
+ododto8  k hzo:1
+ k hzo hzcg:1
+k hzo hzcg soe:1
+hzo hzcg soe tofg8g:1
+hzcg soe tofg8g so:1
+soe tofg8g so tcg:1
+tofg8g so tcg dscg:1
+so tcg dscg eo8g:1
+tcg dscg eo8g toeae:1
+dscg eo8g toeae :1
+eo8g toeae  8tcg:1
+toeae  8tcg dzoe:1
+ 8tcg dzoe toe:1
+8tcg dzoe toe tcg:1
+dzoe toe tcg ds2:1
+toe tcg ds2 tg:1
+tcg ds2 tg hz8am:1
+ds2 tg hz8am 8oe:1
+tg hz8am 8oe 8amrtg:1
+hz8am 8oe 8amrtg dzg:1
+8oe 8amrtg dzg :1
+8amrtg dzg  gtcg:1
+dzg  gtcg dtodtg:1
+ gtcg dtodtg t2cg:1
+gtcg dtodtg t2cg dtg:1
+dtodtg t2cg dtg 2tcam:1
+t2cg dtg 2tcam hzaitar:1
+dtg 2tcam hzaitar hzg:1
+2tcam hzaitar hzg 8ar:1
+hzaitar hzg 8ar :1
+hzg 8ar  odar:1
+8ar  odar :1
+ odar  :1
+odar   fzam:1
+  fzam tam:1
+ fzam tam ce:1
+fzam tam ce 8am:1
+tam ce 8am tor:1
+ce 8am tor ta:1
+8am tor ta rtcae:1
+tor ta rtcae tak:1
+ta rtcae tak :1
+rtcae tak  2air:1
+tak  2air tcan:1
+ 2air tcan pzoe:1
+2air tcan pzoe 8ar:1
+tcan pzoe 8ar soe:1
+pzoe 8ar soe dam:1
+8ar soe dam soe:1
+soe dam soe dam:1
+dam soe dam 8ai:1
+soe dam 8ai dak:1
+dam 8ai dak :1
+8ai dak  or:1
+dak  or todc2cg:1
+ or todc2cg scg:1
+or todc2cg scg odae:1
+todc2cg scg odae tae:1
+scg odae tae :1
+odae tae  2toe:1
+tae  2toe 2aik:1
+ 2toe 2aik :1
+2toe 2aik  :1
+2aik   :1
+   hzo8:1
+  hzo8 2oohz:1
+ hzo8 2oohz 2oe:1
+hzo8 2oohz 2oe soe:1
+2oohz 2oe soe ohoe:1
+2oe soe ohoe toe:1
+soe ohoe toe optcam:1
+ohoe toe optcam opg8am:1
+toe optcam opg8am 2am:1
+optcam opg8am 2am :1
+opg8am 2am  shzae:1
+2am  shzae 2ar:1
+ shzae 2ar tor:1
+shzae 2ar tor scam:1
+2ar tor scam sor:1
+tor scam sor tgdtg:1
+scam sor tgdtg oham:1
+sor tgdtg oham chg:1
+tgdtg oham chg :1
+oham chg  4o8g:1
+chg  4o8g tcae:1
+ 4o8g tcae 2g:1
+4o8g tcae 2g torg:1
+tcae 2g torg tcar:1
+2g torg tcar soe:1
+torg tcar soe tam:1
+tcar soe tam sam:1
+soe tam sam 8oear:1
+tam sam 8oear :1
+sam 8oear  8soe:1
+8oear  8soe soe:1
+ 8soe soe 8oe:1
+8soe soe 8oe tcal:1
+soe 8oe tcal hzar:1
+8oe tcal hzar scaeg:1
+tcal hzar scaeg 8am:1
+hzar scaeg 8am targ:1
+scaeg 8am targ :1
+8am targ  toe:1
+targ  toe toe:1
+ toe toe 8ar:1
+toe toe 8ar ohtar:1
+toe 8ar ohtar cham:1
+8ar ohtar cham hzoe:1
+ohtar cham hzoe 8ar:1
+cham hzoe 8ar :1
+hzoe 8ar  8am:1
+8ar  8am hzal:1
+ 8am hzal ghtg:1
+8am hzal ghtg tcg:1
+hzal ghtg tcg dam:1
+ghtg tcg dam 8an:1
+tcg dam 8an ar:1
+dam 8an ar :1
+8an ar  so:1
+ar  so dtoe:1
+ so dtoe 8ar:1
+so dtoe 8ar scg:1
+dtoe 8ar scg hzar:1
+8ar scg hzar tohan:1
+scg hzar tohan rg:1
+hzar tohan rg :1
+tohan rg  odtoe:1
+rg  odtoe ds:1
+ odtoe ds toe:1
+odtoe ds toe toe:1
+ds toe toe toe:1
+toe toe toe hzam:1
+toe toe hzam 8an:1
+toe hzam 8an :1
+hzam 8an  soe:1
+8an  soe orte:1
+ soe orte todtg:1
+soe orte todtg toe:1
+orte todtg toe hzor:1
+todtg toe hzor tam:1
+toe hzor tam :1
+hzor tam  2tartg:1
+tam  2tartg occ2o8g:1
+ 2tartg occ2o8g dtcg:1
+2tartg occ2o8g dtcg ptg:1
+occ2o8g dtcg ptg pzarok:1
+dtcg ptg pzarok :1
+ptg pzarok  2oran:1
+pzarok  2oran :1
+ 2oran  ptar:1
+2oran  ptar to:1
+ ptar to roe:1
+ptar to roe 8ae:1
+to roe 8ae scar:1
+roe 8ae scar tccoham:1
+8ae scar tccoham tae:1
+scar tccoham tae 8am:1
+tccoham tae 8am :1
+tae 8am  dtor:1
+8am  dtor ohtar:1
+ dtor ohtar odg:1
+dtor ohtar odg todan:1
+ohtar odg todan dcodg:1
+odg todan dcodg ohortg:1
+todan dcodg ohortg 2ahar:1
+dcodg ohortg 2ahar :1
+ohortg 2ahar  sor:1
+2ahar  sor odoe:1
+ sor odoe eodam:1
+sor odoe eodam soe:1
+odoe eodam soe doe:1
+eodam soe doe tar:1
+soe doe tar hzcg:1
+doe tar hzcg htg:1
+tar hzcg htg dzak:1
+hzcg htg dzak :1
+htg dzak  or:1
+dzak  or toe:1
+ or toe tm:1
+or toe tm tcdg:1
+toe tm tcdg tor:1
+tm tcdg tor tcan:1
+tcdg tor tcan tar:1
+tor tcan tar tccdg:1
+tcan tar tccdg tor:1
+tar tccdg tor rg:1
+tccdg tor rg :1
+tor rg  tor:1
+rg  tor tcor:1
+ tor tcor tcar:1
+tor tcor tcar ohccg:1
+tcor tcar ohccg 8tor:1
+tcar ohccg 8tor to8cg:1
+ohccg 8tor to8cg to:1
+8tor to8cg to ram:1
+to8cg to ram :1
+to ram  8an:1
+ram  8an tcar:1
+ 8an tcar 8am:1
+8an tcar 8am :1
+tcar 8am  :1
+   hg8eo:1
+  hg8eo toeg:1
+ hg8eo toeg hzor:1
+hg8eo toeg hzor ortcg:1
+toeg hzor ortcg 2sg:1
+hzor ortcg 2sg o8am:1
+ortcg 2sg o8am 2arg:1
+2sg o8am 2arg sor:1
+o8am 2arg sor hzg:1
+2arg sor hzg :1
+sor hzg  ogdccg:1
+hzg  ogdccg toe:1
+ ogdccg toe gham:1
+ogdccg toe gham odto8g:1
+toe gham odto8g hocodg:1
+gham odto8g hocodg odom:1
+odto8g hocodg odom 8g:1
+hocodg odom 8g or:1
+odom 8g or tam:1
+8g or tam :1
+or tam  hom:1
+tam  hom pzg:1
+ hom pzg 4oho8:1
+hom pzg 4oho8 oham:1
+pzg 4oho8 oham hzg:1
+4oho8 oham hzg odor:1
+oham hzg odor tcg:1
+hzg odor tcg hzo8:1
+odor tcg hzo8 r:1
+tcg hzo8 r :1
+hzo8 r  ak:1
+r  ak gsg:1
+ ak gsg to:1
+ak gsg to dto:1
+gsg to dto thzo8:1
+to dto thzo8 sor:1
+dto thzo8 sor sam:1
+thzo8 sor sam ohar:1
+sor sam ohar 8or:1
+sam ohar 8or ghoe:1
+ohar 8or ghoe 8aghg:1
+8or ghoe 8aghg :1
+ghoe 8aghg  8am:1
+8aghg  8am tor:1
+ 8am tor 2or:1
+8am tor 2or hzg:1
+tor 2or hzg todom:1
+2or hzg todom soe:1
+hzg todom soe 8soe8g:1
+todom soe 8soe8g ohtoe:1
+soe 8soe8g ohtoe oh8g:1
+8soe8g ohtoe oh8g :1
+ohtoe oh8g  psoan:1
+oh8g  psoan hzoam:1
+ psoan hzoam odaiir:1
+psoan hzoam odaiir fzo8orae:1
+hzoam odaiir fzo8orae sar:1
+odaiir fzo8orae sar 2g:1
+fzo8orae sar 2g sg8ae:1
+sar 2g sg8ae t8g:1
+2g sg8ae t8g :1
+sg8ae t8g  or:1
+t8g  or toe:1
+ or toe tg:1
+or toe tg htg:1
+toe tg htg htoe:1
+tg htg htoe ghor:1
+htg htoe ghor 4ohoe:1
+htoe ghor 4ohoe tgdg:1
+ghor 4ohoe tgdg to8ar:1
+4ohoe tgdg to8ar am:1
+tgdg to8ar am :1
+to8ar am  4ohto:1
+am  4ohto 4odtg:1
+ 4ohto 4odtg hzcg:1
+4ohto 4odtg hzcg doram:1
+4odtg hzcg doram odan8:1
+hzcg doram odan8 8ae:1
+doram odan8 8ae 2oeso:1
+odan8 8ae 2oeso hzg:1
+8ae 2oeso hzg :1
+2oeso hzg  oto:1
+hzg  oto hzg:1
+ oto hzg tohzog:1
+oto hzg tohzog to8gdtg:1
+hzg tohzog to8gdtg 2am:1
+tohzog to8gdtg 2am 8tg:1
+to8gdtg 2am 8tg 8am:1
+2am 8tg 8am :1
+8tg 8am  ghtar:1
+8am  ghtar oram:1
+ ghtar oram tdar:1
+ghtar oram tdar :1
+oram tdar  :1
+tdar   :1
+   fotor:1
+  fotor oporo8g:1
+ fotor oporo8g opg:1
+fotor oporo8g opg sor:1
+oporo8g opg sor 8am:1
+opg sor 8am 4optgpto:1
+sor 8am 4optgpto 4ofoe:1
+8am 4optgpto 4ofoe soe:1
+4optgpto 4ofoe soe fzoe:1
+4ofoe soe fzoe 8am:1
+soe fzoe 8am :1
+fzoe 8am  8tor:1
+8am  8tor 4oam:1
+ 8tor 4oam tdam:1
+8tor 4oam tdam hzor:1
+4oam tdam hzor toe:1
+tdam hzor toe tor:1
+hzor toe tor pzoe:1
+toe tor pzoe 8g:1
+tor pzoe 8g ohg:1
+pzoe 8g ohg 4odam:1
+8g ohg 4odam 8g:1
+ohg 4odam 8g :1
+4odam 8g  gdcg:1
+8g  gdcg tor:1
+ gdcg tor gdam:1
+gdcg tor gdam 8am:1
+tor gdam 8am hzg:1
+gdam 8am hzg oham:1
+8am hzg oham odg:1
+hzg oham odg occc2:1
+oham odg occc2 8am:1
+odg occc2 8am :1
+occc2 8am  ghcg:1
+8am  ghcg htg:1
+ ghcg htg dam:1
+ghcg htg dam hzor:1
+htg dam hzor ohoe:1
+dam hzor ohoe ohg:1
+hzor ohoe ohg hoe8g:1
+ohoe ohg hoe8g :1
+ohg hoe8g  ptor:1
+hoe8g  ptor gptccg:1
+ ptor gptccg 4ohor:1
+ptor gptccg 4ohor gptg:1
+gptccg 4ohor gptg oefzoeg:1
+4ohor gptg oefzoeg hoar:1
+gptg oefzoeg hoar thg:1
+oefzoeg hoar thg 8aim:1
+hoar thg 8aim :1
+thg 8aim  o8oe:1
+8aim  o8oe tog:1
+ o8oe tog dsco8g:1
+o8oe tog dsco8g to8g:1
+tog dsco8g to8g 8am:1
+dsco8g to8g 8am ohtg:1
+to8g 8am ohtg hzo8:1
+8am ohtg hzo8 gdo:1
+ohtg hzo8 gdo :1
+hzo8 gdo  4otoe:1
+gdo  4otoe toe:1
+ 4otoe toe hzcg:1
+4otoe toe hzcg 8am:1
+toe hzcg 8am ohae:1
+hzcg 8am ohae 8or:1
+8am ohae 8or 8aik:1
+ohae 8or 8aik :1
+8or 8aik  2om:1
+8aik  2om 8am:1
+ 2om 8am 4odto:1
+2om 8am 4odto rodg8:1
+8am 4odto rodg8 8aeg:1
+4odto rodg8 8aeg :1
+rodg8 8aeg  8am:1
+8aeg  8am tg:1
+ 8am tg hor:1
+8am tg hor tghg:1
+tg hor tghg 8arg:1
+hor tghg 8arg ghoe8g:1
+tghg 8arg ghoe8g :1
+8arg ghoe8g  ohg:1
+ghoe8g  ohg dtoe:1
+ ohg dtoe toe:1
+ohg dtoe toe tgdghg:1
+dtoe toe tgdghg :1
+toe tgdghg  gtor:1
+tgdghg  gtor tsohg:1
+ gtor tsohg odg:1
+gtor tsohg odg dam:1
+tsohg odg dam :1
+odg dam  tdam:1
+dam  tdam dzg:1
+ tdam dzg tor:1
+tdam dzg tor :1
+dzg tor  :1
+tor   :3
+   ptohzg:1
+  ptohzg sor:1
+ ptohzg sor ohzo8g:1
+ptohzg sor ohzo8g tortg:1
+sor ohzo8g tortg pto8oetoptae:1
+ohzo8g tortg pto8oetoptae grt:1
+tortg pto8oetoptae grt dok:1
+pto8oetoptae grt dok :1
+grt dok  8tcg:1
+dok  8tcg hzoor:1
+ 8tcg hzoor tar:1
+8tcg hzoor tar thg:1
+hzoor tar thg o2:1
+tar thg o2 tair:1
+thg o2 tair ohg:1
+o2 tair ohg htoe:1
+tair ohg htoe odg:1
+ohg htoe odg 8am:1
+htoe odg 8am chg8:1
+odg 8am chg8 :1
+8am chg8  4ohor:1
+chg8  4ohor ohtg:1
+ 4ohor ohtg 8am:1
+4ohor ohtg 8am tohzg:1
+ohtg 8am tohzg 4ohtg:1
+8am tohzg 4ohtg toe:1
+tohzg 4ohtg toe or:1
+4ohtg toe or ghg:1
+toe or ghg 8g:1
+or ghg 8g 8g:1
+ghg 8g 8g :1
+8g 8g  2or:1
+8g  2or tam:1
+ 2or tam thzg:1
+2or tam thzg hzo:1
+tam thzg hzo dzg:1
+thzg hzo dzg or:1
+hzo dzg or am:1
+dzg or am thtor:1
+or am thtor 8oiir:1
+am thtor 8oiir o8g:1
+thtor 8oiir o8g :1
+8oiir o8g  4odtg:1
+o8g  4odtg 4ohtoe:1
+ 4odtg 4ohtoe toe:1
+4odtg 4ohtoe toe hzg:1
+4ohtoe toe hzg :1
+toe hzg  gtcor:1
+hzg  gtcor hzg:1
+ gtcor hzg tor:1
+gtcor hzg tor hzam:1
+hzg tor hzam 4ohzoeg:1
+tor hzam 4ohzoeg 8g:1
+hzam 4ohzoeg 8g tg:1
+4ohzoeg 8g tg ham:1
+8g tg ham sg:1
+tg ham sg :1
+ham sg  8tg:1
+sg  8tg 4odtoe:1
+ 8tg 4odtoe gdtam:1
+8tg 4odtoe gdtam ghg:1
+4odtoe gdtam ghg 8am:1
+gdtam ghg 8am hz8an:1
+ghg 8am hz8an 8air:1
+8am hz8an 8air ak:1
+hz8an 8air ak :1
+8air ak  4ohtor:1
+ak  4ohtor tor:1
+ 4ohtor tor ohoe:1
+4ohtor tor ohoe toe:1
+tor ohoe toe toeor:1
+ohoe toe toeor toe:1
+toe toeor toe 8am:1
+toeor toe 8am 8ar:1
+toe 8am 8ar :1
+8am 8ar  ogdtor:1
+8ar  ogdtor sor:1
+ ogdtor sor tor:1
+ogdtor sor tor tg:1
+sor tor tg daim:1
+tor tg daim 8g:1
+tg daim 8g to8am:1
+daim 8g to8am :1
+8g to8am  o4ohar:1
+to8am  o4ohar ohor:1
+ o4ohar ohor fzg:1
+o4ohar ohor fzg hzor:1
+ohor fzg hzor o2an:1
+fzg hzor o2an ghom:1
+hzor o2an ghom :1
+o2an ghom  rohto:1
+ghom  rohto sor:1
+ rohto sor 4ohg:1
+rohto sor 4ohg 4ohor:1
+sor 4ohg 4ohor hzg8:1
+4ohg 4ohor hzg8 ohar:1
+4ohor hzg8 ohar :1
+hzg8 ohar  o8am:1
+ohar  o8am 8am:1
+ o8am 8am 4ohtg:1
+o8am 8am 4ohtg 4ohor:1
+8am 4ohtg 4ohor :1
+4ohtg 4ohor  :1
+4ohor   :1
+   pam:1
+  pam 8am:1
+ pam 8am sco:1
+pam 8am sco ptccg:1
+8am sco ptccg 4ohg:1
+sco ptccg 4ohg 8am:1
+ptccg 4ohg 8am hzor:1
+4ohg 8am hzor ohg8g:1
+8am hzor ohg8g 2an:1
+hzor ohg8g 2an :1
+ohg8g 2an  8an:1
+2an  8an 8am:1
+ 8an 8am dzg:1
+8an 8am dzg thzor:1
+8am dzg thzor tom:1
+dzg thzor tom 4oh:1
+thzor tom 4oh to8am:1
+tom 4oh to8am hzg:1
+4oh to8am hzg 8am:1
+to8am hzg 8am :1
+hzg 8am  8so:1
+8am  8so ghcg:1
+ 8so ghcg dtoe:1
+8so ghcg dtoe oehg:1
+ghcg dtoe oehg toe:1
+dtoe oehg toe 8g:1
+oehg toe 8g :1
+toe 8g  4ohtg:1
+8g  4ohtg hor:1
+ 4ohtg hor som:1
+4ohtg hor som 8am:1
+hor som 8am 4ohtcg:1
+som 8am 4ohtcg shzcg:1
+8am 4ohtcg shzcg ghor:1
+4ohtcg shzcg ghor 8an:1
+shzcg ghor 8an :1
+ghor 8an  so:1
+8an  so gdccg:1
+ so gdccg 8am:1
+so gdccg 8am 4ohtg:1
+gdccg 8am 4ohtg 4ohor:1
+8am 4ohtg 4ohor toe:1
+4ohtg 4ohor toe 8am:1
+4ohor toe 8am 4odtg:1
+toe 8am 4odtg dg:1
+8am 4odtg dg :1
+4odtg dg  som:1
+dg  som tor:1
+ som tor shzg:1
+som tor shzg 4ohg:1
+tor shzg 4ohg 4ohom:1
+shzg 4ohg 4ohom 4odoe:1
+4ohg 4ohom 4odoe tor:1
+4ohom 4odoe tor am:1
+4odoe tor am :1
+tor am  4odoe:1
+am  4odoe tg:1
+ 4odoe tg dg:1
+4odoe tg dg toe:1
+tg dg toe tcdg:1
+dg toe tcdg 8am:1
+toe tcdg 8am 8an:1
+tcdg 8am 8an tdzal:1
+8am 8an tdzal :1
+8an tdzal  :1
+tdzal   :1
+   hsoe:1
+  hsoe 2toae:1
+ hsoe 2toae fzg:1
+hsoe 2toae fzg sfg8am:1
+2toae fzg sfg8am pzg:1
+fzg sfg8am pzg scg:1
+sfg8am pzg scg hto8g:1
+pzg scg hto8g soghg:1
+scg hto8g soghg :1
+hto8g soghg  2ohzo8g:1
+soghg  2ohzo8g 4o8org:1
+ 2ohzo8g 4o8org dsg:1
+2ohzo8g 4o8org dsg 8am:1
+4o8org dsg 8am ghtg:1
+dsg 8am ghtg ghtodg:1
+8am ghtg ghtodg dtoe:1
+ghtg ghtodg dtoe 8am:1
+ghtodg dtoe 8am :1
+dtoe 8am  4ohg:1
+8am  4ohg toe:1
+ 4ohg toe hzg:1
+4ohg toe hzg 8or:1
+toe hzg 8or gdgtg:1
+hzg 8or gdgtg tohg:1
+8or gdgtg tohg 8an:1
+gdgtg tohg 8an tam:1
+tohg 8an tam 8am:1
+8an tam 8am 8c8:1
+tam 8am 8c8 :1
+8am 8c8  8toe:1
+8c8  8toe tg:1
+ 8toe tg dtg:1
+8toe tg dtg 8g:1
+tg dtg 8g 8am:1
+dtg 8g 8am :1
+8g 8am  htoe:1
+8am  htoe sor:1
+ htoe sor sor:1
+htoe sor sor 8dg:1
+sor sor 8dg spzg:1
+sor 8dg spzg 8am:1
+8dg spzg 8am hzg:1
+spzg 8am hzg 8g:1
+8am hzg 8g to8e:1
+hzg 8g to8e 8am:1
+8g to8e 8am :1
+to8e 8am  o8e:1
+8am  o8e 82g:1
+ o8e 82g ohoe:1
+o8e 82g ohoe tam:1
+82g ohoe tam gdtor:1
+ohoe tam gdtor 8air:1
+tam gdtor 8air to8g:1
+gdtor 8air to8g hzg:1
+8air to8g hzg 2:1
+to8g hzg 2 8am:1
+hzg 2 8am :1
+2 8am  4ohtg:1
+8am  4ohtg odtoe:1
+ 4ohtg odtoe hzg:1
+4ohtg odtoe hzg 8g:1
+odtoe hzg 8g :1
+hzg 8g  :1
+8g   :1
+   poe8to8g:1
+  poe8to8g spzg:1
+ poe8to8g spzg sor8g:1
+poe8to8g spzg sor8g 4ohg:1
+spzg sor8g 4ohg soe:1
+sor8g 4ohg soe pzar:1
+4ohg soe pzar 8alg:1
+soe pzar 8alg :1
+pzar 8alg  soe:1
+8alg  soe 8g:1
+ soe 8g tdzg:1
+soe 8g tdzg shzg:1
+8g tdzg shzg 8am:1
+tdzg shzg 8am 8ak:1
+shzg 8am 8ak gdtg:1
+8am 8ak gdtg 8an:1
+8ak gdtg 8an 8tg:1
+gdtg 8an 8tg :1
+8an 8tg  ohtor:1
+8tg  ohtor 8g:1
+ ohtor 8g dtg:1
+ohtor 8g dtg htg:1
+8g dtg htg 8ar:1
+dtg htg 8ar 4odt8:1
+htg 8ar 4odt8 odg:1
+8ar 4odt8 odg toe:1
+4odt8 odg toe 8g:1
+odg toe 8g 8g:1
+toe 8g 8g :1
+8g 8g  4odtor:1
+8g  4odtor toeoeor:1
+ 4odtor toeoeor tgdg:1
+4odtor toeoeor tgdg 8tg:1
+toeoeor tgdg 8tg 4odg:1
+tgdg 8tg 4odg hzo:1
+8tg 4odg hzo htcg:1
+4odg hzo htcg h:1
+hzo htcg h :1
+htcg h  ol:1
+h  ol 2og8g:1
+ ol 2og8g 4ohccg:1
+ol 2og8g 4ohccg 4ohtor:1
+2og8g 4ohccg 4ohtor 8g:1
+4ohccg 4ohtor 8g 88g:1
+4ohtor 8g 88g hzor:1
+8g 88g hzor sg:1
+88g hzor sg ar:1
+hzor sg ar :1
+sg ar  k:1
+ar  k gtcor:1
+ k gtcor dso:1
+k gtcor dso 8or:1
+gtcor dso 8or hzcg:1
+dso 8or hzcg 2toe8:1
+8or hzcg 2toe8 :1
+hzcg 2toe8  :1
+2toe8   :1
+   horsor:1
+  horsor optg:1
+ horsor optg soe8g:1
+horsor optg soe8g 4optg:1
+optg soe8g 4optg soe:1
+soe8g 4optg soe optor:1
+4optg soe optor 8g:1
+soe optor 8g ptg:1
+optor 8g ptg 8t:1
+8g ptg 8t :1
+ptg 8t  k:1
+8t  k 8toe:1
+ k 8toe toe:1
+k 8toe toe 8oe:1
+8toe toe 8oe sdtg:1
+toe 8oe sdtg g8ae:1
+8oe sdtg g8ae sg:1
+sdtg g8ae sg gdtg:1
+g8ae sg gdtg 4ohcg:1
+sg gdtg 4ohcg 8am:1
+gdtg 4ohcg 8am 2g:1
+4ohcg 8am 2g :1
+8am 2g  2g8tor:1
+2g  2g8tor sam:1
+ 2g8tor sam occc2:1
+2g8tor sam occc2 gdor:1
+sam occc2 gdor tor:1
+occc2 gdor tor ghsg:1
+gdor tor ghsg gdtg:1
+tor ghsg gdtg dtg:1
+ghsg gdtg dtg 8ar:1
+gdtg dtg 8ar :1
+dtg 8ar  4o8tg:1
+8ar  4o8tg ghtg:1
+ 4o8tg ghtg ohtor:1
+4o8tg ghtg ohtor :1
+ghtg ohtor  soro8o:1
+ohtor  soro8o sg:1
+ soro8o sg hsg:1
+soro8o sg hsg dtoe:1
+sg hsg dtoe 8ptg:1
+hsg dtoe 8ptg 4optg:1
+dtoe 8ptg 4optg ohtoe:1
+8ptg 4optg ohtoe fzoe8g:1
+4optg ohtoe fzoe8g :1
+ohtoe fzoe8g  htor:1
+fzoe8g  htor 8or:1
+ htor 8or 8am:1
+htor 8or 8am 4ohtoe:1
+8or 8am 4ohtoe odtg:1
+8am 4ohtoe odtg odtor:1
+4ohtoe odtg odtor om:1
+odtg odtor om tdzg:1
+odtor om tdzg 8:1
+om tdzg 8 :1
+tdzg 8  8tg:1
+8  8tg 4odg:1
+ 8tg 4odg toe:1
+8tg 4odg toe 8g:1
+4odg toe 8g 4odcg:1
+toe 8g 4odcg 8oe8g:1
+8g 4odcg 8oe8g odtor:1
+4odcg 8oe8g odtor 8oam:1
+8oe8g odtor 8oam :1
+odtor 8oam  sotg:1
+8oam  sotg 4odtg:1
+ sotg 4odtg hortg:1
+sotg 4odtg hortg dcdzg:1
+4odtg hortg dcdzg 2:1
+hortg dcdzg 2 odtcg:1
+dcdzg 2 odtcg 8am:1
+2 odtcg 8am :1
+odtcg 8am  oe8g:1
+8am  oe8g scg:1
+ oe8g scg toe:1
+oe8g scg toe 8om:1
+scg toe 8om gdoeg:1
+toe 8om gdoeg odtae:1
+8om gdoeg odtae 8ae8g:1
+gdoeg odtae 8ae8g :1
+odtae 8ae8g  2ohtg:1
+8ae8g  2ohtg dtg:1
+ 2ohtg dtg odororg:1
+2ohtg dtg odororg :1
+dtg odororg  :1
+odororg   :1
+   doair:1
+  doair thom:1
+ doair thom ohtg:1
+doair thom ohtg dto8:1
+thom ohtg dto8 ohoe:1
+ohtg dto8 ohoe ohtg:1
+dto8 ohoe ohtg ohzo2:1
+ohoe ohtg ohzo2 :1
+ohtg ohzo2  odo:1
+ohzo2  odo 4odoe:1
+ odo 4odoe to8ae:1
+odo 4odoe to8ae 0htoe:1
+4odoe to8ae 0htoe pzoe:1
+to8ae 0htoe pzoe tohg:1
+0htoe pzoe tohg :1
+pzoe tohg  4odtg:1
+tohg  4odtg 4odo8:1
+ 4odtg 4odo8 tg:1
+4odtg 4odo8 tg ohtg:1
+4odo8 tg ohtg hzo8g:1
+tg ohtg hzo8g :1
+ohtg hzo8g  oe2tcg:1
+hzo8g  oe2tcg odo2:1
+ oe2tcg odo2 oam:1
+oe2tcg odo2 oam odsg:1
+odo2 oam odsg 4o:1
+oam odsg 4o :1
+odsg 4o  dzg:1
+4o  dzg 4odg:1
+ dzg 4odg 8am:1
+dzg 4odg 8am :1
+4odg 8am  foe:1
+8am  foe 8am:1
+ foe 8am oepzg:1
+foe 8am oepzg soe8g:1
+8am oepzg soe8g ohg:1
+oepzg soe8g ohg sor:1
+soe8g ohg sor 4ohg8:1
+ohg sor 4ohg8 8airo8:1
+sor 4ohg8 8airo8 :1
+4ohg8 8airo8  8an:1
+8airo8  8an odae:1
+ 8an odae tg:1
+8an odae tg 4odtorg:1
+odae tg 4odtorg 8tg:1
+tg 4odtorg 8tg dodg:1
+4odtorg 8tg dodg 8am:1
+8tg dodg 8am sol:1
+dodg 8am sol :1
+8am sol  ohtg:1
+sol  ohtg 8am:1
+ ohtg 8am g8an:1
+ohtg 8am g8an gdoe:1
+8am g8an gdoe odtg:1
+g8an gdoe odtg odae8:1
+gdoe odtg odae8 8gham:1
+odtg odae8 8gham :1
+odae8 8gham  htho8:1
+8gham  htho8 ohae:1
+ htho8 ohae hzor:1
+htho8 ohae hzor ghae:1
+ohae hzor ghae gtohae:1
+hzor ghae gtohae so:1
+ghae gtohae so 4ohzg:1
+gtohae so 4ohzg :1
+so 4ohzg  goe:1
+4ohzg  goe tg:1
+ goe tg dtcg:1
+goe tg dtcg dtor:1
+tg dtcg dtor 8ae:1
+dtcg dtor 8ae :1
+dtor 8ae  :1
+8ae   :2
+   pto:1
+  pto 8am:1
+ pto 8am topoe:1
+pto 8am topoe som:1
+8am topoe som 8am:1
+topoe som 8am 8an:1
+som 8am 8an :1
+8am 8an  ogdccg:1
+8an  ogdccg 2oim:1
+ ogdccg 2oim tod:1
+ogdccg 2oim tod 4odtg:1
+2oim tod 4odtg 8a:1
+tod 4odtg 8a odoe:1
+4odtg 8a odoe :1
+8a odoe  g8am:1
+odoe  g8am oetg:1
+ g8am oetg dtor:1
+g8am oetg dtor 8am:1
+oetg dtor 8am oeoe:1
+dtor 8am oeoe :1
+8am oeoe  otdtar:1
+oeoe  otdtar doe:1
+ otdtar doe sg:1
+otdtar doe sg 8am:1
+doe sg 8am 8oro8g:1
+sg 8am 8oro8g :1
+8am 8oro8g  4odtoe:1
+8oro8g  4odtoe 8ar:1
+ 4odtoe 8ar 8aea:1
+4odtoe 8ar 8aea 4ohoeo:1
+8ar 8aea 4ohoeo :1
+8aea 4ohoeo  gtoe:1
+4ohoeo  gtoe oir:1
+ gtoe oir odor:1
+gtoe oir odor toor:1
+oir odor toor odzg:1
+odor toor odzg :1
+toor odzg  ohto:1
+odzg  ohto 8an:1
+ ohto 8an tdzg:1
+ohto 8an tdzg :1
+8an tdzg  2osg:1
+tdzg  2osg 0toe:1
+ 2osg 0toe sor:1
+2osg 0toe sor tcor:1
+0toe sor tcor gdam:1
+sor tcor gdam 2:1
+tcor gdam 2 :1
+gdam 2  2o8g:1
+2  2o8g to8g:1
+ 2o8g to8g ohto8g:1
+2o8g to8g ohto8g 4ohtg:1
+to8g ohto8g 4ohtg dom:1
+ohto8g 4ohtg dom 2g:1
+4ohtg dom 2g sohg:1
+dom 2g sohg 8g:1
+2g sohg 8g :1
+sohg 8g  4ohtor:1
+8g  4ohtor to8:1
+ 4ohtor to8 sohg:1
+4ohtor to8 sohg to8g:1
+to8 sohg to8g 8oe:1
+sohg to8g 8oe 8g:1
+to8g 8oe 8g 8g:1
+8oe 8g 8g odtg8g:1
+8g 8g odtg8g :1
+8g odtg8g  8to:1
+odtg8g  8to dtg:1
+ 8to dtg 2toe:1
+8to dtg 2toe 8g:1
+dtg 2toe 8g scg:1
+2toe 8g scg 8ar:1
+8g scg 8ar 4ohg:1
+scg 8ar 4ohg gdccgdg:1
+8ar 4ohg gdccgdg :1
+4ohg gdccgdg  occcl:1
+gdccgdg  occcl tcg:1
+ occcl tcg hcor:1
+occcl tcg hcor tcg:1
+tcg hcor tcg htg:1
+hcor tcg htg dg:1
+tcg htg dg to8ae:1
+htg dg to8ae :1
+dg to8ae  k:1
+to8ae  k 2o8am:1
+ k 2o8am tg:1
+k 2o8am tg dtg:1
+2o8am tg dtg dtg:1
+tg dtg dtg gdco8g:1
+dtg dtg gdco8g :1
+dtg gdco8g  :1
+gdco8g   :1
+   p8gtom:1
+  p8gtom gfo8an:1
+ p8gtom gfo8an ohgsg:1
+p8gtom gfo8an ohgsg 8g:1
+gfo8an ohgsg 8g gptor:1
+ohgsg 8g gptor 8am:1
+8g gptor 8am doe:1
+gptor 8am doe g8an:1
+8am doe g8an :1
+doe g8an  odtor:1
+g8an  odtor 8tg:1
+ odtor 8tg hsg:1
+odtor 8tg hsg odg:1
+8tg hsg odg tg:1
+hsg odg tg hzg:1
+odg tg hzg ohtg:1
+tg hzg ohtg hg:1
+hzg ohtg hg toe:1
+ohtg hg toe 8am:1
+hg toe 8am :1
+toe 8am  gtg:1
+8am  gtg 8g:1
+ gtg 8g 8am:1
+gtg 8g 8am thzg:1
+8g 8am thzg gdg:1
+8am thzg gdg dam:1
+thzg gdg dam 8ghtg:1
+gdg dam 8ghtg gdtg:1
+dam 8ghtg gdtg dg:1
+8ghtg gdtg dg 8g:1
+gdtg dg 8g :1
+dg 8g  ghgtg:1
+8g  ghgtg dso:1
+ ghgtg dso gdsg:1
+ghgtg dso gdsg sod:1
+dso gdsg sod sor:1
+gdsg sod sor ghg:1
+sod sor ghg 8aro8g:1
+sor ghg 8aro8g 8gohg82:1
+ghg 8aro8g 8gohg82 :1
+8aro8g 8gohg82  odsg:1
+8gohg82  odsg 8am:1
+ odsg 8am odtor:1
+odsg 8am odtor tdg:1
+8am odtor tdg 4ohtg:1
+odtor tdg 4ohtg 8am:1
+tdg 4ohtg 8am hzor:1
+4ohtg 8am hzor ohg:1
+8am hzor ohg :1
+hzor ohg  4ohg:1
+ohg  4ohg todg:1
+ 4ohg todg hzg:1
+4ohg todg hzg todtg:1
+todg hzg todtg 8g8g8g:1
+hzg todtg 8g8g8g tdzg:1
+todtg 8g8g8g tdzg 8tg8:1
+8g8g8g tdzg 8tg8 l:1
+tdzg 8tg8 l :1
+8tg8 l  ogdsg:1
+l  ogdsg tohg:1
+ ogdsg tohg 8g8go8g8:1
+ogdsg tohg 8g8go8g8 ohtg:1
+tohg 8g8go8g8 ohtg odtg:1
+8g8go8g8 ohtg odtg 8sg:1
+ohtg odtg 8sg 8ar8g:1
+odtg 8sg 8ar8g :1
+8sg 8ar8g  todsor:1
+8ar8g  todsor 8am:1
+ todsor 8am odso8g:1
+todsor 8am odso8g 8am:1
+8am odso8g 8am 8oe8air:1
+odso8g 8am 8oe8air 8ak:1
+8am 8oe8air 8ak :1
+8oe8air 8ak  8gdtg:1
+8ak  8gdtg hzoe8k:1
+ 8gdtg hzoe8k 8tdzg:1
+8gdtg hzoe8k 8tdzg :1
+hzoe8k 8tdzg  :1
+8tdzg   :1
+   hsor:1
+  hsor scg:1
+ hsor scg htaeg:1
+hsor scg htaeg sg:1
+scg htaeg sg thoe2:1
+htaeg sg thoe2 scg:1
+sg thoe2 scg 8am:1
+thoe2 scg 8am :1
+scg 8am  ohtor:1
+8am  ohtor 4odtor:1
+ ohtor 4odtor oeg:1
+ohtor 4odtor oeg odor:1
+4odtor oeg odor sg:1
+oeg odor sg doeg:1
+odor sg doeg :1
+sg doeg  4odam:1
+doeg  4odam 4ohtg:1
+ 4odam 4ohtg hg8g:1
+4odam 4ohtg hg8g 8am:1
+4ohtg hg8g 8am toe:1
+hg8g 8am toe hzg:1
+8am toe hzg :1
+toe hzg  2tcam:1
+hzg  2tcam to8am:1
+ 2tcam to8am te:1
+2tcam to8am te 2oe:1
+to8am te 2oe dzam:1
+te 2oe dzam 2ae:1
+2oe dzam 2ae :1
+dzam 2ae  4ohtg:1
+2ae  4ohtg rsor:1
+ 4ohtg rsor hzg:1
+4ohtg rsor hzg 8am:1
+rsor hzg 8am hzg:1
+hzg 8am hzg 8g:1
+8am hzg 8g :1
+hzg 8g  8tg:1
+8g  8tg do:1
+ 8tg do dam:1
+8tg do dam t8g:1
+do dam t8g 2am:1
+dam t8g 2am odcar:1
+t8g 2am odcar :1
+2am odcar  8am:1
+odcar  8am sdam:1
+ 8am sdam hzg:1
+8am sdam hzg sodcohzg:1
+sdam hzg sodcohzg :1
+hzg sodcohzg  sohzg:1
+sodcohzg  sohzg hoe:1
+ sohzg hoe dam:1
+sohzg hoe dam 2:1
+hoe dam 2 8an:1
+dam 2 8an hzoeg:1
+2 8an hzoeg :1
+8an hzoeg  ohzan:1
+hzoeg  ohzan 4odam:1
+ ohzan 4odam to2:1
+ohzan 4odam to2 o8am:1
+4odam to2 o8am hze2g:1
+to2 o8am hze2g g:1
+o8am hze2g g :1
+hze2g g  tan:1
+g  tan tdzcg:1
+ tan tdzcg odsg:1
+tan tdzcg odsg 2aim:1
+tdzcg odsg 2aim 8oe:1
+odsg 2aim 8oe t82:1
+2aim 8oe t82 :1
+8oe t82  odam:1
+t82  odam oham:1
+ odam oham te:1
+odam oham te 2g:1
+oham te 2g tor:1
+te 2g tor toro22:1
+2g tor toro22 4ohor:1
+tor toro22 4ohor sor:1
+toro22 4ohor sor htcor:1
+4ohor sor htcor tg:1
+sor htcor tg hzam:1
+htcor tg hzam sal:1
+tg hzam sal :1
+hzam sal  gdsoe:1
+sal  gdsoe 8or:1
+ gdsoe 8or sccg:1
+gdsoe 8or sccg hzg:1
+8or sccg hzg 8an:1
+sccg hzg 8an 2dg:1
+hzg 8an 2dg sor:1
+8an 2dg sor sohg:1
+2dg sor sohg :1
+sor sohg  ohto:1
+sohg  ohto dtg:1
+ ohto dtg toe:1
+ohto dtg toe 8am:1
+dtg toe 8am hzar:1
+toe 8am hzar ghoe:1
+8am hzar ghoe 8or:1
+hzar ghoe 8or 8ok:1
+ghoe 8or 8ok :1
+8or 8ok  4ohtor:1
+8ok  4ohtor tam:1
+ 4ohtor tam tg:1
+4ohtor tam tg doe:1
+tam tg doe 8adg:1
+tg doe 8adg :1
+doe 8adg  :1
+8adg   :1
+   poror:1
+  poror orsg:1
+ poror orsg tom:1
+poror orsg tom 8htal:1
+orsg tom 8htal optor8g:1
+tom 8htal optor8g :1
+8htal optor8g  0tor:1
+optor8g  0tor or:1
+ 0tor or oro:1
+0tor or oro ram:1
+or oro ram hzg:1
+oro ram hzg 0an:1
+ram hzg 0an 8ar:1
+hzg 0an 8ar :1
+0an 8ar  hzor:1
+8ar  hzor 8am:1
+ hzor 8am 4odor:1
+hzor 8am 4odor odcor:1
+8am 4odor odcor odam:1
+4odor odcor odam :1
+odcor odam  8om:1
+odam  8om todg:1
+ 8om todg soe:1
+8om todg soe 4odg:1
+todg soe 4odg 4ohto8:1
+soe 4odg 4ohto8 :1
+4odg 4ohto8  ohtor:1
+4ohto8  ohtor tor:1
+ ohtor tor tor:1
+ohtor tor tor ghtor:1
+tor tor ghtor hzg2:1
+tor ghtor hzg2 :1
+ghtor hzg2  4ohtcg:1
+hzg2  4ohtcg tohg:1
+ 4ohtcg tohg dam:1
+4ohtcg tohg dam ohtg:1
+tohg dam ohtg ram:1
+dam ohtg ram :1
+ohtg ram  tog:1
+ram  tog tom:1
+ tog tom so:1
+tog tom so 0:1
+tom so 0 tg:1
+so 0 tg 2tg:1
+0 tg 2tg hor:1
+tg 2tg hor oe:1
+2tg hor oe :1
+hor oe  2:1
+oe  2 ghtor:1
+ 2 ghtor tor:1
+2 ghtor tor oe:1
+ghtor tor oe om:1
+tor oe om ohg:1
+oe om ohg soe:1
+om ohg soe 8am:1
+ohg soe 8am :1
+soe 8am  ohtoeo:1
+8am  ohtoeo hzoe:1
+ ohtoeo hzoe toe:1
+ohtoeo hzoe toe toe:1
+hzoe toe toe to8g:1
+toe toe to8g dal:1
+toe to8g dal :1
+to8g dal  2or:1
+dal  2or tor:1
+ 2or tor hzom:1
+2or tor hzom hzg:1
+tor hzom hzg 4odam:1
+hzom hzg 4odam :1
+hzg 4odam  2oeom:1
+4odam  2oeom tcor:1
+ 2oeom tcor toe:1
+2oeom tcor toe 8am:1
+tcor toe 8am hzg:1
+8am hzg  8am:1
+hzg  8am hzor:1
+ 8am hzor toe:2
+8am hzor toe tor:1
+hzor toe tor :1
+toe tor  :1
+   potco8g:1
+  potco8g 4optcg:1
+ potco8g 4optcg 2gdam:1
+potco8g 4optcg 2gdam optg:1
+4optcg 2gdam optg 8or:1
+2gdam optg 8or gtg:1
+optg 8or gtg 8am:1
+8or gtg 8am 8g:1
+gtg 8am 8g tor:1
+8am 8g tor orok:1
+8g tor orok :1
+tor orok  gtgdtg:1
+orok  gtgdtg oh4g:1
+ gtgdtg oh4g doe:1
+gtgdtg oh4g doe sor:1
+oh4g doe sor o8g:1
+doe sor o8g oho8g:1
+sor o8g oho8g 4og:1
+o8g oho8g 4og occ2or8g:1
+oho8g 4og occ2or8g :1
+4og occ2or8g  g8or:1
+occ2or8g  g8or scae:1
+ g8or scae odtg:1
+g8or scae odtg 4og:1
+scae odtg 4og dom:1
+odtg 4og dom todg:1
+4og dom todg gdair:1
+dom todg gdair :1
+todg gdair  8ano8:1
+gdair  8ano8 gtcaeo8:1
+ 8ano8 gtcaeo8 :1
+8ano8 gtcaeo8  htor:1
+gtcaeo8  htor tor:1
+ htor tor t2:1
+htor tor t2 gdt:1
+tor t2 gdt sohzg:1
+t2 gdt sohzg optg:1
+gdt sohzg optg hgdg:1
+sohzg optg hgdg :1
+optg hgdg  osam:1
+hgdg  osam 8gdg:1
+ osam 8gdg occc2:1
+osam 8gdg occc2 8ccco:1
+8gdg occc2 8ccco 8am:1
+occc2 8ccco 8am 8hoam:1
+8ccco 8am 8hoam :1
+8am 8hoam  8am:1
+8hoam  8am 8aetg:1
+ 8am 8aetg 8gdg:1
+8am 8aetg 8gdg 2tg:1
+8aetg 8gdg 2tg 2am:1
+8gdg 2tg 2am 8oae:1
+2tg 2am 8oae 4odg:1
+2am 8oae 4odg :1
+8oae 4odg  sohtg:1
+4odg  sohtg g8an:1
+ sohtg g8an gdg:1
+sohtg g8an gdg so8g:1
+g8an gdg so8g ohoe:1
+gdg so8g ohoe 8am:1
+so8g ohoe 8am :1
+ohoe 8am  2am:1
+8am  2am gham:1
+ 2am gham :1
+2am gham  horor:1
+gham  horor 8aeg8ae:1
+ horor 8aeg8ae optg:1
+horor 8aeg8ae optg ftoe:1
+8aeg8ae optg ftoe gptofzg:1
+optg ftoe gptofzg odae:1
+ftoe gptofzg odae :1
+gptofzg odae  2odtg:1
+odae  2odtg 4odoe:1
+ 2odtg 4odoe tohg:1
+2odtg 4odoe tohg odtg:1
+4odoe tohg odtg hzg:1
+tohg odtg hzg tg:1
+odtg hzg tg dtg:1
+hzg tg dtg :1
+tg dtg  8gto:1
+dtg  8gto dtg:1
+ 8gto dtg shzg:1
+8gto dtg shzg shsg:1
+dtg shzg shsg so:1
+shzg shsg so htodg8:1
+shsg so htodg8 :1
+so htodg8  4odtor:1
+htodg8  4odtor 8e:1
+ 4odtor 8e 8g:1
+4odtor 8e 8g scg:1
+8e 8g scg :1
+8g scg  :1
+scg   :1
+   ptram:1
+  ptram ohtor:1
+ ptram ohtor tptoe:1
+ptram ohtor tptoe tptcg:1
+ohtor tptoe tptcg 2ptohzg:1
+tptoe tptcg 2ptohzg :1
+tptcg 2ptohzg  ghtor:1
+2ptohzg  ghtor gdg:1
+ ghtor gdg todtg:1
+ghtor gdg todtg 4odto:1
+gdg todtg 4odto hzor:1
+todtg 4odto hzor sorg:1
+4odto hzor sorg :1
+hzor sorg  gdtg:1
+sorg  gdtg 8g:1
+ gdtg 8g tog:1
+gdtg 8g tog 4ohg:1
+8g tog 4ohg tg:1
+tog 4ohg tg dtg:1
+4ohg tg dtg dosch:1
+tg dtg dosch :1
+dtg dosch  8toe:1
+dosch  8toe thzo8g:1
+ 8toe thzo8g pzo8:1
+8toe thzo8g pzo8 tohoe:1
+thzo8g pzo8 tohoe 8ae:1
+pzo8 tohoe 8ae :1
+tohoe 8ae  ghtg:1
+8ae  ghtg tghg:1
+ ghtg tghg tor:1
+ghtg tghg tor toe:1
+tghg tor toe ghtg:1
+tor toe ghtg 8al:1
+toe ghtg 8al :1
+ghtg 8al  2or:1
+8al  2or tdar:1
+ 2or tdar ohg:1
+2or tdar ohg tdar:1
+tdar ohg tdar toe:1
+ohg tdar toe 8airil:1
+tdar toe 8airil :1
+toe 8airil  ptohzg:1
+8airil  ptohzg tgptg:1
+ ptohzg tgptg 4ohtg:1
+ptohzg tgptg 4ohtg tfzcg:1
+tgptg 4ohtg tfzcg 2g:1
+4ohtg tfzcg 2g :1
+tfzcg 2g  8am:1
+2g  8am toe:1
+ 8am toe g8am:1
+8am toe g8am thzg:1
+toe g8am thzg 4ohtar:1
+g8am thzg 4ohtar tor:1
+thzg 4ohtar tor soeo:1
+4ohtar tor soeo :1
+tor soeo  8sg:1
+soeo  8sg odam:1
+ 8sg odam odam:1
+8sg odam odam toe:1
+odam odam toe tor:1
+odam toe tor hzor:1
+toe tor hzor hg:1
+tor hzor hg to8g:1
+hzor hg to8g :1
+hg to8g  4odtg:1
+to8g  4odtg tg8g:1
+ 4odtg tg8g gdtg:1
+4odtg tg8g gdtg tdzg:1
+tg8g gdtg tdzg ohan:1
+gdtg tdzg ohan hzor:1
+tdzg ohan hzor hzg:1
+ohan hzor hzg :1
+hzor hzg  odgham:1
+hzg  odgham tdtg:1
+ odgham tdtg 2am:1
+odgham tdtg 2am :1
+tdtg 2am  8am:1
+2am  8am gdg:1
+ 8am gdg ohor:1
+8am gdg ohor to8g:1
+gdg ohor to8g :1
+ohor to8g  2odar:1
+to8g  2odar oaorar:1
+ 2odar oaorar :1
+2odar oaorar  :1
+oaorar   :1
+   fso8g:1
+  fso8g 8arak:1
+ fso8g 8arak g8ar:1
+fso8g 8arak g8ar tok:1
+8arak g8ar tok opg8g:1
+g8ar tok opg8g gpo8:1
+tok opg8g gpo8 top:1
+opg8g gpo8 top ohtg:1
+gpo8 top ohtg 8o8g:1
+top ohtg 8o8g oe8dzg:1
+ohtg 8o8g oe8dzg :1
+8o8g oe8dzg  g8air:1
+oe8dzg  g8air tododg:1
+ g8air tododg odsg:1
+g8air tododg odsg 4o8ar:1
+tododg odsg 4o8ar dzo8g:1
+odsg 4o8ar dzo8g 8or:1
+4o8ar dzo8g 8or ohtoe:1
+dzo8g 8or ohtoe 4o8hzg:1
+8or ohtoe 4o8hzg o82:1
+ohtoe 4o8hzg o82 :1
+4o8hzg o82  toe:1
+o82  toe or:1
+ toe or tg:1
+toe or tg 4o8ak:1
+or tg 4o8ak odor:1
+tg 4o8ak odor tor:1
+4o8ak odor tor odtok:1
+odor tor odtok :1
+tor odtok  hto0:1
+odtok  hto0 soe:1
+ hto0 soe 4odoe:1
+hto0 soe 4odoe 4or:1
+soe 4odoe 4or oeam:1
+4odoe 4or oeam opg8k:1
+4or oeam opg8k 2ok:1
+oeam opg8k 2ok gptg:1
+opg8k 2ok gptg gpaik:1
+2ok gptg gpaik :1
+gptg gpaik  gtcdtg:1
+gpaik  gtcdtg hzg:1
+ gtcdtg hzg tor:1
+gtcdtg hzg tor sor:1
+hzg tor sor pzor:1
+tor sor pzor pzae8g:1
+sor pzor pzae8g 8air:1
+pzor pzae8g 8air hzcg:1
+pzae8g 8air hzcg 4o8g:1
+8air hzcg 4o8g :1
+hzcg 4o8g  hso:1
+4o8g  hso 4ofto:1
+ hso 4ofto 4odtcor:1
+hso 4ofto 4odtcor tcdck:1
+4ofto 4odtcor tcdck :1
+4odtcor tcdck  dsco:1
+tcdck  dsco 4odtg:1
+ dsco 4odtg toe8sg:1
+dsco 4odtg toe8sg 00ptg:1
+4odtg toe8sg 00ptg 8sg:1
+toe8sg 00ptg 8sg optor8g:1
+00ptg 8sg optor8g :1
+8sg optor8g  8ttg:1
+optor8g  8ttg 8gtcar:1
+ 8ttg 8gtcar 2tar:1
+8ttg 8gtcar 2tar gdtg:1
+8gtcar 2tar gdtg :1
+2tar gdtg  2og:1
+gdtg  2og tdzo:1
+ 2og tdzo o8ar:1
+2og tdzo o8ar tgptak:1
+tdzo o8ar tgptak :1
+o8ar tgptak  8ar:1
+tgptak  8ar tcar:1
+ 8ar tcar 8scor:1
+8ar tcar 8scor 8an:1
+tcar 8scor 8an gkoe:1
+8scor 8an gkoe :1
+8an gkoe  ohtoe:1
+gkoe  ohtoe hzar:1
+ ohtoe hzar odam:1
+ohtoe hzar odam toe:1
+hzar odam toe 8am:1
+odam toe 8am :1
+toe 8am  gto8g:1
+8am  gto8g tohok:1
+ gto8g tohok :1
+gto8g tohok  :1
+tohok   :1
+   pto8oe:1
+  pto8oe tor:1
+ pto8oe tor ftg:1
+pto8oe tor ftg opg8am:1
+tor ftg opg8am o8ae8g:1
+ftg opg8am o8ae8g :1
+opg8am o8ae8g  gtccg:1
+o8ae8g  gtccg dccor:1
+ gtccg dccor hzo:1
+gtccg dccor hzo 8ae:1
+dccor hzo 8ae odoe:1
+hzo 8ae odoe o8am:1
+8ae odoe o8am odae:1
+odoe o8am odae :1
+o8am odae  oe8aik:1
+odae  oe8aik o8am:1
+ oe8aik o8am odae:1
+oe8aik o8am odae oe8am:1
+o8am odae oe8am todzoe:1
+odae oe8am todzoe oeoe:1
+oe8am todzoe oeoe :1
+todzoe oeoe  dtor:1
+oeoe  dtor ftoe:1
+ dtor ftoe pzoe:1
+dtor ftoe pzoe oetcoe:1
+ftoe pzoe oetcoe odcccg:1
+pzoe oetcoe odcccg :1
+oetcoe odcccg  gtoe:1
+odcccg  gtoe toe:1
+ gtoe toe 8oetccg:1
+gtoe toe 8oetccg htoe:1
+toe 8oetccg htoe 8ar:1
+8oetccg htoe 8ar dzg:1
+htoe 8ar dzg :1
+8ar dzg  ocdor:1
+dzg  ocdor or:1
+ ocdor or odam:1
+ocdor or odam or:1
+or odam or oham:1
+odam or oham 8:1
+or oham 8 :1
+oham 8  2or:1
+8  2or tdccg:1
+ 2or tdccg poii2:1
+2or tdccg poii2 tor:1
+tdccg poii2 tor o2:1
+poii2 tor o2 2am:1
+tor o2 2am :1
+o2 2am  4odccg:1
+2am  4odccg dta:1
+ 4odccg dta roe:1
+4odccg dta roe 8g:1
+dta roe 8g toe:1
+roe 8g toe 8am:1
+8g toe 8am 2g:1
+toe 8am 2g :1
+8am 2g  gtcoe:1
+2g  gtcoe soe:1
+ gtcoe soe dtoe:1
+gtcoe soe dtoe toe:1
+soe dtoe toe ham:1
+dtoe toe ham oe:1
+toe ham oe :1
+ham oe  oghor:1
+oe  oghor odcor:1
+ oghor odcor odar:1
+oghor odcor odar odoe:1
+odcor odar odoe 8oiir:1
+odar odoe 8oiir ak:1
+odoe 8oiir ak :1
+8oiir ak  4odtco:1
+ak  4odtco 4odoiir:1
+ 4odtco 4odoiir hzcoe:1
+4odtco 4odoiir hzcoe toe:1
+4odoiir hzcoe toe :1
+hzcoe toe  og:1
+toe  og tog:1
+ og tog dcam:1
+og tog dcam tdzcg:1
+tog dcam tdzcg oe:1
+dcam tdzcg oe tor:1
+tdzcg oe tor :1
+oe tor  gdcor:1
+tor  gdcor toe:1
+ gdcor toe toe:1
+gdcor toe toe hzoe:1
+toe toe hzoe tdor:1
+toe hzoe tdor scoe:1
+hzoe tdor scoe :1
+tdor scoe  oeor:1
+scoe  oeor odccoe:1
+ oeor odccoe to8am:1
+oeor odccoe to8am odcoe:1
+odccoe to8am odcoe htorg:1
+to8am odcoe htorg :1
+odcoe htorg  gtor:1
+htorg  gtor hzg:1
+ gtor hzg tccdg:1
+gtor hzg tccdg tco:1
+hzg tccdg tco ohor:1
+tccdg tco ohor ohcoe:1
+tco ohor ohcoe :1
+ohor ohcoe  odtcoe:1
+ohcoe  odtcoe toe:1
+ odtcoe toe odcoe:1
+odtcoe toe odcoe hzoe:1
+toe odcoe hzoe ohtcoeo:1
+odcoe hzoe ohtcoeo :1
+hzoe ohtcoeo  k:1
+ohtcoeo  k 4oan:1
+ k 4oan 2ar:1
+k 4oan 2ar sc:1
+4oan 2ar sc 8oe:1
+2ar sc 8oe 4optam:1
+sc 8oe 4optam hzor:1
+8oe 4optam hzor :1
+4optam hzor  ohor:1
+hzor  ohor tccor:1
+ ohor tccor oe:1
+ohor tccor oe toe:1
+tccor oe toe 8or:1
+oe toe 8or tr:1
+toe 8or tr orccc2:1
+8or tr orccc2 :1
+tr orccc2  8an:1
+orccc2  8an tcg:1
+ 8an tcg 4oam:1
+8an tcg 4oam hzor:1
+tcg 4oam hzor toetok:1
+4oam hzor toetok :1
+hzor toetok  gdccg:1
+toetok  gdccg odccg:1
+ gdccg odccg tcor:1
+gdccg odccg tcor toe:1
+odccg tcor toe so:1
+tcor toe so g8am:1
+toe so g8am :1
+so g8am  oae:1
+g8am  oae tcor:1
+ oae tcor soeor:1
+oae tcor soeor or:1
+tcor soeor or schzg:1
+soeor or schzg pzcor:1
+or schzg pzcor 8am:1
+schzg pzcor 8am :1
+pzcor 8am  4odccc:1
+8am  4odccc 8ar:1
+ 4odccc 8ar tcg:1
+4odccc 8ar tcg dccor:1
+8ar tcg dccor tccoe:1
+tcg dccor tccoe hzccg:1
+dccor tccoe hzccg hzg:1
+tccoe hzccg hzg :1
+hzccg hzg  tdccg:1
+hzg  tdccg odcor:1
+ tdccg odcor tar:1
+tdccg odcor tar odcok:1
+odcor tar odcok :1
+tar odcok  :1
+odcok   :1
+   p8rair8g:1
+  p8rair8g 8aro8c:1
+ p8rair8g 8aro8c fgoar:1
+p8rair8g 8aro8c fgoar gdtoe:1
+8aro8c fgoar gdtoe 8arak:1
+fgoar gdtoe 8arak tdzg:1
+gdtoe 8arak tdzg odzor:1
+8arak tdzg odzor 8ae:1
+tdzg odzor 8ae :1
+odzor 8ae  ohsoe:1
+8ae  ohsoe 4odtoe:1
+ ohsoe 4odtoe tgdtg:1
+ohsoe 4odtoe tgdtg odtae:1
+4odtoe tgdtg odtae 8am:1
+tgdtg odtae 8am 8g:1
+odtae 8am 8g toe:1
+8am 8g toe 8:1
+8g toe 8 :1
+toe 8  im:1
+8  im 4odtor:1
+ im 4odtor tor:1
+im 4odtor tor tdzg:1
+4odtor tor tdzg or:1
+tor tdzg or tcg:1
+tdzg or tcg 4odtoe:1
+or tcg 4odtoe 8g:1
+tcg 4odtoe 8g ghtar:1
+4odtoe 8g ghtar :1
+8g ghtar  k:1
+ghtar  k tor:1
+ k tor hzor:1
+k tor hzor odcor:1
+tor hzor odcor gdtoe:1
+hzor odcor gdtoe odan:1
+odcor gdtoe odan :1
+gdtoe odan  htor:1
+odan  htor sor:1
+ htor sor hzam:1
+htor sor hzam hzoe:1
+sor hzam hzoe teoe:1
+hzam hzoe teoe tok:1
+hzoe teoe tok :1
+teoe tok  gtg:1
+tok  gtg dtor:1
+ gtg dtor 8an:1
+gtg dtor 8an ghoe:1
+dtor 8an ghoe thzg:1
+8an ghoe thzg 8ar:1
+ghoe thzg 8ar 8ar:1
+thzg 8ar 8ar 8ae:1
+8ar 8ar 8ae :1
+8ar 8ae  osor:1
+8ae  osor sam:1
+ osor sam hzg:1
+osor sam hzg soe8g:1
+sam hzg soe8g 8oe8g:1
+hzg soe8g 8oe8g 8oe8am:1
+soe8g 8oe8g 8oe8am :1
+8oe8g 8oe8am  4odtor:1
+8oe8am  4odtor dzoe:1
+ 4odtor dzoe oeo8g:1
+4odtor dzoe oeo8g odae8g:1
+dzoe oeo8g odae8g 8arg:1
+oeo8g odae8g 8arg :1
+odae8g 8arg  toe:1
+8arg  toe thzae:1
+ toe thzae odsae:1
+toe thzae odsae tgdae8:1
+thzae odsae tgdae8 :1
+odsae tgdae8  8ar:1
+tgdae8  8ar sor:1
+ 8ar sor 4odtoe:1
+8ar sor 4odtoe oeg8am:1
+sor 4odtoe oeg8am :1
+4odtoe oeg8am  2ohtam:1
+oeg8am  2ohtam todtg:1
+ 2ohtam todtg tdzoe:1
+2ohtam todtg tdzoe tork:1
+todtg tdzoe tork :1
+tdzoe tork  :1
+tork   gtair:1
+  gtair hzoe:1
+ gtair hzoe 8am:1
+gtair hzoe 8am 4odtg:1
+hzoe 8am 4odtg hzg:1
+8am 4odtg hzg :1
+4odtg hzg  or:1
+hzg  or sam:1
+ or sam hzor:1
+or sam hzor hzae:1
+sam hzor hzae odae:1
+hzor hzae odae 8ar:1
+hzae odae 8ar :1
+odae 8ar  gtcdtg:1
+8ar  gtcdtg dtam:1
+ gtcdtg dtam :1
+gtcdtg dtam  :1
+dtam   :1
+   hof8:1
+  hof8 sar:1
+ hof8 sar ghsg:1
+hof8 sar ghsg oht8ae:1
+sar ghsg oht8ae 8tae:1
+ghsg oht8ae 8tae 8tg:1
+oht8ae 8tae 8tg gh8k:1
+8tae 8tg gh8k :1
+8tg gh8k  4occc2:1
+gh8k  4occc2 oroam:1
+ 4occc2 oroam sg:1
+4occc2 oroam sg odsg:1
+oroam sg odsg 4odtg:1
+sg odsg 4odtg 4odtg:1
+odsg 4odtg 4odtg 2k:1
+4odtg 4odtg 2k :1
+4odtg 2k  :1
+2k   or:1
+  or sg:1
+ or sg 4odg:1
+or sg 4odg 4odg:1
+sg 4odg 4odg tdtg:1
+4odg 4odg tdtg 4odsg:1
+4odg tdtg 4odsg 4odak:1
+tdtg 4odsg 4odak :1
+4odsg 4odak  4ohtg:1
+4odak  4ohtg 4odag:1
+ 4ohtg 4odag 4odtg:1
+4ohtg 4odag 4odtg gdto:1
+4odag 4odtg gdto g8e:1
+4odtg gdto g8e 8a:1
+gdto g8e 8a :1
+g8e 8a  r:1
+8a  r gtocc2:1
+ r gtocc2 gdtg:1
+r gtocc2 gdtg 4oe:1
+gtocc2 gdtg 4oe dtg:1
+gdtg 4oe dtg 4ohtoe:1
+4oe dtg 4ohtoe 8aiir:1
+dtg 4ohtoe 8aiir ok:1
+4ohtoe 8aiir ok :1
+8aiir ok  4ohor:1
+ok  4ohor tor:1
+ 4ohor tor ohtg:1
+4ohor tor ohtg 4odccc2:1
+tor ohtg 4odccc2 tg:1
+ohtg 4odccc2 tg 2ar:1
+4odccc2 tg 2ar gdar:1
+tg 2ar gdar :1
+2ar gdar  gtoe:1
+gdar  gtoe 8or:1
+ gtoe 8or to8:1
+gtoe 8or to8 4odoe:1
+8or to8 4odoe 8am:1
+to8 4odoe 8am 4odoe:1
+4odoe 8am 4odoe 8ar:1
+8am 4odoe 8ar 8g:1
+4odoe 8ar 8g :1
+8ar 8g  hoeoe:1
+8g  hoeoe s:1
+ hoeoe s pzog:1
+hoeoe s pzog 8aror:1
+s pzog 8aror 88g:1
+pzog 8aror 88g ghor:1
+8aror 88g ghor gdak:1
+88g ghor gdak :1
+ghor gdak  odtor:1
+gdak  odtor 4ohtg:1
+ odtor 4ohtg 4odtg:1
+odtor 4ohtg 4odtg ghoe:1
+4ohtg 4odtg ghoe 8odg:1
+4odtg ghoe 8odg 8g:1
+ghoe 8odg 8g :1
+8odg 8g  gda:1
+8g  gda 8sg:1
+ gda 8sg 8air:1
+gda 8sg 8air gdoe:1
+8sg 8air gdoe 8ok:1
+8air gdoe 8ok :1
+gdoe 8ok  :1
+8ok   :1
+   ptor:2
+  ptor 4o8tg:1
+ ptor 4o8tg 4ohsg:1
+ptor 4o8tg 4ohsg 8g:1
+4o8tg 4ohsg 8g htg:1
+4ohsg 8g htg 4ohtg:1
+8g htg 4ohtg 4odg:1
+htg 4ohtg 4odg 8am:1
+4ohtg 4odg 8am 8tg8g:1
+4odg 8am 8tg8g :1
+8am 8tg8g  8sg:1
+8tg8g  8sg tor:1
+ 8sg tor g:1
+8sg tor g htg:1
+tor g htg toe:1
+g htg toe 8ghtg:1
+htg toe 8ghtg tor8g:1
+toe 8ghtg tor8g 8am:1
+8ghtg tor8g 8am 8ghg:1
+tor8g 8am 8ghg 2:1
+8am 8ghg 2 to0:1
+8ghg 2 to0 :1
+2 to0  o2tcor:1
+to0  o2tcor sg:1
+ o2tcor sg h8am:1
+o2tcor sg h8am toe:1
+sg h8am toe 8or:1
+h8am toe 8or gdg:1
+toe 8or gdg :1
+8or gdg  4odorar:1
+gdg  4odorar 8am:1
+ 4odorar 8am tdzg:1
+4odorar 8am tdzg sg:1
+8am tdzg sg dtor:1
+tdzg sg dtor :1
+sg dtor  ohtg:1
+dtor  ohtg htg:1
+ ohtg htg 4odg:1
+ohtg htg 4odg 8am:1
+htg 4odg 8am r:1
+4odg 8am r :1
+8am r  gsor:1
+r  gsor sg:1
+ gsor sg 8am:1
+gsor sg 8am ohghtg:1
+sg 8am ohghtg 8am:1
+8am ohghtg 8am :1
+ohghtg 8am  4odto:1
+8am  4odto dg:1
+ 4odto dg hzar:1
+4odto dg hzar 8or:1
+dg hzar 8or tal:1
+hzar 8or tal 8ar:1
+8or tal 8ar :1
+tal 8ar  or:1
+8ar  or tor:1
+ or tor 8adg:1
+or tor 8adg 8ae:1
+tor 8adg 8ae tor:1
+8adg 8ae tor 8ore:1
+8ae tor 8ore sg:1
+tor 8ore sg :1
+8ore sg  4ohtor:1
+sg  4ohtor 8g:1
+ 4ohtor 8g 8or:1
+4ohtor 8g 8or ghtg:1
+8g 8or ghtg dtg:1
+8or ghtg dtg s8am:1
+ghtg dtg s8am :1
+dtg s8am  8am:1
+s8am  8am hzor:1
+8am hzor toe gdtor:1
+hzor toe gdtor tor8g:1
+toe gdtor tor8g :1
+gdtor tor8g  4ohtg:1
+tor8g  4ohtg 4oeo8g:1
+ 4ohtg 4oeo8g toe8g:1
+4ohtg 4oeo8g toe8g hzg8:1
+4oeo8g toe8g hzg8 :1
+toe8g hzg8  gdtor:1
+hzg8  gdtor tor:1
+ gdtor tor 8am:1
+gdtor tor 8am 8amoe:1
+tor 8am 8amoe :1
+8am 8amoe  o2ohzor:1
+8amoe  o2ohzor ghtor:1
+ o2ohzor ghtor :1
+o2ohzor ghtor  :1
+ghtor   :1
+   potam:1
+  potam hzor:1
+ potam hzor tptco2:1
+potam hzor tptco2 optcg:1
+hzor tptco2 optcg pgdtg:1
+tptco2 optcg pgdtg :1
+optcg pgdtg  4odtg:1
+pgdtg  4odtg dtoe:1
+ 4odtg dtoe 2or:1
+4odtg dtoe 2or 4odto2:1
+dtoe 2or 4odto2 gdtg:1
+2or 4odto2 gdtg 8arok:1
+4odto2 gdtg 8arok :1
+gdtg 8arok  ohtg:1
+8arok  ohtg toe:1
+ ohtg toe 8am:1
+ohtg toe 8am 4ohoe:1
+toe 8am 4ohoe ghoe:1
+8am 4ohoe ghoe 8am:1
+4ohoe ghoe 8am :1
+ghoe 8am  ght:1
+8am  ght thzg:1
+ ght thzg 4ohoe:1
+ght thzg 4ohoe 8am:1
+thzg 4ohoe 8am 8am:1
+4ohoe 8am 8am :1
+8am 8am  4ohtg:1
+8am  4ohtg 4ohccg:1
+ 4ohtg 4ohccg 8am:1
+4ohtg 4ohccg 8am 8ohg:1
+4ohccg 8am 8ohg 4oh:1
+8am 8ohg 4oh :1
+8ohg 4oh  gtog:1
+4oh  gtog dtor:1
+ gtog dtor hzoe:1
+gtog dtor hzoe tohzg:1
+dtor hzoe tohzg 2:1
+hzoe tohzg 2 gto:1
+tohzg 2 gto r:1
+2 gto r tam:1
+gto r tam hzor:1
+r tam hzor :1
+tam hzor  hog:1
+hzor  hog htcg:1
+ hog htcg 4o:1
+hog htcg 4o 8toe:1
+htcg 4o 8toe 4odt2:1
+4o 8toe 4odt2 8ok:1
+8toe 4odt2 8ok :1
+4odt2 8ok  gtor:1
+8ok  gtor odg:1
+ gtor odg tor:1
+gtor odg tor ghae:1
+odg tor ghae toe:1
+tor ghae toe odg88or:1
+ghae toe odg88or :1
+toe odg88or  8am:1
+odg88or  8am tor:1
+ 8am tor 8am:1
+8am tor 8am 4odor:1
+tor 8am 4odor godtal:1
+8am 4odor godtal :1
+4odor godtal  4ohoe:1
+godtal  4ohoe 8ar:1
+ 4ohoe 8ar odtor:1
+4ohoe 8ar odtor 8am:1
+8ar odtor 8am hzor:1
+odtor 8am hzor ohak:1
+8am hzor ohak :1
+hzor ohak  oht:1
+ohak  oht odto8:1
+ oht odto8 sg:1
+oht odto8 sg 8am:1
+odto8 sg 8am or:1
+sg 8am or oham:1
+8am or oham 8air:1
+or oham 8air :1
+oham 8air  gcc2:1
+8air  gcc2 gdtoe:1
+ gcc2 gdtoe ohg:1
+gcc2 gdtoe ohg ghor:1
+gdtoe ohg ghor ghar:1
+ohg ghor ghar ghtor:1
+ghor ghar ghtor gham:1
+ghar ghtor gham :1
+ghtor gham  ohtoe:1
+gham  ohtoe tcam:1
+ ohtoe tcam hzoe:1
+ohtoe tcam hzoe :1
+tcam hzoe  :1
+hzoe   :1
+   d8to8g:1
+  d8to8g topg:1
+ d8to8g topg tccg:1
+d8to8g topg tccg 4ohtoe:1
+topg tccg 4ohtoe 4ohoccg:1
+tccg 4ohtoe 4ohoccg 8tor:1
+4ohtoe 4ohoccg 8tor tam:1
+4ohoccg 8tor tam :1
+8tor tam  to8cg:1
+tam  to8cg hzcg:1
+ to8cg hzcg tohoe:1
+to8cg hzcg tohoe o8aiir:1
+hzcg tohoe o8aiir 4ohtg:1
+tohoe o8aiir 4ohtg hzo8g:1
+o8aiir 4ohtg hzo8g to8tg:1
+4ohtg hzo8g to8tg :1
+hzo8g to8tg  4ohccg:1
+to8tg  4ohccg toto8am:1
+ 4ohccg toto8am so:1
+4ohccg toto8am so 4otg:1
+toto8am so 4otg tcg:1
+so 4otg tcg htco:1
+4otg tcg htco 8ae:1
+tcg htco 8ae 8arae:1
+htco 8ae 8arae :1
+8ae 8arae  otoe:1
+8arae  otoe oehccg:1
+ otoe oehccg ohaetcg:1
+otoe oehccg ohaetcg :1
+oehccg ohaetcg  ptohzg:1
+ohaetcg  ptohzg todoam:1
+ ptohzg todoam pzg:1
+ptohzg todoam pzg tcccl:1
+todoam pzg tcccl optcg:1
+pzg tcccl optcg so2am:1
+tcccl optcg so2am 0:1
+optcg so2am 0 :1
+so2am 0  tocc2:1
+0  tocc2 odtor:1
+ tocc2 odtor 4ohoe:1
+tocc2 odtor 4ohoe tccg:1
+odtor 4ohoe tccg 8am:1
+4ohoe tccg 8am tg:1
+tccg 8am tg tom:1
+8am tg tom 8am:1
+tg tom 8am :1
+tom 8am  otoe:1
+8am  otoe so8:1
+ otoe so8 8am:1
+otoe so8 8am tohcoe:1
+so8 8am tohcoe toe:1
+8am tohcoe toe 8oe:1
+tohcoe toe 8oe soe:1
+toe 8oe soe oham:1
+8oe soe oham :1
+soe oham  2to8an:1
+oham  2to8an tcor:1
+ 2to8an tcor tco8g:1
+2to8an tcor tco8g :1
+tcor tco8g  fto8cc2:1
+tco8g  fto8cc2 so8g:1
+ fto8cc2 so8g 4ohtcg:1
+fto8cc2 so8g 4ohtcg 4odtcg:1
+so8g 4ohtcg 4odtcg 4opzg:1
+4ohtcg 4odtcg 4opzg todoe8g:1
+4odtcg 4opzg todoe8g :1
+4opzg todoe8g  otoam:1
+todoe8g  otoam tor:1
+ otoam tor 2o8g:1
+otoam tor 2o8g pto8am:1
+tor 2o8g pto8am tcho8g:1
+2o8g pto8am tcho8g todg:1
+pto8am tcho8g todg 8tg:1
+tcho8g todg 8tg hog:1
+todg 8tg hog :1
+8tg hog  8to8:1
+hog  8to8 4ohcco8g:1
+ 8to8 4ohcco8g ghtg:1
+8to8 4ohcco8g ghtg 4oh:1
+4ohcco8g ghtg 4oh scg:1
+ghtg 4oh scg 8tam:1
+4oh scg 8tam toe:1
+scg 8tam toe o8g:1
+8tam toe o8g :1
+toe o8g  som:1
+o8g  som tco8g:1
+ som tco8g ohtcg:1
+som tco8g ohtcg ohtg:1
+tco8g ohtcg ohtg htg:1
+ohtcg ohtg htg 4ohccg:1
+ohtg htg 4ohccg 8am:1
+htg 4ohccg 8am 8ar:1
+4ohccg 8am 8ar :1
+8am 8ar  otam:1
+8ar  otam tor:1
+ otam tor tor:1
+otam tor tor tccg:1
+tor tor tccg htcg:1
+tor tccg htcg :1
+tccg htcg  :1
+htcg   :1
+   faii2:1
+  faii2 ar:1
+ faii2 ar odog:1
+faii2 ar odog sg:1
+ar odog sg po:1
+odog sg po fotcg:1
+sg po fotcg optg:1
+po fotcg optg 4opg:1
+fotcg optg 4opg toe8g:1
+optg 4opg toe8g opg8g:1
+4opg toe8g opg8g pzg:1
+toe8g opg8g pzg :1
+opg8g pzg  2o2:1
+pzg  2o2 gdam:1
+ 2o2 gdam tcoe:1
+2o2 gdam tcoe toe:1
+gdam tcoe toe tom:1
+tcoe toe tom tchzg:1
+toe tom tchzg ohoe:1
+tom tchzg ohoe toe:1
+tchzg ohoe toe to8am:1
+ohoe toe to8am ohg:1
+toe to8am ohg :1
+to8am ohg  odtg:1
+ohg  odtg so:1
+ odtg so dtoe:1
+odtg so dtoe soe:1
+so dtoe soe thzg:1
+dtoe soe thzg 4ohg:1
+soe thzg 4ohg tg:1
+thzg 4ohg tg hoe:1
+4ohg tg hoe sg:1
+tg hoe sg 4ohtg:1
+hoe sg 4ohtg :1
+sg 4ohtg  so:1
+4ohtg  so or:1
+ so or am:1
+so or am soe:1
+or am soe 8am:1
+am soe 8am :1
+soe 8am  hsoe:1
+8am  hsoe foe:1
+ hsoe foe toe:1
+hsoe foe toe ohor:1
+foe toe ohor soe:1
+toe ohor soe so2:1
+ohor soe so2 fso8tg:1
+soe so2 fso8tg ohtg:1
+so2 fso8tg ohtg tpzg:1
+fso8tg ohtg tpzg 8g:1
+ohtg tpzg 8g :1
+tpzg 8g  8oim:1
+8g  8oim todzg:1
+ 8oim todzg 8ar:1
+8oim todzg 8ar tcodzg:1
+todzg 8ar tcodzg so2:1
+8ar tcodzg so2 tco2:1
+tcodzg so2 tco2 tar:1
+so2 tco2 tar hzam:1
+tco2 tar hzam :1
+tar hzam  sohzg:1
+hzam  sohzg so:1
+ sohzg so hzg:1
+sohzg so hzg 8am:1
+so hzg 8am scog:1
+hzg 8am scog hcg:1
+8am scog hcg 2:1
+scog hcg 2 2oam:1
+hcg 2 2oam :1
+2 2oam  san:1
+2oam  san toraeg:1
+ san toraeg so:1
+san toraeg so ar:1
+toraeg so ar tg:1
+so ar tg 8am:1
+ar tg 8am 82:1
+tg 8am 82 :1
+8am 82  :1
+82   gdtg:1
+  gdtg dco8g:1
+ gdtg dco8g to:1
+gdtg dco8g to hzg:1
+dco8g to hzg toe:1
+to hzg toe s8:1
+hzg toe s8 4ohg:1
+toe s8 4ohg 80:1
+s8 4ohg 80 :1
+4ohg 80  0:1
+80  0 sodam:1
+ 0 sodam tohzg:1
+0 sodam tohzg toe:1
+sodam tohzg toe 8am:1
+tohzg toe 8am tg:1
+toe 8am tg tor:1
+8am tg tor chg:1
+tg tor chg :1
+tor chg  odom:1
+chg  odom tcg:1
+ odom tcg pzoe:1
+odom tcg pzoe torg:1
+tcg pzoe torg :1
+pzoe torg  :1
+torg   :1
+  ptor occodzg:1
+ ptor occodzg ofgtcg:1
+ptor occodzg ofgtcg gptcg:1
+occodzg ofgtcg gptcg 4optco8g:1
+ofgtcg gptcg 4optco8g oham:1
+gptcg 4optco8g oham tal:1
+4optco8g oham tal :1
+oham tal  2am:1
+tal  2am tpzg:1
+ 2am tpzg odg:1
+2am tpzg odg scam:1
+tpzg odg scam 4ohtoe:1
+odg scam 4ohtoe ohco2:1
+scam 4ohtoe ohco2 sccg:1
+4ohtoe ohco2 sccg hzg:1
+ohco2 sccg hzg 8am:1
+sccg hzg 8am :1
+hzg 8am  4ohoe:1
+8am  4ohoe sg:1
+ 4ohoe sg oe:1
+4ohoe sg oe tcor:1
+sg oe tcor tg:1
+oe tcor tg 4odtcg:1
+tcor tg 4odtcg tcg:1
+tg 4odtcg tcg dccg:1
+4odtcg tcg dccg 8g:1
+tcg dccg 8g :1
+dccg 8g  ptofg:1
+8g  ptofg tg:1
+ ptofg tg 8am:1
+ptofg tg 8am hzan:1
+tg 8am hzan ohoeosccg:1
+8am hzan ohoeosccg 4ohzcg:1
+hzan ohoeosccg 4ohzcg hoe:1
+ohoeosccg 4ohzcg hoe torg:1
+4ohzcg hoe torg :1
+hoe torg  gdccg:1
+torg  gdccg 8am:1
+ gdccg 8am to2g:1
+gdccg 8am to2g 4odom:1
+8am to2g 4odom ohoe:1
+to2g 4odom ohoe toe:1
+4odom ohoe toe 4ohtcoe:1
+ohoe toe 4ohtcoe odcoam:1
+toe 4ohtcoe odcoam :1
+4ohtcoe odcoam  8tor:1
+odcoam  8tor g:1
+ 8tor g doegdg:1
+8tor g doegdg toe:1
+g doegdg toe doe:1
+doegdg toe doe 4odcae:1
+toe doe 4odcae toeoe:1
+doe 4odcae toeoe 4ohccoe:1
+4odcae toeoe 4ohccoe 8a8g:1
+toeoe 4ohccoe 8a8g :1
+4ohccoe 8a8g  socor:1
+8a8g  socor tcor:1
+ socor tcor todco8g:1
+socor tcor todco8g to:1
+tcor todco8g to hzor:1
+todco8g to hzor sg:1
+to hzor sg :1
+hzor sg  fto:1
+sg  fto dsg:1
+ fto dsg ohor:1
+fto dsg ohor scoe:1
+dsg ohor scoe opzae:1
+ohor scoe opzae opsca2:1
+scoe opzae opsca2 hzo8am:1
+opzae opsca2 hzo8am ohg:1
+opsca2 hzo8am ohg :1
+hzo8am ohg  odam:1
+ohg  odam so:1
+ odam so hsam:1
+odam so hsam tdam:1
+so hsam tdam shzcg:1
+hsam tdam shzcg hzo8g:1
+tdam shzcg hzo8g hzg2:1
+shzcg hzo8g hzg2 :1
+hzo8g hzg2  hohtg:1
+hzg2  hohtg dcor:1
+ hohtg dcor tgdg:1
+hohtg dcor tgdg 4oham:1
+dcor tgdg 4oham 4ohtoe:1
+tgdg 4oham 4ohtoe hg:1
+4oham 4ohtoe hg hzccg:1
+4ohtoe hg hzccg oham:1
+hg hzccg oham :1
+hzccg oham  soe:1
+oham  soe toe:1
+ soe toe soe:1
+soe toe soe htoe:1
+toe soe htoe thzg:1
+soe htoe thzg ohgdg:1
+htoe thzg ohgdg scg:1
+thzg ohgdg scg ghcoe:1
+ohgdg scg ghcoe so8g:1
+scg ghcoe so8g :1
+ghcoe so8g  gdccg:1
+so8g  gdccg tor:1
+ gdccg tor sccg:1
+gdccg tor sccg gscoe:1
+tor sccg gscoe tor:1
+sccg gscoe tor toe:1
+gscoe tor toe 8am:1
+tor toe 8am tdam:1
+toe 8am tdam :1
+8am tdam  :1
+tdam   :1
+   hoe8sg:1
+  hoe8sg toftg:1
+ hoe8sg toftg 4ofscg:1
+hoe8sg toftg 4ofscg sdzae:1
+toftg 4ofscg sdzae o8am:1
+4ofscg sdzae o8am scg:1
+sdzae o8am scg dzoeg:1
+o8am scg dzoeg :1
+scg dzoeg  occc2og:1
+dzoeg  occc2og 4odtg:1
+ occc2og 4odtg to8g:1
+occc2og 4odtg to8g 4ohtg:1
+4odtg to8g 4ohtg 4odtg:1
+to8g 4ohtg 4odtg tohg:1
+4ohtg 4odtg tohg htoe:1
+4odtg tohg htoe 8am:1
+tohg htoe 8am :1
+htoe 8am  4ohof:1
+8am  4ohof dcccc2:1
+ 4ohof dcccc2 tohtg:1
+4ohof dcccc2 tohtg hto:1
+dcccc2 tohtg hto tohg:1
+tohtg hto tohg tor:1
+hto tohg tor 4ohoe:1
+tohg tor 4ohoe 8am:1
+tor 4ohoe 8am 8ae:1
+4ohoe 8am 8ae :1
+8am 8ae  so:1
+8ae  so to8am:1
+ so to8am tohg:1
+so to8am tohg toe:1
+to8am tohg toe 8am:1
+tohg toe 8am 8am:1
+toe 8am 8am thg:1
+8am 8am thg thoe:1
+8am thg thoe :1
+thg thoe  osg:1
+thoe  osg 8ccg:1
+ osg 8ccg hzoe:1
+osg 8ccg hzoe sohzg:1
+8ccg hzoe sohzg 8am:1
+hzoe sohzg 8am 8aihodg:1
+sohzg 8am 8aihodg :1
+8am 8aihodg  so:1
+8aihodg  so hso:1
+ so hso tohsoe:1
+so hso tohsoe toe:1
+hso tohsoe toe ho8am:1
+tohsoe toe ho8am 8am:1
+toe ho8am 8am :1
+ho8am 8am  gdto:1
+8am  gdto etoe:1
+ gdto etoe toe:1
+gdto etoe toe tam:1
+etoe toe tam ohtg:1
+toe tam ohtg 2:1
+tam ohtg 2 scam:1
+ohtg 2 scam :1
+2 scam  toe:1
+scam  toe dtotam:1
+ toe dtotam :1
+toe dtotam  :1
+dtotam   :1
+   poeoesg:1
+  poeoesg ftoeg:1
+ poeoesg ftoeg soe:1
+poeoesg ftoeg soe 8ptg:1
+ftoeg soe 8ptg ohg:1
+soe 8ptg ohg odoeg:1
+8ptg ohg odoeg 8am:1
+ohg odoeg 8am optg2:1
+odoeg 8am optg2 opzg:1
+8am optg2 opzg :1
+optg2 opzg  oeom:1
+opzg  oeom soe:1
+ oeom soe odor:1
+oeom soe odor 4odtoe:1
+soe odor 4odtoe 8am:1
+odor 4odtoe 8am oham:1
+4odtoe 8am oham hzor:1
+8am oham hzor 8an:1
+oham hzor 8an dzg:1
+hzor 8an dzg 8ok:1
+8an dzg 8ok :1
+dzg 8ok  4odoe:1
+8ok  4odoe 8gdam:1
+ 4odoe 8gdam odtg:1
+4odoe 8gdam odtg 8am:1
+8gdam odtg 8am hzoe:1
+odtg 8am hzoe hzoeo:1
+8am hzoe hzoeo 8ar:1
+hzoe hzoeo 8ar san:1
+hzoeo 8ar san :1
+8ar san  ptam:1
+san  ptam optg:1
+ ptam optg 8am:1
+ptam optg 8am fzg:1
+optg 8am fzg 8oram:1
+8am fzg 8oram gptoe:1
+fzg 8oram gptoe 2g:1
+8oram gptoe 2g 2tor:1
+gptoe 2g 2tor 8am:1
+2g 2tor 8am :1
+2tor 8am  oe:1
+8am  oe 8am:1
+ oe 8am 4odtg:1
+oe 8am 4odtg 8ar:1
+8am 4odtg 8ar 8am:1
+4odtg 8ar 8am tor:1
+8ar 8am tor oe8or:1
+8am tor oe8or odg:1
+tor oe8or odg gtoe8tg:1
+oe8or odg gtoe8tg :1
+odg gtoe8tg  gtodstg:1
+gtoe8tg  gtodstg hzccl:1
+ gtodstg hzccl :1
+gtodstg hzccl  dtoe:1
+hzccl  dtoe soe:1
+ dtoe soe 8scor:1
+dtoe soe 8scor sda:1
+soe 8scor sda t8oeg:1
+8scor sda t8oeg gham:1
+sda t8oeg gham oe:1
+t8oeg gham oe ohtg:1
+gham oe ohtg pzae:1
+oe ohtg pzae :1
+ohtg pzae  8tor:1
+pzae  8tor ohg:1
+ 8tor ohg 8am:1
+8tor ohg 8am hzoeg:1
+ohg 8am hzoeg 4odg:1
+8am hzoeg 4odg toham:1
+hzoeg 4odg toham tohzg:1
+4odg toham tohzg 8o0m:1
+toham tohzg 8o0m 8tor:1
+tohzg 8o0m 8tor :1
+8o0m 8tor  o8am:1
+8tor  o8am 8an:1
+ o8am 8an hzg:1
+o8am 8an hzg hzcor:1
+8an hzg hzcor oramg:1
+hzg hzcor oramg :1
+hzcor oramg  dtoe:1
+oramg  dtoe tor:1
+ dtoe tor 8am:1
+dtoe tor 8am hzom:1
+tor 8am hzom 8tor:1
+8am hzom 8tor tcg:1
+hzom 8tor tcg 4odoe8g:1
+8tor tcg 4odoe8g optoe:1
+tcg 4odoe8g optoe oe8ak:1
+4odoe8g optoe oe8ak :1
+optoe oe8ak  8om:1
+oe8ak  8om gdzo8g:1
+ 8om gdzo8g 4odtg:1
+8om gdzo8g 4odtg odg:1
+gdzo8g 4odtg odg ohoe8g:1
+4odtg odg ohoe8g ghg:1
+odg ohoe8g ghg 8oe:1
+ohoe8g ghg 8oe or:1
+ghg 8oe or 8atg:1
+8oe or 8atg 8am:1
+or 8atg 8am :1
+8atg 8am  o8tam:1
+8am  o8tam hzg:1
+ o8tam hzg odtg:1
+o8tam hzg odtg dtg:1
+hzg odtg dtg 8toe:1
+odtg dtg 8toe 8am:1
+dtg 8toe 8am g8am:1
+8toe 8am g8am :1
+8am g8am  8tor:1
+g8am  8tor 8g8an:1
+ 8tor 8g8an 4odzg:1
+8tor 8g8an 4odzg gdae:1
+8g8an 4odzg gdae odan:1
+4odzg gdae odan :1
+gdae odan  :1
+odan   :1
+   pg2amor:1
+  pg2amor oftar:1
+ pg2amor oftar odg:1
+pg2amor oftar odg htg:1
+oftar odg htg oh8g:1
+odg htg oh8g 2or:1
+htg oh8g 2or sg:1
+oh8g 2or sg 4o8:1
+2or sg 4o8 :1
+sg 4o8  8am:1
+4o8  8am gdam:1
+ 8am gdam 4ohtg:1
+8am gdam 4ohtg dtg:1
+gdam 4ohtg dtg ohtg8:1
+4ohtg dtg ohtg8 8sor:1
+dtg ohtg8 8sor gtg:1
+ohtg8 8sor gtg :1
+8sor gtg  4odg:1
+gtg  4odg dtore:1
+ 4odg dtore ohtg:1
+4odg dtore ohtg hzg:1
+dtore ohtg hzg ohtg:1
+ohtg hzg ohtg dg:1
+hzg ohtg dg ghtoe:1
+ohtg dg ghtoe ohak:1
+dg ghtoe ohak :1
+ghtoe ohak  ohtam:1
+ohak  ohtam sohg:1
+ ohtam sohg 4odg:1
+ohtam sohg 4odg 2am:1
+sohg 4odg 2am o8am:1
+4odg 2am o8am gham:1
+2am o8am gham :1
+o8am gham  8or:1
+gham  8or gdtcor:1
+ 8or gdtcor 8am:1
+8or gdtcor 8am :1
+gdtcor 8am  fsor:1
+8am  fsor sg:1
+ fsor sg htor:1
+fsor sg htor oham:1
+sg htor oham :1
+htor oham  gtor:1
+oham  gtor tor:1
+ gtor tor 4odtoe:1
+gtor tor 4odtoe torg:1
+tor 4odtoe torg :1
+4odtoe torg  4ohtg:1
+torg  4ohtg hzg:1
+ 4ohtg hzg 4odoe:1
+4ohtg hzg 4odoe 8am:1
+hzg 4odoe 8am 8ak:1
+4odoe 8am 8ak :1
+8am 8ak  odsor:1
+8ak  odsor so8g:1
+ odsor so8g toe:1
+odsor so8g toe hccoe:1
+so8g toe hccoe oham:1
+toe hccoe oham 8am:1
+hccoe oham 8am :1
+oham 8am  4odtg:1
+8am  4odtg 8am:1
+ 4odtg 8am 2:1
+4odtg 8am 2 orghae:1
+8am 2 orghae :1
+2 orghae  2odam:1
+orghae  2odam ohg:1
+ 2odam ohg 8g:1
+2odam ohg 8g :1
+ohg 8g  gtdg:1
+8g  gtdg 8am:1
+ gtdg 8am hzg:1
+gtdg 8am hzg :1
+8am hzg  odtan:1
+hzg  odtan tdoe8g:1
+ odtan tdoe8g sohoeg:1
+odtan tdoe8g sohoeg :1
+tdoe8g sohoeg  4ohtg:1
+sohoeg  4ohtg oeseg:1
+ 4ohtg oeseg soe:1
+4ohtg oeseg soe 8am:1
+oeseg soe 8am :1
+soe 8am  so:1
+8am  so hzg:1
+ so hzg tohzg:1
+so hzg tohzg 4odtg:1
+hzg tohzg 4odtg 8org:1
+tohzg 4odtg 8org :1
+4odtg 8org  2am:1
+8org  2am tg:1
+ 2am tg 8ae8aeoe:1
+2am tg 8ae8aeoe :1
+tg 8ae8aeoe  :1
+8ae8aeoe   :1
+   pg8t8ok:1
+  pg8t8ok tg:1
+ pg8t8ok tg ftoe8g:1
+pg8t8ok tg ftoe8g ohg:1
+tg ftoe8g ohg ohtoe:1
+ftoe8g ohg ohtoe sg:1
+ohg ohtoe sg opgam:1
+ohtoe sg opgam 0gftg:1
+sg opgam 0gftg 8am:1
+opgam 0gftg 8am oeoe8g:1
+0gftg 8am oeoe8g 8ae:1
+8am oeoe8g 8ae :1
+oeoe8g 8ae  hoar:1
+8ae  hoar tor:1
+ hoar tor 8am:1
+hoar tor 8am td:1
+tor 8am td 8an:1
+8am td 8an ohtg:1
+td 8an ohtg eoetor:1
+8an ohtg eoetor 8am:1
+ohtg eoetor 8am 8ak:1
+eoetor 8am 8ak odtoe:1
+8am 8ak odtoe 8ank:1
+8ak odtoe 8ank :1
+odtoe 8ank  :1
+8ank   8tar:1
+  8tar gdor:1
+ 8tar gdor gdam:1
+8tar gdor gdam 8am:1
+gdor gdam 8am hzok:1
+gdam 8am hzok :1
+8am hzok  4odoe8g:1
+hzok  4odoe8g odaiir:1
+ 4odoe8g odaiir gdaiiek:1
+4odoe8g odaiir gdaiiek 4odccg:1
+odaiir gdaiiek 4odccg oftoe:1
+gdaiiek 4odccg oftoe 8an:1
+4odccg oftoe 8an gftor:1
+oftoe 8an gftor oeftor:1
+8an gftor oeftor ohtae8:1
+gftor oeftor ohtae8 :1
+oeftor ohtae8  gtor:1
+ohtae8  gtor 4odtoe:1
+ gtor 4odtoe ghak:1
+gtor 4odtoe ghak toe:1
+4odtoe ghak toe 8an:1
+ghak toe 8an toe:1
+toe 8an toe ar:1
+8an toe ar of:1
+toe ar of oe:1
+ar of oe 8oe:1
+of oe 8oe 8an:1
+oe 8oe 8an :1
+8oe 8an  hsoe:1
+8an  hsoe gdor:1
+ hsoe gdor 4odam:1
+hsoe gdor 4odam gdg:1
+gdor 4odam gdg 8ar:1
+4odam gdg 8ar odoe:1
+gdg 8ar odoe 8tcg:1
+8ar odoe 8tcg 8an8ae:1
+odoe 8tcg 8an8ae 8ak:1
+8tcg 8an8ae 8ak ghtoe:1
+8an8ae 8ak ghtoe 8ae2:1
+8ak ghtoe 8ae2 :1
+ghtoe 8ae2  odar:1
+8ae2  odar oetar:1
+ odar oetar sam:1
+odar oetar sam 4odtoe:1
+oetar sam 4odtoe 8ar:1
+sam 4odtoe 8ar 4odtoe:1
+4odtoe 8ar 4odtoe 8airo:1
+8ar 4odtoe 8airo r:1
+4odtoe 8airo r oe:1
+8airo r oe 8am:1
+r oe 8am ae:1
+oe 8am ae :1
+8am ae  k:1
+ae  k 4odsg:1
+ k 4odsg tar:1
+k 4odsg tar 8aiir:1
+4odsg tar 8aiir 4odam:1
+tar 8aiir 4odam oeoe:1
+8aiir 4odam oeoe 4oam:1
+4odam oeoe 4oam gdtg:1
+oeoe 4oam gdtg 2:1
+4oam gdtg 2 8ae:1
+gdtg 2 8ae odtg:1
+2 8ae odtg :1
+8ae odtg  odoe:1
+odtg  odoe odsg:1
+ odoe odsg 4odoe:1
+odoe odsg 4odoe 8g:1
+odsg 4odoe 8g 8ae:1
+4odoe 8g 8ae 8sc:1
+8g 8ae 8sc 4odccc2g:1
+8ae 8sc 4odccc2g oeg:1
+8sc 4odccc2g oeg 8am:1
+4odccc2g oeg 8am 8ae:1
+oeg 8am 8ae :1
+8am 8ae  4gd:1
+8ae  4gd odam:1
+ 4gd odam tdtg:1
+4gd odam tdtg 2:1
+odam tdtg 2 ghcan:1
+tdtg 2 ghcan o8ae:1
+2 ghcan o8ae tae:1
+ghcan o8ae tae 8g:1
+o8ae tae 8g 8ar:1
+tae 8g 8ar gdan:1
+8g 8ar gdan :1
+8ar gdan  gdgda:1
+gdan  gdgda 8aeorg:1
+ gdgda 8aeorg :1
+gdgda 8aeorg  :1
+8aeorg   :1
+   po8airoe:1
+  po8airoe o8ameg:1
+ po8airoe o8ameg so:1
+po8airoe o8ameg so ae:1
+o8ameg so ae 8g:1
+so ae 8g optoeohoe:1
+ae 8g optoeohoe oe:1
+8g optoeohoe oe tpzg:1
+optoeohoe oe tpzg 4ohtar:1
+oe tpzg 4ohtar 2:1
+tpzg 4ohtar 2 :1
+4ohtar 2  4ohco:1
+2  4ohco hor:1
+ 4ohco hor tg:1
+4ohco hor tg odtaf8g:1
+hor tg odtaf8g 4odtcg:1
+tg odtaf8g 4odtcg 8oe:1
+odtaf8g 4odtcg 8oe ohtoe:1
+4odtcg 8oe ohtoe tae:1
+8oe ohtoe tae oht:1
+ohtoe tae oht :1
+tae oht  k:1
+oht  k gto:1
+ k gto odam:1
+k gto odam odcoe:1
+gto odam odcoe ccc2:1
+odam odcoe ccc2 of:1
+odcoe ccc2 of 8am:1
+ccc2 of 8am odccor:1
+of 8am odccor 8am:1
+8am odccor 8am 4ohtoe8:1
+odccor 8am 4ohtoe8 :1
+8am 4ohtoe8  odtcg:1
+4ohtoe8  odtcg 8air:1
+ odtcg 8air soeoe:1
+odtcg 8air soeoe oe8ae:1
+8air soeoe oe8ae ohtor:1
+soeoe oe8ae ohtor 8ar:1
+oe8ae ohtor 8ar :1
+ohtor 8ar  8or:1
+8ar  8or tcar:1
+ 8or tcar sor:1
+8or tcar sor 8oe:1
+tcar sor 8oe oae8arg:1
+sor 8oe oae8arg :1
+8oe oae8arg  hsoe:1
+oae8arg  hsoe sor:1
+ hsoe sor sdsg:1
+hsoe sor sdsg odoe:1
+sor sdsg odoe 8am:1
+sdsg odoe 8am ohsor:1
+odoe 8am ohsor oe2ar:1
+8am ohsor oe2ar :1
+ohsor oe2ar  ohor:1
+oe2ar  ohor om:1
+ ohor om so:1
+ohor om so soe:1
+om so soe 4odoe:1
+so soe 4odoe 8am:1
+soe 4odoe 8am 2oe:1
+4odoe 8am 2oe 8am:1
+8am 2oe 8am geg:1
+2oe 8am geg :1
+8am geg  4odam:1
+geg  4odam 8an:1
+ 4odam 8an 4odor:1
+4odam 8an 4odor odae8:1
+8an 4odor odae8 8ak:1
+4odor odae8 8ak tor:1
+odae8 8ak tor oeoe:1
+8ak tor oeoe 8ak:1
+tor oeoe 8ak :1
+oeoe 8ak  ohsg:1
+8ak  ohsg 8ae:1
+ ohsg 8ae 8ar:1
+ohsg 8ae 8ar oe8ar:1
+8ae 8ar oe8ar ar:1
+8ar oe8ar ar or:1
+oe8ar ar or 4oho:1
+ar or 4oho e:1
+or 4oho e tcc2:1
+4oho e tcc2 :1
+e tcc2  :1
+tcc2   k:1
+  k 8ortg:1
+ k 8ortg dsoe:1
+k 8ortg dsoe toe:1
+8ortg dsoe toe hzo0:1
+dsoe toe hzo0 ohoe:1
+toe hzo0 ohoe oeoiir:1
+hzo0 ohoe oeoiir :1
+ohoe oeoiir  godam:1
+oeoiir  godam 8oram:1
+ godam 8oram oeoe2:1
+godam 8oram oeoe2 om:1
+8oram oeoe2 om oe:1
+oeoe2 om oe tccl:1
+om oe tccl oe2:1
+oe tccl oe2 :1
+tccl oe2  ofano2:1
+oe2  ofano2 oeoro:1
+ ofano2 oeoro cccoeg:1
+ofano2 oeoro cccoeg :1
+oeoro cccoeg  :1
+cccoeg   :1
+   pororg:1
+  pororg tor:1
+ pororg tor optar:1
+pororg tor optar sc:1
+tor optar sc tcoe:1
+optar sc tcoe 8am:1
+sc tcoe 8am or:1
+tcoe 8am or :1
+8am or  4oham:1
+or  4oham tar:1
+ 4oham tar o8an:1
+4oham tar o8an odaidzae:1
+tar o8an odaidzae odg:1
+o8an odaidzae odg :1
+odaidzae odg  ghzar:1
+odg  ghzar hzae:1
+ ghzar hzae odoe:1
+ghzar hzae odoe 4ohar:1
+hzae odoe 4ohar dzg:1
+odoe 4ohar dzg :1
+4ohar dzg  or:1
+dzg  or tdzaeg:1
+ or tdzaeg hzar:1
+or tdzaeg hzar ccor:1
+tdzaeg hzar ccor tcc2:1
+hzar ccor tcc2 8:1
+ccor tcc2 8 :1
+tcc2 8  a:1
+8  a 4o8ar:1
+ a 4o8ar to:1
+a 4o8ar to rtcg:1
+4o8ar to rtcg hzg:1
+to rtcg hzg hzgdcok:1
+rtcg hzg hzgdcok :1
+hzg hzgdcok  occco2:1
+hzgdcok  occco2 chcor:1
+ occco2 chcor ohae:1
+occco2 chcor ohae 4ohzoe:1
+chcor ohae 4ohzoe 4odg:1
+ohae 4ohzoe 4odg :1
+4ohzoe 4odg  4cdar:1
+4odg  4cdar thar:1
+ 4cdar thar 2:1
+4cdar thar 2 tcor:1
+thar 2 tcor hzoe:1
+2 tcor hzoe 4o8oe:1
+tcor hzoe 4o8oe :1
+hzoe 4o8oe  gtor:1
+4o8oe  gtor 2:1
+ gtor 2 ok:1
+gtor 2 ok 4ocar:1
+2 ok 4ocar 8am:1
+ok 4ocar 8am 4odcoe:1
+4ocar 8am 4odcoe :1
+8am 4odcoe  o8am:1
+4odcoe  o8am dzak:1
+ o8am dzak 4o8aidzg:1
+o8am dzak 4o8aidzg 8oe:1
+dzak 4o8aidzg 8oe 8ae:1
+4o8aidzg 8oe 8ae :1
+8oe 8ae  4eor:1
+8ae  4eor pzar:1
+ 4eor pzar tor:1
+4eor pzar tor 2:1
+pzar tor 2 ak:1
+tor 2 ak toham:1
+2 ak toham 8g:1
+ak toham 8g :1
+toham 8g  2ar:1
+8g  2ar tcoicc2:1
+ 2ar tcoicc2 odccr:1
+2ar tcoicc2 odccr tcor:1
+tcoicc2 odccr tcor 4odan:1
+odccr tcor 4odan :1
+tcor 4odan  4odtg:1
+4odan  4odtg 4ohtg:1
+ 4odtg 4ohtg hoe:1
+4odtg 4ohtg hoe ho8:1
+4ohtg hoe ho8 dzg:1
+hoe ho8 dzg :1
+ho8 dzg  occ2:1
+dzg  occ2 oe:1
+ occ2 oe 2:1
+occ2 oe 2 tcg:1
+oe 2 tcg thz:1
+2 tcg thz 2ar:1
+tcg thz 2ar :1
+thz 2ar  4or:1
+2ar  4or tccg:1
+ 4or tccg 4o8:1
+4or tccg 4o8 tar:1
+tccg 4o8 tar hzae:1
+4o8 tar hzae :1
+tar hzae  odzoc2:1
+hzae  odzoc2 occc2:1
+ odzoc2 occc2 oe:1
+odzoc2 occc2 oe 8ae:1
+occc2 oe 8ae 2:1
+oe 8ae 2 :1
+8ae 2  sak:1
+2  sak odcae:1
+ sak odcae 8ae:1
+sak odcae 8ae 8ak:1
+odcae 8ae 8ak 8ae:1
+8ae 8ak 8ae :1
+8ak 8ae  2scg:1
+8ae  2scg ohak:1
+ 2scg ohak sak:1
+2scg ohak sak hzok:1
+ohak sak hzok odg:1
+sak hzok odg :1
+hzok odg  gtcoe:1
+odg  gtcoe toe:1
+ gtcoe toe 8am:1
+gtcoe toe 8am toe:1
+toe 8am toe 2:1
+8am toe 2 :1
+toe 2  goe:1
+2  goe hoe:1
+ goe hoe toe:1
+goe hoe toe sok:1
+hoe toe sok ohapzg:1
+toe sok ohapzg :1
+sok ohapzg  2ak:1
+ohapzg  2ak toreg:1
+ 2ak toreg :1
+2ak toreg  :1
+toreg   :1
+   hto8ar:1
+  hto8ar tofzg:1
+ hto8ar tofzg opok:1
+hto8ar tofzg opok so8:1
+tofzg opok so8 tpzg:1
+opok so8 tpzg opso8g:1
+so8 tpzg opso8g opzo:1
+tpzg opso8g opzo ram:1
+opso8g opzo ram odo0ak:1
+opzo ram odo0ak :1
+ram odo0ak  g8ae2:1
+odo0ak  g8ae2 dzor:1
+ g8ae2 dzor sg:1
+g8ae2 dzor sg to:1
+dzor sg to 8tar:1
+sg to 8tar ohoe:1
+to 8tar ohoe ohaiir:1
+8tar ohoe ohaiir ohto2:1
+ohoe ohaiir ohto2 odtok:1
+ohaiir ohto2 odtok odto:1
+ohto2 odtok odto :1
+odtok odto  ohzoe:1
+odto  ohzoe o8tcc2:1
+ ohzoe o8tcc2 o2caric2:1
+ohzoe o8tcc2 o2caric2 odak:1
+o8tcc2 o2caric2 odak thz:1
+o2caric2 odak thz :1
+odak thz  g:1
+thz  g g8ae:1
+ g g8ae s:1
+g g8ae s odoe:1
+g8ae s odoe odam:1
+s odoe odam o8am:1
+odoe odam o8am 8eo2:1
+odam o8am 8eo2 ocor:1
+o8am 8eo2 ocor :1
+8eo2 ocor  oram:1
+ocor  oram htar:1
+ oram htar oro:1
+oram htar oro :1
+htar oro  hotoe:1
+oro  hotoe tor:1
+ hotoe tor fzarar:1
+hotoe tor fzarar :1
+tor fzarar  gtcoe:1
+fzarar  gtcoe 8ai8:1
+ gtcoe 8ai8 8ar:1
+gtcoe 8ai8 8ar oeok:1
+8ai8 8ar oeok :1
+8ar oeok  dotdg:1
+oeok  dotdg thzg:1
+ dotdg thzg soe:1
+dotdg thzg soe 2an:1
+thzg soe 2an :1
+soe 2an  gtoe:1
+2an  gtoe toe:1
+ gtoe toe or:1
+gtoe toe or torok:1
+toe or torok :1
+or torok  odoco2:1
+torok  odoco2 dzco8:1
+ odoco2 dzco8 tog:1
+odoco2 dzco8 tog dcoe:1
+dzco8 tog dcoe :1
+tog dcoe  g8am:1
+dcoe  g8am tcar:1
+ g8am tcar 4o8ok:1
+g8am tcar 4o8ok odo8am:1
+tcar 4o8ok odo8am :1
+4o8ok odo8am  dso:1
+odo8am  dso foar:1
+ dso foar hzo:1
+dso foar hzo so:1
+foar hzo so 4odt:1
+hzo so 4odt ododtae:1
+so 4odt ododtae :1
+4odt ododtae  occcg:1
+ododtae  occcg tcoe:1
+ occcg tcoe toe:1
+occcg tcoe toe o8or:1
+tcoe toe o8or so:1
+toe o8or so 8o:1
+o8or so 8o ohoeo8ae:1
+so 8o ohoeo8ae :1
+8o ohoeo8ae  8oiir:1
+ohoeo8ae  8oiir tccd8ak:1
+ 8oiir tccd8ak so:1
+8oiir tccd8ak so so:1
+tccd8ak so so 8g:1
+so so 8g :1
+so 8g  8tcg:1
+8g  8tcg dto8:1
+ 8tcg dto8 8tae:1
+8tcg dto8 8tae ot8g:1
+dto8 8tae ot8g :1
+8tae ot8g  ohtoe:1
+ot8g  ohtoe o8aiik:1
+ ohtoe o8aiik :1
+ohtoe o8aiik  :1
+o8aiik   :1
+   ftoe8g:1
+  ftoe8g 2osg:1
+ ftoe8g 2osg 8am:1
+ftoe8g 2osg 8am dzg:1
+2osg 8am dzg so8g:1
+8am dzg so8g 8am:1
+dzg so8g 8am otoe8g:1
+so8g 8am otoe8g pzoe8g:1
+8am otoe8g pzoe8g 2g:1
+otoe8g pzoe8g 2g :1
+pzoe8g 2g  ohor:1
+2g  ohor tor:1
+ ohor tor trdg:1
+ohor tor trdg tohtg:1
+tor trdg tohtg sair:1
+trdg tohtg sair 4o8:1
+tohtg sair 4o8 so:1
+sair 4o8 so tg:1
+4o8 so tg dtg:1
+so tg dtg tdan:1
+tg dtg tdan :1
+dtg tdan  4ohtg:1
+tdan  4ohtg 4ohsg:1
+ 4ohtg 4ohsg tcc2cc2:1
+4ohtg 4ohsg tcc2cc2 sccar:1
+4ohsg tcc2cc2 sccar 2:1
+tcc2cc2 sccar 2 tan:1
+sccar 2 tan 8am:1
+2 tan 8am tan:1
+tan 8am tan 8a:1
+8am tan 8a :1
+tan 8a  n:1
+8a  n 8tdzg:1
+ n 8tdzg sohzg:1
+n 8tdzg sohzg ghtcg:1
+8tdzg sohzg ghtcg hzor:1
+sohzg ghtcg hzor 2:1
+ghtcg hzor 2 tal:1
+hzor 2 tal tam:1
+2 tal tam 4ohtan:1
+tal tam 4ohtan :1
+tam 4ohtan  4ohtcam:1
+4ohtan  4ohtcam 8tan:1
+ 4ohtcam 8tan hzan:1
+4ohtcam 8tan hzan 8am:1
+8tan hzan 8am 8am:1
+hzan 8am 8am hzan:1
+8am 8am hzan 4oham:1
+8am hzan 4oham :1
+hzan 4oham  odae:1
+4oham  odae toham:1
+ odae toham :1
+odae toham  8air:1
+toham  8air ohaiir:1
+ 8air ohaiir oho2g:1
+8air ohaiir oho2g :1
+ohaiir oho2g  :1
+oho2g   :1
+   poccam:1
+  poccam 4odg:1
+ poccam 4odg sg:1
+poccam 4odg sg 8am:1
+4odg sg 8am 4optcg:1
+sg 8am 4optcg ohtcg:1
+8am 4optcg ohtcg 4oftor:1
+4optcg ohtcg 4oftor 2o2:1
+ohtcg 4oftor 2o2 :1
+4oftor 2o2  8tor:1
+2o2  8tor hzor:1
+ 8tor hzor tor:1
+8tor hzor tor 8am:1
+hzor tor 8am 2:1
+tor 8am 2 odccam:1
+8am 2 odccam 8am:1
+2 odccam 8am dzcg:1
+odccam 8am dzcg 8am:1
+8am dzcg 8am :1
+dzcg 8am  orto:1
+8am  orto dtor:1
+ orto dtor toe:1
+orto dtor toe 8am:1
+dtor toe 8am sdzor:1
+toe 8am sdzor 8am:1
+8am sdzor 8am 8scg:1
+sdzor 8am 8scg 8anhg:1
+8am 8scg 8anhg :1
+8scg 8anhg  4odam:1
+8anhg  4odam 4odto:1
+ 4odam 4odto soe:1
+4odam 4odto soe 8am:1
+4odto soe 8am dzcar:1
+soe 8am dzcar dzoe:1
+8am dzcar dzoe 8am:1
+dzcar dzoe 8am tdcar:1
+dzoe 8am tdcar :1
+8am tdcar  8ar:1
+tdcar  8ar todccg:1
+ 8ar todccg 8sor:1
+8ar todccg 8sor 8scg:1
+todccg 8sor 8scg 4otoe:1
+8sor 8scg 4otoe 8oe:1
+8scg 4otoe 8oe to:1
+4otoe 8oe to 8am:1
+8oe to 8am 8am:1
+to 8am 8am :1
+8am 8am  4odto:1
+8am  4odto rotg:1
+ 4odto rotg 4ohtg:1
+4odto rotg 4ohtg 4odorae:1
+rotg 4ohtg 4odorae :1
+4ohtg 4odorae  to:1
+4odorae  to 0:1
+ to 0 tan:1
+to 0 tan 8ccaiir:1
+0 tan 8ccaiir 2:1
+tan 8ccaiir 2 :1
+8ccaiir 2  os:1
+2  os tdcg:1
+ os tdcg 8anoe:1
+os tdcg 8anoe 8am:1
+tdcg 8anoe 8am sdzg:1
+8anoe 8am sdzg :1
+8am sdzg  ortam:1
+sdzg  ortam :1
+ ortam  :1
+ortam   :1
+   pscodg:1
+  pscodg o8aiir:1
+ pscodg o8aiir 4og:1
+pscodg o8aiir 4og :1
+o8aiir 4og  of2co8:1
+4og  of2co8 tgptcg:1
+ of2co8 tgptcg gptc8g:1
+of2co8 tgptcg gptc8g an:1
+tgptcg gptc8g an :1
+gptc8g an  tofo:1
+an  tofo :1
+ tofo  tpz8g:1
+tofo  tpz8g :1
+ tpz8g  8tcg:1
+tpz8g  8tcg 8am:1
+ 8tcg 8am a8cco8g:1
+8tcg 8am a8cco8g gdchzcg:1
+8am a8cco8g gdchzcg tc8g:1
+a8cco8g gdchzcg tc8g ghc8g:1
+gdchzcg tc8g ghc8g 8g:1
+tc8g ghc8g 8g :1
+ghc8g 8g  tchzc8g:1
+8g  tchzc8g e:1
+ tchzc8g e :1
+tchzc8g e  r:1
+e  r oam:1
+ r oam shzg:1
+r oam shzg hzc8g:1
+oam shzg hzc8g oeog:1
+shzg hzc8g oeog gdcc8g:1
+hzc8g oeog gdcc8g oetc8g:1
+oeog gdcc8g oetc8g 8ae:1
+gdcc8g oetc8g 8ae :1
+oetc8g 8ae  g:1
+8ae  g sccg:1
+ g sccg 2am:1
+g sccg 2am 2:1
+sccg 2am 2 :1
+2am 2  4odc8g:1
+2  4odc8g tco2:1
+ 4odc8g tco2 ghc8g:1
+4odc8g tco2 ghc8g 4odc8g:1
+tco2 ghc8g 4odc8g ghc8g:1
+ghc8g 4odc8g ghc8g tcdc8g:1
+4odc8g ghc8g tcdc8g 8am:1
+ghc8g tcdc8g 8am o8ak:1
+tcdc8g 8am o8ak 2:1
+8am o8ak 2 ae8g:1
+o8ak 2 ae8g :1
+2 ae8g  2am:1
+ae8g  2am sc8g:1
+ 2am sc8g cc8g:1
+2am sc8g cc8g cc8g:1
+sc8g cc8g cc8g 2tg:1
+cc8g cc8g 2tg 8am:1
+cc8g 2tg 8am hzc8g:1
+2tg 8am hzc8g :1
+8am hzc8g  4odcc8g:1
+hzc8g  4odcc8g 4odc8g:1
+ 4odcc8g 4odc8g hzcg:1
+4odcc8g 4odc8g hzcg :1
+4odc8g hzcg  rtc8g:1
+hzcg  rtc8g 4odc8g:1
+ rtc8g 4odc8g :1
+rtc8g 4odc8g  pto:1
+4odc8g  pto 4odc8g:1
+ pto 4odc8g 8ar:1
+pto 4odc8g 8ar sco:1
+4odc8g 8ar sco gpt2c82:1
+8ar sco gpt2c82 2:1
+sco gpt2c82 2 :1
+gpt2c82 2  am:1
+2  am :1
+ am  saptc8g:1
+am  saptc8g ftg:1
+ saptc8g ftg 8ae:1
+saptc8g ftg 8ae tc8g:1
+ftg 8ae tc8g 2ar:1
+8ae tc8g 2ar :1
+tc8g 2ar  8am:1
+2ar  8am sc8g:1
+ 8am sc8g 4odcc8g:1
+8am sc8g 4odcc8g 4ohcc8ar:1
+sc8g 4odcc8g 4ohcc8ar 2:1
+4odcc8g 4ohcc8ar 2 :1
+4ohcc8ar 2  od:1
+2  od oe:1
+ od oe ohc8g:1
+od oe ohc8g 4odoc8g:1
+oe ohc8g 4odoc8g 4odc8g:1
+ohc8g 4odoc8g 4odc8g :1
+4odoc8g 4odc8g  htco:1
+4odc8g  htco sg:1
+ htco sg 8cc8g:1
+htco sg 8cc8g odc8g:1
+sg 8cc8g odc8g tdzg:1
+8cc8g odc8g tdzg 2:1
+odc8g tdzg 2 :1
+tdzg 2  8g:1
+2  8g :1
+ 8g  8g:1
+8g  8g :1
+ 8g  gdcctg:1
+8g  gdcctg odcc8g:1
+ gdcctg odcc8g tcd:1
+gdcctg odcc8g tcd g:1
+odcc8g tcd g :1
+tcd g  sc2c:1
+g  sc2c am:1
+ sc2c am sco2:1
+sc2c am sco2 tco8g:1
+am sco2 tco8g ohae:1
+sco2 tco8g ohae :1
+tco8g ohae  :1
+ohae   :1
+   ptc8ar:1
+  ptc8ar 4o8arg:1
+ ptc8ar 4o8arg 80rn:1
+ptc8ar 4o8arg 80rn ptcchg:1
+4o8arg 80rn ptcchg 2air:1
+80rn ptcchg 2air sc8g:1
+ptcchg 2air sc8g gptc8g:1
+2air sc8g gptc8g gpt8g:1
+sc8g gptc8g gpt8g 4opg:1
+gptc8g gpt8g 4opg s8g:1
+gpt8g 4opg s8g :1
+4opg s8g  2araiir:1
+s8g  2araiir tcdc8g:1
+ 2araiir tcdc8g 4odc8g:1
+2araiir tcdc8g 4odc8g ohc8g:1
+tcdc8g 4odc8g ohc8g 2arg:1
+4odc8g ohc8g 2arg hz8g:1
+ohc8g 2arg hz8g 4odc8g:1
+2arg hz8g 4odc8g or:1
+hz8g 4odc8g or arcc:1
+4odc8g or arcc aeg2:1
+or arcc aeg2 tc8g:1
+arcc aeg2 tc8g :1
+aeg2 tc8g  pt8ar:1
+tc8g  pt8ar opar:1
+ pt8ar opar 8ar:1
+pt8ar opar 8ar tccoe:1
+opar 8ar tccoe oft8g:1
+8ar tccoe oft8g ohc8g:1
+tccoe oft8g ohc8g dz8g:1
+oft8g ohc8g dz8g o8ar:1
+ohc8g dz8g o8ar tc8g:1
+dz8g o8ar tc8g ghc8g:1
+o8ar tc8g ghc8g odt8gk:1
+tc8g ghc8g odt8gk :1
+ghc8g odt8gk  :1
+odt8gk   gdzco8g:1
+  gdzco8g 4odc8g:1
+ gdzco8g 4odc8g 8ccg:1
+gdzco8g 4odc8g 8ccg 2ae8g:1
+4odc8g 8ccg 2ae8g odc8or:1
+8ccg 2ae8g odc8or or:1
+2ae8g odc8or or tco2:1
+odc8or or tco2 oram:1
+or tco2 oram odca:1
+tco2 oram odca tcdam:1
+oram odca tcdam :1
+odca tcdam  8ccoe:1
+tcdam  8ccoe tco8g:1
+ 8ccoe tco8g 4ohcc8g:1
+8ccoe tco8g 4ohcc8g 4odo8g:1
+tco8g 4ohcc8g 4odo8g 4ohc8g:1
+4ohcc8g 4odo8g 4ohc8g 4ohc8g:1
+4odo8g 4ohc8g 4ohc8g ptc8g:1
+4ohc8g 4ohc8g ptc8g oftg:1
+4ohc8g ptc8g oftg t2:1
+ptc8g oftg t2 ar:1
+oftg t2 ar :1
+t2 ar  hocc8g:1
+ar  hocc8g dco8g:1
+ hocc8g dco8g sc8g:1
+hocc8g dco8g sc8g 8ar:1
+dco8g sc8g 8ar tc8g:1
+sc8g 8ar tc8g 2tc2:1
+8ar tc8g 2tc2 or:1
+tc8g 2tc2 or t0dg:1
+2tc2 or t0dg 8ar:1
+or t0dg 8ar tcg:1
+t0dg 8ar tcg tcdg:1
+8ar tcg tcdg ght8g:1
+tcg tcdg ght8g :1
+tcdg ght8g  ptc8g:1
+ght8g  ptc8g 8ar:1
+ ptc8g 8ar tcoch:1
+ptc8g 8ar tcoch tg:1
+8ar tcoch tg 2air:1
+tcoch tg 2air tcc2:1
+tg 2air tcc2 o8aim:1
+2air tcc2 o8aim tdcccg:1
+tcc2 o8aim tdcccg gdcg:1
+o8aim tdcccg gdcg sccg:1
+tdcccg gdcg sccg :1
+gdcg sccg  htc8g:1
+sccg  htc8g odcco2tcco2:1
+ htc8g odcco2tcco2 g2am:1
+htc8g odcco2tcco2 g2am odtccg:1
+odcco2tcco2 g2am odtccg dco8g:1
+g2am odtccg dco8g 2am:1
+odtccg dco8g 2am tcco2:1
+dco8g 2am tcco2 4odc2:1
+2am tcco2 4odc2 org:1
+tcco2 4odc2 org :1
+4odc2 org  gsccg:1
+org  gsccg odcsg:1
+ gsccg odcsg so8g:1
+gsccg odcsg so8g pscg:1
+odcsg so8g pscg ho8g8g:1
+so8g pscg ho8g8g :1
+pscg ho8g8g  :1
+ho8g8g   :1
+   d2or:1
+  d2or scg:1
+ d2or scg sohco:1
+d2or scg sohco tfo:1
+scg sohco tfo ram:1
+sohco tfo ram sg:1
+tfo ram sg so8:1
+ram sg so8 targ:1
+sg so8 targ :1
+so8 targ  8g:1
+targ  8g tan:1
+ 8g tan soe:1
+8g tan soe 8an:1
+tan soe 8an 8ar:1
+soe 8an 8ar sodg8:1
+8an 8ar sodg8 :1
+8ar sodg8  8toe:1
+sodg8  8toe hzcg82:1
+ 8toe hzcg82 :1
+8toe hzcg82  toe:1
+hzcg82  toe sg:1
+ toe sg dcoe:1
+toe sg dcoe toe:1
+sg dcoe toe sg:1
+dcoe toe sg soe:1
+toe sg soe tg:1
+sg soe tg :1
+soe tg  8am:1
+tg  8am tcg:1
+ 8am tcg 8ak:1
+8am tcg 8ak :1
+tcg 8ak  4odcg:1
+8ak  4odcg tor:1
+ 4odcg tor tar:1
+4odcg tor tar tg:1
+tor tar tg 8tg:1
+tar tg 8tg dccg:1
+tg 8tg dccg :1
+8tg dccg  to2:1
+dccg  to2 hzo8g:1
+ to2 hzo8g :1
+to2 hzo8g  8or:1
+hzo8g  8or tcc2:1
+ 8or tcc2 hzo:1
+8or tcc2 hzo sg:1
+tcc2 hzo sg pzarg:1
+hzo sg pzarg :1
+sg pzarg  8am:1
+pzarg  8am 8air:1
+ 8am 8air :1
+8am 8air  tg:1
+8air  tg htoe2:1
+ tg htoe2 tor:1
+tg htoe2 tor toe:1
+htoe2 tor toe tam:1
+tor toe tam :1
+toe tam  sg:1
+tam  sg dtae8g:1
+ sg dtae8g :1
+sg dtae8g  dtcg:1
+dtae8g  dtcg tcg:1
+ dtcg tcg dtcoe:1
+dtcg tcg dtcoe ptg:1
+tcg dtcoe ptg 2tcg:1
+dtcoe ptg 2tcg eg:1
+ptg 2tcg eg :1
+2tcg eg  tae2:1
+eg  tae2 tak:1
+ tae2 tak :1
+tae2 tak  ghtg:1
+tak  ghtg tg:1
+ ghtg tg htoe:1
+ghtg tg htoe 8g:1
+tg htoe 8g htcg:1
+htoe 8g htcg 8an:1
+8g htcg 8an :1
+htcg 8an  toe:1
+8an  toe 8ae:1
+ toe 8ae :1
+toe 8ae  8tcg:1
+8ae  8tcg dcco8:1
+ 8tcg dcco8 so:1
+8tcg dcco8 so htcg:1
+dcco8 so htcg toe:1
+so htcg toe ohg:1
+htcg toe ohg :1
+toe ohg  tg:1
+ohg  tg hoe:1
+ tg hoe :1
+tg hoe  k:1
+hoe  k 4ohtcg:1
+ k 4ohtcg sc2:1
+k 4ohtcg sc2 2g:1
+4ohtcg sc2 2g tg:1
+sc2 2g tg htcg:1
+2g tg htcg 8g:1
+tg htcg 8g :1
+htcg 8g  toe:1
+8g  toe 8aim:1
+ toe 8aim tcc2:1
+toe 8aim tcc2 to2:1
+8aim tcc2 to2 hzg:1
+tcc2 to2 hzg 8al:1
+to2 hzg 8al 8an:1
+hzg 8al 8an tcodccg:1
+8al 8an tcodccg tcg:1
+8an tcodccg tcg hzcg:1
+tcodccg tcg hzcg ohae:1
+tcg hzcg ohae :1
+hzcg ohae  ohto8ccg:1
+ohae  ohto8ccg :1
+ ohto8ccg  :1
+ohto8ccg   :1
+   fotof:1
+  fotof tof:1
+ fotof tof toso:1
+fotof tof toso 2oeg:1
+tof toso 2oeg soe:1
+toso 2oeg soe ghtor:1
+2oeg soe ghtor optorg:1
+soe ghtor optorg dtor:1
+ghtor optorg dtor tor:1
+optorg dtor tor :1
+dtor tor  8tg:1
+tor  8tg tdar:1
+ 8tg tdar ohtg:1
+8tg tdar ohtg sg:1
+tdar ohtg sg sg:1
+ohtg sg sg 8tg:1
+sg sg 8tg 8sg:1
+sg 8tg 8sg dtg:1
+8tg 8sg dtg tco:1
+8sg dtg tco 8ai8g:1
+dtg tco 8ai8g 8tg:1
+tco 8ai8g 8tg :1
+8ai8g 8tg  dtcg:1
+8tg  dtcg dtg:1
+ dtcg dtg 8to:1
+dtcg dtg 8to dtg:1
+dtg 8to dtg 8so:1
+8to dtg 8so 8tir:1
+dtg 8so 8tir to8tg:1
+8so 8tir to8tg hzcco8g:1
+8tir to8tg hzcco8g se8:1
+to8tg hzcco8g se8 :1
+hzcco8g se8  odto:1
+se8  odto sg:1
+ odto sg dt08:1
+odto sg dt08 te:1
+sg dt08 te :1
+dt08 te  toe:1
+te  toe do8:1
+ toe do8 :1
+toe do8  o:1
+do8  o odso:1
+ o odso 8otcc2k:1
+o odso 8otcc2k :1
+odso 8otcc2k  :1
+8otcc2k   4odg:1
+  4odg sdcco:1
+ 4odg sdcco rto8:1
+4odg sdcco rto8 ar:1
+sdcco rto8 ar sdof:1
+rto8 ar sdof tohtg:1
+ar sdof tohtg hzo:1
+sdof tohtg hzo 8oe:1
+tohtg hzo 8oe 8so:1
+hzo 8oe 8so dtrrr:1
+8oe 8so dtrrr odcc8g:1
+8so dtrrr odcc8g :1
+dtrrr odcc8g  8trtg:1
+odcc8g  8trtg 2oht8g:1
+ 8trtg 2oht8g :1
+8trtg 2oht8g  so:1
+2oht8g  so sog:1
+ so sog dto:1
+so sog dto s8g:1
+sog dto s8g :1
+dto s8g  8t8:1
+s8g  8t8 trtra:1
+ 8t8 trtra oht8g:1
+8t8 trtra oht8g :1
+trtra oht8g  odsc2:1
+oht8g  odsc2 odto:1
+ odsc2 odto dsg:1
+odsc2 odto dsg :1
+odto dsg  :1
+dsg   :1
+   pto8ar:1
+  pto8ar so8:1
+ pto8ar so8 topzg:1
+pto8ar so8 topzg optoe:1
+so8 topzg optoe 8am:1
+topzg optoe 8am :1
+optoe 8am  ohtoe:1
+8am  ohtoe tg4oe8g:1
+ ohtoe tg4oe8g :1
+ohtoe tg4oe8g  ohtor:1
+tg4oe8g  ohtor ohtor:1
+ ohtor ohtor hzoe:1
+ohtor ohtor hzoe hzg:1
+ohtor hzoe hzg hzcoe:1
+hzoe hzg hzcoe 8g:1
+hzg hzcoe 8g :1
+hzcoe 8g  8tar:1
+8g  8tar tado8:1
+ 8tar tado8 8eg:1
+8tar tado8 8eg :1
+tado8 8eg  4ohtam:1
+8eg  4ohtam sor:1
+ 4ohtam sor hzoe:1
+4ohtam sor hzoe hzoe:1
+sor hzoe hzoe sor:1
+hzoe hzoe sor :1
+hzoe sor  tohtg:1
+sor  tohtg hto8ar:1
+ tohtg hto8ar :1
+tohtg hto8ar  tohg:1
+hto8ar  tohg thoe:1
+ tohg thoe ohoe:1
+tohg thoe ohoe tohtg:1
+thoe ohoe tohtg hzoe:1
+ohoe tohtg hzoe :1
+tohtg hzoe  ohoe:1
+hzoe  ohoe todg:1
+ ohoe todg 4ohg:1
+ohoe todg 4ohg :1
+todg 4ohg  odso:1
+4ohg  odso ohortg:1
+ odso ohortg dtor:1
+odso ohortg dtor or:1
+ohortg dtor or to8am:1
+dtor or to8am :1
+or to8am  so:1
+to8am  so hzo8g:1
+ so hzo8g odog:1
+so hzo8g odog :1
+hzo8g odog  4odtoe:1
+odog  4odtoe 4o8am:1
+ 4odtoe 4o8am ohtoetg:1
+4odtoe 4o8am ohtoetg 8am:1
+4o8am ohtoetg 8am :1
+ohtoetg 8am  to:1
+8am  to 4odoe:1
+ to 4odoe odak:1
+to 4odoe odak :1
+4odoe odak  so:1
+odak  so ohor:1
+ so ohor sodzg:1
+so ohor sodzg sohzg:1
+ohor sodzg sohzg ohoe8g:1
+sodzg sohzg ohoe8g :1
+sohzg ohoe8g  8sor:1
+ohoe8g  8sor 8oe:1
+ 8sor 8oe 8ar:1
+8sor 8oe 8ar :1
+8oe 8ar  o2tohse:1
+8ar  o2tohse 8am:1
+ o2tohse 8am odtcg:1
+o2tohse 8am odtcg doe:1
+8am odtcg doe 8am:1
+odtcg doe 8am :1
+doe 8am  soe:1
+8am  soe 8so:1
+ soe 8so oham:1
+soe 8so oham :1
+8so oham  ghtoe:1
+oham  ghtoe 8ccg:1
+ ghtoe 8ccg ghcoe:1
+ghtoe 8ccg ghcoe 8cam:1
+8ccg ghcoe 8cam :1
+ghcoe 8cam  :1
+8cam   :1
+   dsoe:1
+  dsoe 4ooim:1
+ dsoe 4ooim sor:1
+dsoe 4ooim sor ptoim:1
+4ooim sor ptoim scptg:1
+sor ptoim scptg 4ohg:1
+ptoim scptg 4ohg 8g:1
+scptg 4ohg 8g sorg:1
+4ohg 8g sorg :1
+8g sorg  gdtoeg:1
+sorg  gdtoeg 4ohg:1
+ gdtoeg 4ohg tg:1
+gdtoeg 4ohg tg 8g:1
+4ohg tg 8g 4odtoe:1
+tg 8g 4odtoe tor:1
+8g 4odtoe tor htg:1
+4odtoe tor htg 4odto8g:1
+tor htg 4odto8g tcora:1
+htg 4odto8g tcora :1
+4odto8g tcora  :1
+tcora   tor:1
+  tor toe:1
+ tor toe tg:1
+tor toe tg tom:1
+toe tg tom :1
+tg tom  hsom:1
+tom  hsom tcor:1
+ hsom tcor tor:1
+hsom tcor tor othg:1
+tcor tor othg 4ohoe:1
+tor othg 4ohoe scoe:1
+othg 4ohoe scoe sor:1
+4ohoe scoe sor 8am:1
+scoe sor 8am 4ohg:1
+sor 8am 4ohg :1
+8am 4ohg  ohoe:1
+4ohg  ohoe toe:1
+ ohoe toe 8am:1
+ohoe toe 8am tdam:1
+toe 8am tdam som:1
+8am tdam som 4ohtcg:1
+tdam som 4ohtcg 4ohscg:1
+som 4ohtcg 4ohscg 8aim:1
+4ohtcg 4ohscg 8aim :1
+4ohscg 8aim  8am:1
+8aim  8am tdam:1
+ 8am tdam :1
+8am tdam  ptoe:1
+tdam  ptoe aiir:1
+ ptoe aiir toe:1
+ptoe aiir toe hso:1
+aiir toe hso 8am:1
+toe hso 8am so:1
+hso 8am so hco:1
+8am so hco tg:1
+so hco tg thsg:1
+hco tg thsg 8air:1
+tg thsg 8air ak:1
+thsg 8air ak :1
+8air ak  odan:1
+ak  odan tal:1
+ odan tal tan:1
+odan tal tan hzor:1
+tal tan hzor 8an:1
+tan hzor 8an gd:1
+hzor 8an gd tg:1
+8an gd tg 8am:1
+gd tg 8am hzoe:1
+tg 8am hzoe :1
+8am hzoe  2or:1
+hzoe  2or tcar:1
+ 2or tcar te:1
+2or tcar te 0:1
+tcar te 0 soeg:1
+te 0 soeg 8ar:1
+0 soeg 8ar :1
+soeg 8ar  :1
+8ar   :1
+   poram:1
+  poram sc:1
+ poram sc am:1
+poram sc am tcp:1
+sc am tcp ohg:1
+am tcp ohg tg:1
+tcp ohg tg 4ohtg:1
+ohg tg 4ohtg 4ohg:1
+tg 4ohtg 4ohg tcchzg:1
+4ohtg 4ohg tcchzg :1
+4ohg tcchzg  8sc:1
+tcchzg  8sc gdtg:1
+ 8sc gdtg tohg:1
+8sc gdtg tohg odg:1
+gdtg tohg odg toe:1
+tohg odg toe ttohg:1
+odg toe ttohg todg:1
+toe ttohg todg tghg:1
+ttohg todg tghg 8g:1
+todg tghg 8g :1
+tghg 8g  4odtg:1
+8g  4odtg 4ohg:1
+ 4odtg 4ohg dtam:1
+4odtg 4ohg dtam scar:1
+4ohg dtam scar hzor:1
+dtam scar hzor :1
+scar hzor  :1
+hzor   8tor:1
+  8tor toeg:1
+ 8tor toeg :1
+8tor toeg  tohzg:1
+toeg  tohzg 4oo2:1
+ tohzg 4oo2 to2:1
+tohzg 4oo2 to2 :1
+4oo2 to2  dtcoe:1
+to2  dtcoe tcor:1
+ dtcoe tcor sco2:1
+dtcoe tcor sco2 sccg:1
+tcor sco2 sccg hccg:1
+sco2 sccg hccg 8:1
+sccg hccg 8 :1
+hccg 8  a0:1
+8  a0 so2:1
+ a0 so2 ohzg:1
+a0 so2 ohzg :1
+so2 ohzg  todsg:1
+ohzg  todsg sohzg:1
+ todsg sohzg sor:1
+todsg sohzg sor sor:1
+sohzg sor sor 8am:1
+sor sor 8am :1
+sor 8am  4odaim:1
+8am  4odaim :1
+ 4odaim  4odtg:1
+4odaim  4odtg toe:1
+ 4odtg toe sodtg:1
+4odtg toe sodtg 4odam:1
+toe sodtg 4odam tochg:1
+sodtg 4odam tochg :1
+4odam tochg  tohg:1
+tochg  tohg dam:1
+ tohg dam :1
+tohg dam  sor:1
+dam  sor tor:1
+ sor tor so:1
+sor tor so scdg:1
+tor so scdg sg:1
+so scdg sg 4ohg:1
+scdg sg 4ohg do8g:1
+sg 4ohg do8g :1
+4ohg do8g  8am:1
+do8g  8am hzg:1
+ 8am hzg :1
+8am hzg  4odsc:1
+hzg  4odsc 4or:1
+ 4odsc 4or tcg:1
+4odsc 4or tcg dor:1
+4or tcg dor tco8:1
+tcg dor tco8 gtok:1
+dor tco8 gtok :1
+tco8 gtok  :1
+gtok   :1
+  doom sor:1
+ doom sor tchtg:1
+doom sor tchtg oeae2:1
+sor tchtg oeae2 sg:1
+tchtg oeae2 sg htg:1
+oeae2 sg htg hzgsg:1
+sg htg hzgsg :1
+htg hzgsg  to:1
+hzgsg  to sg:1
+ to sg 8am:1
+to sg 8am :1
+sg 8am  4ohtcam:1
+8am  4ohtcam 2toe:1
+ 4ohtcam 2toe toe:1
+4ohtcam 2toe toe hzg:1
+2toe toe hzg tcg:1
+toe hzg tcg hzoe8:1
+hzg tcg hzoe8 :1
+tcg hzoe8  ghtor:1
+hzoe8  ghtor 8arg:1
+ ghtor 8arg :1
+ghtor 8arg  toe:1
+8arg  toe toe:1
+ toe toe dor:1
+toe toe dor scg:1
+toe dor scg o8am:1
+dor scg o8am 4ohtg:1
+scg o8am 4ohtg ham:1
+o8am 4ohtg ham :1
+4ohtg ham  2:1
+ham  2 sc:1
+ 2 sc ohcg:1
+2 sc ohcg 2g:1
+sc ohcg 2g :1
+ohcg 2g  gso:1
+2g  gso ohsg:1
+ gso ohsg odam:1
+gso ohsg odam hzg:1
+ohsg odam hzg oehtg:1
+odam hzg oehtg hz2:1
+hzg oehtg hz2 s:1
+oehtg hz2 s :1
+hz2 s  oh:1
+s  oh so:1
+ oh so odam:1
+oh so odam :1
+so odam  hotol:1
+odam  hotol tan:1
+ hotol tan sal:1
+hotol tan sal sohg:1
+tan sal sohg tsg:1
+sal sohg tsg :1
+sohg tsg  sg:1
+tsg  sg :1
+ sg  8tor:1
+sg  8tor toe:1
+ 8tor toe tam:1
+8tor toe tam sam:1
+toe tam sam hzo8:1
+tam sam hzo8 8ar:1
+sam hzo8 8ar :1
+hzo8 8ar  t2:1
+8ar  t2 so8g:1
+ t2 so8g :1
+t2 so8g  4ohto:1
+so8g  4ohto dtor:1
+ 4ohto dtor 8am:1
+4ohto dtor 8am gdam:1
+dtor 8am gdam 8:1
+8am gdam 8 :1
+gdam 8  :1
+8   :1
+   g:1
+  g s8g:1
+ g s8g :1
+g s8g  tohzg:1
+s8g  tohzg scdg:1
+ tohzg scdg :1
+tohzg scdg  ohoe:1
+scdg  ohoe so:1
+ ohoe so htor:1
+ohoe so htor toeo8g:1
+so htor toeo8g 8an:1
+htor toeo8g 8an thz:1
+toeo8g 8an thz :1
+8an thz  tg:1
+thz  tg hzo8g:1
+ tg hzo8g 8oe:1
+tg hzo8g 8oe :1
+hzo8g 8oe  so:1
+8oe  so todor:1
+ so todor tor:1
+so todor tor tg:1
+todor tor tg g8am:1
+tor tg g8am to:1
+tg g8am to gdam:1
+g8am to gdam oam:1
+to gdam oam :1
+gdam oam  4odom:1
+oam  4odom odam:1
+ 4odom odam to:1
+4odom odam to hztg8:1
+odam to hztg8 :1
+to hztg8  tgdar:1
+hztg8  tgdar :1
+ tgdar  8am:1
+tgdar  8am thcor:1
+ 8am thcor ohzg:1
+8am thcor ohzg 8ar:1
+thcor ohzg 8ar tgh:1
+ohzg 8ar tgh :1
+8ar tgh  oho8g:1
+tgh  oho8g :1
+ oho8g  4cdcotor:1
+oho8g  4cdcotor ohtcg:1
+ 4cdcotor ohtcg 2g:1
+4cdcotor ohtcg 2g :1
+ohtcg 2g  :1
+2g   :1
+   odtc2g:1
+  odtc2g tcg:1
+ odtc2g tcg sor:1
+odtc2g tcg sor tcg:1
+tcg sor tcg ftco8g:1
+sor tcg ftco8g scg:1
+tcg ftco8g scg htg:1
+ftco8g scg htg tcr:1
+scg htg tcr 8o:1
+htg tcr 8o scg:1
+tcr 8o scg :1
+8o scg  gto8g:1
+scg  gto8g tcg:1
+ gto8g tcg tdccg:1
+gto8g tcg tdccg dso:1
+tcg tdccg dso dccor:1
+tdccg dso dccor tcor:1
+dso dccor tcor scg:1
+dccor tcor scg tc:1
+tcor scg tc dcco8oe:1
+scg tc dcco8oe 2g:1
+tc dcco8oe 2g :1
+dcco8oe 2g  to8am:1
+2g  to8am torg:1
+ to8am torg tcg:1
+to8am torg tcg 8om:1
+torg tcg 8om ram:1
+tcg 8om ram toran:1
+8om ram toran tccg:1
+ram toran tccg dc:1
+toran tccg dc :1
+tccg dc  ik:1
+dc  ik 4odctg:1
+ ik 4odctg 4odo:1
+ik 4odctg 4odo 4optar:1
+4odctg 4odo 4optar 2on:1
+4odo 4optar 2on tal:1
+4optar 2on tal 4ohtam:1
+2on tal 4ohtam :1
+tal 4ohtam  todo:1
+4ohtam  todo 4odotg:1
+ todo 4odotg 8cccg:1
+todo 4odotg 8cccg 8dccor:1
+4odotg 8cccg 8dccor tcoe8an:1
+8cccg 8dccor tcoe8an torg:1
+8dccor tcoe8an torg :1
+tcoe8an torg  8toroe:1
+torg  8toroe so:1
+ 8toroe so tor:1
+8toroe so tor to:1
+so tor to ro:1
+tor to ro ram:1
+to ro ram 8or:1
+ro ram 8or t2ccor8g:1
+ram 8or t2ccor8g :1
+8or t2ccor8g  4or:1
+t2ccor8g  4or tan:1
+ 4or tan hzortg:1
+4or tan hzortg :1
+tan hzortg  optoe:1
+hzortg  optoe oe:1
+ optoe oe tc2cg:1
+optoe oe tc2cg 2tco:1
+oe tc2cg 2tco rtcg:1
+tc2cg 2tco rtcg odcae:1
+2tco rtcg odcae 8tco:1
+rtcg odcae 8tco rtcg:1
+odcae 8tco rtcg :1
+8tco rtcg  8tcg:1
+rtcg  8tcg 4otar:1
+ 8tcg 4otar toe:1
+8tcg 4otar toe dccam:1
+4otar toe dccam thzcg:1
+toe dccam thzcg tor:1
+dccam thzcg tor tcdg:1
+thzcg tor tcdg :1
+tor tcdg  todtam:1
+tcdg  todtam 8tor:1
+ todtam 8tor tdtcal:1
+todtam 8tor tdtcal 4ohtg:1
+8tor tdtcal 4ohtg thzo:1
+tdtcal 4ohtg thzo rto8g:1
+4ohtg thzo rto8g :1
+thzo rto8g  4ohtor:1
+rto8g  4ohtor tcor:1
+ 4ohtor tcor tcg:1
+4ohtor tcor tcg tcor:1
+tcor tcg tcor tcg:1
+tcg tcor tcg 2om:1
+tcor tcg 2om g8cg:1
+tcg 2om g8cg 2or:1
+2om g8cg 2or 8am:1
+g8cg 2or 8am :1
+2or 8am  8tccg:1
+8am  8tccg dzcg:1
+ 8tccg dzcg dzcg:1
+8tccg dzcg dzcg 8am:1
+dzcg dzcg 8am tdcam:1
+dzcg 8am tdcam 8ar:1
+8am tdcam 8ar tor:1
+tdcam 8ar tor gt8a:1
+8ar tor gt8a :1
+tor gt8a  m:1
+gt8a  m to8am:1
+ m to8am thtcg:1
+m to8am thtcg tcar:1
+to8am thtcg tcar sg:1
+thtcg tcar sg dccg:1
+tcar sg dccg :1
+sg dccg  :1
+dccg   :1
+   hz2hzan:1
+  hz2hzan so2am:1
+ hz2hzan so2am tohzcg:1
+hz2hzan so2am tohzcg so:1
+so2am tohzcg so tcptg:1
+tohzcg so tcptg sor:1
+so tcptg sor scam:1
+tcptg sor scam :1
+sor scam  4ohtor:1
+scam  4ohtor tg:1
+ 4ohtor tg sc:1
+4ohtor tg sc dtor:1
+tg sc dtor torg:1
+sc dtor torg dcor:1
+dtor torg dcor oe:1
+torg dcor oe tg:1
+dcor oe tg 8am:1
+oe tg 8am hzoe8g:1
+tg 8am hzoe8g :1
+8am hzoe8g  tohtoe:1
+hzoe8g  tohtoe 8am:1
+ tohtoe 8am hzoe:1
+tohtoe 8am hzoe 8om:1
+8am hzoe 8om 8am:1
+hzoe 8om 8am todcor:1
+8om 8am todcor 8ae:1
+8am todcor 8ae thohzg:1
+todcor 8ae thohzg :1
+8ae thohzg  ohtcg:1
+thohzg  ohtcg 8am:1
+ ohtcg 8am tor:1
+ohtcg 8am tor tcdzg:1
+8am tor tcdzg 4ohto8:1
+tor tcdzg 4ohto8 8am:1
+tcdzg 4ohto8 8am :1
+4ohto8 8am  8ail:1
+8am  8ail sohg:1
+ 8ail sohg tdoe:1
+8ail sohg tdoe ghor:1
+sohg tdoe ghor tcof8g:1
+tdoe ghor tcof8g :1
+ghor tcof8g  4odccor:1
+tcof8g  4odccor todoe:1
+ 4odccor todoe todco8g:1
+4odccor todoe todco8g 8airg:1
+todoe todco8g 8airg :1
+todco8g 8airg  todtg:1
+8airg  todtg so:1
+ todtg so dto:1
+todtg so dto hto:1
+so dto hto hzo:1
+dto hto hzo 2o2:1
+hto hzo 2o2 :1
+hzo 2o2  ogsg:1
+2o2  ogsg tcohoe:1
+ ogsg tcohoe pzoam:1
+ogsg tcohoe pzoam pzcg:1
+tcohoe pzoam pzcg :1
+pzoam pzcg  4ohtor:1
+pzcg  4ohtor tor:1
+ 4ohtor tor sccg:1
+4ohtor tor sccg tcoe:1
+tor sccg tcoe 2o2:1
+sccg tcoe 2o2 :1
+tcoe 2o2  so:1
+2o2  so scoe8g:1
+ so scoe8g ohtcor:1
+so scoe8g ohtcor 8am:1
+scoe8g ohtcor 8am :1
+ohtcor 8am  2oe:1
+8am  2oe todtccg:1
+ 2oe todtccg 8am:1
+2oe todtccg 8am dto8g:1
+todtccg 8am dto8g :1
+8am dto8g  :1
+dto8g   :1
+   dcc8cg:1
+  dcc8cg 4oftc8g:1
+ dcc8cg 4oftc8g scc:1
+dcc8cg 4oftc8g scc 2am:1
+4oftc8g scc 2am 4odccft:1
+scc 2am 4odccft tcpa:1
+2am 4odccft tcpa dco:1
+4odccft tcpa dco :1
+tcpa dco  gtccg:1
+dco  gtccg 8am:1
+ gtccg 8am odcc8g:1
+gtccg 8am odcc8g 4odcc2:1
+8am odcc8g 4odcc2 2:1
+odcc8g 4odcc2 2 000n:1
+4odcc2 2 000n sdzcg:1
+2 000n sdzcg 4cf:1
+000n sdzcg 4cf :1
+sdzcg 4cf  4odccg:1
+4cf  4odccg tcg:1
+ 4odccg tcg 8am:1
+4odccg tcg 8am 4odccg:1
+tcg 8am 4odccg rair:1
+8am 4odccg rair tdzg:1
+4odccg rair tdzg 2am:1
+rair tdzg 2am 8a:1
+tdzg 2am 8a :1
+2am 8a  e4ohar:1
+8a  e4ohar tg:1
+ e4ohar tg 8ir:1
+e4ohar tg 8ir ed:1
+tg 8ir ed r:1
+8ir ed r ar:1
+ed r ar tccg:1
+r ar tccg dccoe:1
+ar tccg dccoe tc8g:1
+tccg dccoe tc8g 4odcg:1
+dccoe tc8g 4odcg :1
+tc8g 4odcg  8am:1
+4odcg  8am scoo8g:1
+ 8am scoo8g 4odcor:1
+8am scoo8g 4odcor :1
+scoo8g 4odcor  hsohco8g:1
+4odcor  hsohco8g 4odc8g:1
+ hsohco8g 4odc8g 4ohc8g:1
+hsohco8g 4odc8g 4ohc8g tcpar:1
+4odc8g 4ohc8g tcpar tc8a:1
+4ohc8g tcpar tc8a ram:1
+tcpar tc8a ram 8ae:1
+tc8a ram 8ae :1
+ram 8ae  gdcc8ar:1
+8ae  gdcc8ar 2am:1
+ gdcc8ar 2am tcdzcg:1
+gdcc8ar 2am tcdzcg scoe:1
+2am tcdzcg scoe 4odc8g:1
+tcdzcg scoe 4odc8g gdcc8g:1
+scoe 4odc8g gdcc8g tc8g:1
+4odc8g gdcc8g tc8g e8g:1
+gdcc8g tc8g e8g :1
+tc8g e8g  sc8g:1
+e8g  sc8g 4odc8g:1
+ sc8g 4odc8g tcoe:1
+sc8g 4odc8g tcoe tco8:1
+4odc8g tcoe tco8 4odco8g:1
+tcoe tco8 4odco8g tcoe:1
+tco8 4odco8g tcoe tchzg:1
+4odco8g tcoe tchzg :1
+tcoe tchzg  8aiir:1
+tchzg  8aiir scco:1
+ 8aiir scco shzcg:1
+8aiir scco shzcg odcoe:1
+scco shzcg odcoe :1
+shzcg odcoe  hoes2o:1
+odcoe  hoes2o odc8g:1
+ hoes2o odc8g odc8g:1
+hoes2o odc8g odc8g 4odc8g:1
+odc8g odc8g 4odc8g 4odcc8g:1
+odc8g 4odc8g 4odcc8g 8ar:1
+4odc8g 4odcc8g 8ar sc8:1
+4odcc8g 8ar sc8 scg:1
+8ar sc8 scg :1
+sc8 scg  oescoe:1
+scg  oescoe 4odtg:1
+ oescoe 4odtg 8ae:1
+oescoe 4odtg 8ae tcg:1
+4odtg 8ae tcg 8ccg:1
+8ae tcg 8ccg dtg:1
+tcg 8ccg dtg dccg:1
+8ccg dtg dccg odam:1
+dtg dccg odam gdccg:1
+dccg odam gdccg :1
+odam gdccg  4oam:1
+gdccg  4oam gtc2:1
+ 4oam gtc2 odc8g:1
+4oam gtc2 odc8g sccg:1
+gtc2 odc8g sccg tc8am:1
+odc8g sccg tc8am 8ar:1
+sccg tc8am 8ar :1
+tc8am 8ar  oescor:1
+8ar  oescor 4odc8g:1
+ oescor 4odc8g odc8g:1
+oescor 4odc8g odc8g gdc8g:1
+4odc8g odc8g gdc8g 8ae2:1
+odc8g gdc8g 8ae2 :1
+gdc8g 8ae2  2aiir:1
+8ae2  2aiir or:1
+ 2aiir or tc8g:1
+2aiir or tc8g 8am:1
+or tc8g 8am odcc8g:1
+tc8g 8am odcc8g :1
+8am odcc8g  gsc8air:1
+odcc8g  gsc8air scoe:1
+ gsc8air scoe tcdg:1
+gsc8air scoe tcdg odc8a:1
+scoe tcdg odc8a :1
+tcdg odc8a  r:1
+odc8a  r ohcor:1
+ r ohcor aiihzg:1
+r ohcor aiihzg :1
+ohcor aiihzg  :1
+aiihzg   :1
+   po8air:1
+  po8air scc8g:1
+ po8air scc8g ohc8g:1
+po8air scc8g ohc8g ohcc8g:1
+scc8g ohc8g ohcc8g 4ohoe:1
+ohc8g ohcc8g 4ohoe tco2:1
+ohcc8g 4ohoe tco2 arar:1
+4ohoe tco2 arar ohccg:1
+tco2 arar ohccg 8darar:1
+arar ohccg 8darar ae2:1
+ohccg 8darar ae2 :1
+8darar ae2  ghto2:1
+ae2  ghto2 ahzcg:1
+ ghto2 ahzcg odcco2:1
+ghto2 ahzcg odcco2 tco8g:1
+ahzcg odcco2 tco8g odccg:1
+odcco2 tco8g odccg dto8g:1
+tco8g odccg dto8g 8am:1
+odccg dto8g 8am tco8g:1
+dto8g 8am tco8g dt8g:1
+8am tco8g dt8g gdcco:1
+tco8g dt8g gdcco 8am:1
+dt8g gdcco 8am sc8ae:1
+gdcco 8am sc8ae odc8g:1
+8am sc8ae odc8g :1
+sc8ae odc8g  odcg:1
+odc8g  odcg dco8g:1
+ odcg dco8g odtcg:1
+odcg dco8g odtcg 2air:1
+dco8g odtcg 2air odcc2o:1
+odtcg 2air odcc2o edc8g:1
+2air odcc2o edc8g 8air:1
+odcc2o edc8g 8air hzc8g:1
+edc8g 8air hzc8g 4odc8g:1
+8air hzc8g 4odc8g odco8g:1
+hzc8g 4odc8g odco8g tc8ar:1
+4odc8g odco8g tc8ar odc8:1
+odco8g tc8ar odc8 ae:1
+tc8ar odc8 ae odzc8g:1
+odc8 ae odzc8g odcc8g:1
+ae odzc8g odcc8g oha:1
+odzc8g odcc8g oha :1
+odcc8g oha  k:1
+oha  k ghco2:1
+ k ghco2 tccog:1
+k ghco2 tccog ar:1
+ghco2 tccog ar am:1
+tccog ar am :1
+ar am  ptcco8g:1
+am  ptcco8g 4op:1
+ ptcco8g 4op tc8ae:1
+ptcco8g 4op tc8ae tcfzg:1
+4op tc8ae tcfzg tcftoe:1
+tc8ae tcfzg tcftoe or:1
+tcfzg tcftoe or tccf:1
+tcftoe or tccf aeam:1
+or tccf aeam opae:1
+tccf aeam opae sco:1
+aeam opae sco ohar:1
+opae sco ohar :1
+sco ohar  oehcc8ak:1
+ohar  oehcc8ak tc2:1
+ oehcc8ak tc2 toe:1
+oehcc8ak tc2 toe dccoe:1
+tc2 toe dccoe tcdzg:1
+toe dccoe tcdzg odcoe:1
+dccoe tcdzg odcoe odae:1
+tcdzg odcoe odae odg:1
+odcoe odae odg tcodar:1
+odae odg tcodar odor:1
+odg tcodar odor arg:1
+tcodar odor arg :1
+odor arg  gdam:1
+arg  gdam tcc:1
+ gdam tcc dsccg:1
+gdam tcc dsccg gtcd:1
+tcc dsccg gtcd ccor:1
+dsccg gtcd ccor tcor:1
+gtcd ccor tcor or:1
+ccor tcor or tchzg:1
+tcor or tchzg odcto:1
+or tchzg odcto dc8:1
+tchzg odcto dc8 etcg:1
+odcto dc8 etcg odak:1
+dc8 etcg odak :1
+etcg odak  ghctcoe:1
+odak  ghctcoe scocdg:1
+ ghctcoe scocdg odco2:1
+ghctcoe scocdg odco2 am:1
+scocdg odco2 am ahzc8g:1
+odco2 am ahzc8g tdam:1
+am ahzc8g tdam tchtcg:1
+ahzc8g tdam tchtcg hzccg:1
+tdam tchtcg hzccg odcar:1
+tchtcg hzccg odcar :1
+hzccg odcar  8ar:1
+odcar  8ar toar:1
+ 8ar toar ae:1
+8ar toar ae dar:1
+toar ae dar occco2:1
+ae dar occco2 tco2:1
+dar occco2 tco2 am:1
+occco2 tco2 am ohzcg:1
+tco2 am ohzcg odco:1
+am ohzcg odco dor:1
+ohzcg odco dor ohcoe:1
+odco dor ohcoe an:1
+dor ohcoe an :1
+ohcoe an  2am:1
+an  2am ar:1
+ 2am ar dzco2:1
+2am ar dzco2 tc8g:1
+ar dzco2 tc8g odccg:1
+dzco2 tc8g odccg 4oair:1
+tc8g odccg 4oair oram:1
+odccg 4oair oram tcak:1
+4oair oram tcak :1
+oram tcak  :1
+tcak   :1
+   ftam:1
+  ftam sgdco8g:1
+ ftam sgdco8g 8ano8g:1
+ftam sgdco8g 8ano8g 8an:1
+sgdco8g 8ano8g 8an :1
+8ano8g 8an  so:1
+8an  so htg:1
+ so htg ohg:1
+so htg ohg 4opg:1
+htg ohg 4opg :1
+ohg 4opg  odor:1
+4opg  odor odtor:1
+ odor odtor scor:1
+odor odtor scor dzg:1
+odtor scor dzg 8ae:1
+scor dzg 8ae :1
+dzg 8ae  8so8ar:1
+8ae  8so8ar 4ohto:1
+ 8so8ar 4ohto :1
+8so8ar 4ohto  f:1
+4ohto  f 4odtor:1
+ f 4odtor tor:1
+f 4odtor tor hzoe:1
+4odtor tor hzoe toe:1
+tor hzoe toe 8o:1
+hzoe toe 8o :1
+toe 8o  e:1
+8o  e 8tco8an:1
+ e 8tco8an 8am:1
+e 8tco8an 8am :1
+8tco8an 8am  2tor:1
+8am  2tor 8sor:1
+ 2tor 8sor ghso:1
+2tor 8sor ghso 8an:1
+8sor ghso 8an :1
+ghso 8an  8am:1
+8an  8am to88ae:1
+ 8am to88ae :1
+8am to88ae  4ohtg:1
+to88ae  4ohtg 4odtg:1
+ 4ohtg 4odtg 8am:1
+4ohtg 4odtg 8am :1
+4odtg 8am  fto:1
+8am  fto htcgtc8g:1
+ fto htcgtc8g :1
+fto htcgtc8g  ohoe:1
+htcgtc8g  ohoe 8oe:1
+ ohoe 8oe oe8air:1
+ohoe 8oe oe8air :1
+8oe oe8air  4oar:1
+oe8air  4oar 8am:1
+ 4oar 8am 8ak:1
+4oar 8am 8ak :1
+8am 8ak  8ghtor:1
+8ak  8ghtor 8arg:1
+ 8ghtor 8arg :1
+8ghtor 8arg  8tor:1
+8arg  8tor hzo:1
+ 8tor hzo 8am:1
+8tor hzo 8am :1
+hzo 8am  so2:1
+8am  so2 tdzoe:1
+ so2 tdzoe l:1
+so2 tdzoe l :1
+tdzoe l  so8am:1
+l  so8am thoe:1
+ so8am thoe :1
+so8am thoe  ohto:1
+thoe  ohto roe:1
+ ohto roe 8an:1
+ohto roe 8an 8am:1
+roe 8an 8am hzg:1
+8an 8am hzg :1
+hzg  2tcg 4oh:1
+ 2tcg 4oh scg:1
+2tcg 4oh scg 8am:1
+4oh scg 8am hz2:1
+scg 8am hz2 :1
+8am hz2  4odtg:1
+hz2  4odtg 4ohoe:1
+ 4odtg 4ohoe 8oiir:1
+4odtg 4ohoe 8oiir oe:1
+4ohoe 8oiir oe :1
+8oiir oe  ohtoe:1
+oe  ohtoe tcg:1
+ ohtoe tcg 2ohg:1
+ohtoe tcg 2ohg :1
+tcg 2ohg  todcoe:1
+2ohg  todcoe 8tohg:1
+ todcoe 8tohg :1
+todcoe 8tohg  8om:1
+8tohg  8om sosg:1
+ 8om sosg :1
+8om sosg  8oe:1
+sosg  8oe 8toe8a:1
+ 8oe 8toe8a :1
+8oe 8toe8a  r:1
+8toe8a  r :1
+ r  :1
+r   :1
+   dtco8am:1
+  dtco8am toe:1
+ dtco8am toe dctg:1
+dtco8am toe dctg 4oham:1
+toe dctg 4oham 8anoak:1
+dctg 4oham 8anoak :1
+4oham 8anoak  oto:1
+8anoak  oto fto8g:1
+ oto fto8g :1
+oto fto8g  8am:1
+fto8g  8am o8ar:1
+ 8am o8ar tg:1
+8am o8ar tg 8am:1
+o8ar tg 8am tcg:1
+tg 8am tcg htg:1
+8am tcg htg e8g:1
+tcg htg e8g :1
+htg e8g  8an:1
+e8g  8an hcor:1
+ 8an hcor :1
+8an hcor  sor:1
+hcor  sor 8am:1
+ sor 8am tdzg:1
+sor 8am tdzg 8so:1
+8am tdzg 8so 8an:1
+tdzg 8so 8an 8am:1
+8so 8an 8am 2:1
+8an 8am 2 :1
+8am 2  sodcg:1
+2  sodcg da:1
+ sodcg da :1
+sodcg da  ortr:1
+da  ortr tor:1
+ ortr tor 8or:1
+ortr tor 8or tam:1
+tor 8or tam 4ohto:1
+8or tam 4ohto rtg:1
+tam 4ohto rtg :1
+4ohto rtg  8to:1
+rtg  8to 8am:1
+8to 8am  todtg:1
+8am  todtg 8am:1
+ todtg 8am sg:1
+todtg 8am sg tor:1
+8am sg tor 4odam:1
+sg tor 4odam 8an:1
+tor 4odam 8an :1
+4odam 8an  8toe:1
+8an  8toe 8ork:1
+ 8toe 8ork :1
+8toe 8ork  :1
+8ork   odtal:1
+  odtal toe:1
+ odtal toe sae:1
+odtal toe sae 8thzg:1
+toe sae 8thzg :1
+sae 8thzg  dso:1
+8thzg  dso pzor:1
+ dso pzor sc:1
+dso pzor sc scam:1
+pzor sc scam ohstor:1
+sc scam ohstor 8an:1
+scam ohstor 8an :1
+ohstor 8an  sdzg:1
+8an  sdzg 2:1
+ sdzg 2 o8al:1
+sdzg 2 o8al :1
+2 o8al  ohtoe:1
+o8al  ohtoe 8am:1
+ ohtoe 8am 8am:1
+ohtoe 8am 8am hzo:1
+8am 8am hzo 8am:1
+8am hzo 8am 4oham:1
+hzo 8am 4oham ohtg:1
+8am 4oham ohtg 8:1
+4oham ohtg 8 sar:1
+ohtg 8 sar 4ohtg:1
+8 sar 4ohtg fzg:1
+sar 4ohtg fzg 2dcg:1
+4ohtg fzg 2dcg tohzg:1
+fzg 2dcg tohzg 8am:1
+2dcg tohzg 8am hzam:1
+tohzg 8am hzam :1
+8am hzam  8am:1
+hzam  8am :1
+ 8am  so:1
+8am  so dcoe:1
+ so dcoe tor:1
+so dcoe tor toe:1
+dcoe tor toe 8am:1
+tor toe 8am pzoe:1
+toe 8am pzoe hzoe:1
+8am pzoe hzoe 8g:1
+pzoe hzoe 8g a:1
+hzoe 8g a :1
+8g a  r:1
+a  r :1
+ r  oe:1
+r  oe so:1
+ oe so tg:1
+oe so tg :1
+so tg  :1
+tg   :1
+   hs8ar:1
+  hs8ar s8ar:1
+ hs8ar s8ar scpt8g:1
+hs8ar s8ar scpt8g pzo8g:1
+s8ar scpt8g pzo8g gfoe8g:1
+scpt8g pzo8g gfoe8g 4ofodz8g:1
+pzo8g gfoe8g 4ofodz8g ohtc8g:1
+gfoe8g 4ofodz8g ohtc8g eft8g:1
+4ofodz8g ohtc8g eft8g 8am:1
+ohtc8g eft8g 8am :1
+eft8g 8am  ghtc8g:1
+8am  ghtc8g 4odar:1
+ ghtc8g 4odar tcdg:1
+ghtc8g 4odar tcdg odae8g:1
+4odar tcdg odae8g 4odae8g:1
+tcdg odae8g 4odae8g ohor:1
+odae8g 4odae8g ohor oe8ar:1
+4odae8g ohor oe8ar 4ohar:1
+ohor oe8ar 4ohar ohar:1
+oe8ar 4ohar ohar ohar8ak:1
+4ohar ohar ohar8ak :1
+ohar ohar8ak  eam:1
+ohar8ak  eam g:1
+ eam g tcdg:1
+eam g tcdg 4odc8g:1
+g tcdg 4odc8g sc8g:1
+tcdg 4odc8g sc8g t8ae:1
+4odc8g sc8g t8ae tct:1
+sc8g t8ae tct 8am:1
+t8ae tct 8am 4odtg:1
+tct 8am 4odtg o8g:1
+8am 4odtg o8g tcdcc8g:1
+4odtg o8g tcdcc8g gdak:1
+o8g tcdcc8g gdak :1
+tcdcc8g gdak  ham:1
+gdak  ham tcdcg:1
+ ham tcdcg or:1
+ham tcdcg or aeaim:1
+tcdcg or aeaim 2am:1
+or aeaim 2am odam:1
+aeaim 2am odam 8ar:1
+2am odam 8ar tcc8g:1
+odam 8ar tcc8g tdccg:1
+8ar tcc8g tdccg far:1
+tcc8g tdccg far am:1
+tdccg far am 2:1
+far am 2 :1
+am 2  pair:1
+2  pair oram:1
+ pair oram oham:1
+pair oram oham oedor:1
+oram oham oedor am:1
+oham oedor am odae:1
+oedor am odae ohae:1
+am odae ohae t8ae:1
+odae ohae t8ae scdae:1
+ohae t8ae scdae 4odar:1
+t8ae scdae 4odar ohak:1
+scdae 4odar ohak :1
+4odar ohak  ghccg:1
+ohak  ghccg so8g:1
+ ghccg so8g htc8g8g:1
+ghccg so8g htc8g8g tcdar:1
+so8g htc8g8g tcdar odam:1
+htc8g8g tcdar odam odam:1
+tcdar odam odam 8am:1
+odam odam 8am odae:1
+odam 8am odae :1
+8am odae  8ar:1
+odae  8ar to2:1
+ 8ar to2 am:1
+8ar to2 am or:1
+to2 am or am:1
+am or am tccdam:1
+or am tccdam odan:1
+am tccdam odan ar:1
+tccdam odan ar odcccg:1
+odan ar odcccg :1
+ar odcccg  :1
+odcccg   :1
+   har:1
+  har ar:1
+ har ar 8am:1
+har ar 8am g8an:1
+ar 8am g8an hzcg:1
+8am g8an hzcg 8oer:1
+g8an hzcg 8oer :1
+hzcg 8oer  :1
+8oer   scdg:1
+  scdg aram:1
+ scdg aram :1
+scdg aram  :1
+aram   c2:1
+  c2 dt8g:1
+ c2 dt8g 8ak:1
+c2 dt8g 8ak 8g:1
+dt8g 8ak 8g :1
+8ak 8g  odg:1
+8g  odg ohae:1
+ odg ohae 8an:1
+odg ohae 8an t8g:1
+ohae 8an t8g :1
+8an t8g  ghak:1
+t8g  ghak ohak:1
+ ghak ohak tak:1
+ghak ohak tak :1
+ohak tak  8ar:1
+tak  8ar tdzg:1
+ 8ar tdzg 8g:1
+8ar tdzg 8g :1
+tdzg 8g  8gdg:1
+8g  8gdg :1
+ 8gdg  dz8g:1
+8gdg  dz8g odg:1
+ dz8g odg 8ak:1
+dz8g odg 8ak :1
+odg 8ak  odar8g:1
+8ak  odar8g dak8g:1
+ odar8g dak8g :1
+odar8g dak8g  hodar:1
+dak8g  hodar s8g:1
+ hodar s8g 8ae:1
+hodar s8g 8ae :1
+s8g 8ae  4odar:1
+8ae  4odar s8:1
+ 4odar s8 :1
+4odar s8  oho8g:1
+s8  oho8g tc8g:1
+ oho8g tc8g :1
+oho8g tc8g  gdc8g:1
+tc8g  gdc8g 8o8e:1
+ gdc8g 8o8e 8a:1
+gdc8g 8o8e 8a :1
+8o8e 8a  m:1
+8a  m ht8g:1
+ m ht8g to8g:1
+m ht8g to8g odam:1
+ht8g to8g odam tdzg:1
+to8g odam tdzg 8or:1
+odam tdzg 8or are:1
+tdzg 8or are :1
+8or are  hzg:1
+are  hzg 8ghg:1
+ hzg 8ghg 8g:1
+hzg 8ghg 8g gdar:1
+8ghg 8g gdar tcdg:1
+8g gdar tcdg 8g:1
+gdar tcdg 8g :1
+tcdg 8g  gtco:1
+8g  gtco 8ar:1
+ gtco 8ar oeam:1
+gtco 8ar oeam odar:1
+8ar oeam odar t8g:1
+oeam odar t8g t8g:1
+odar t8g t8g oe8g:1
+t8g t8g oe8g :1
+t8g oe8g  odar:1
+oe8g  odar t8g:1
+ odar t8g :1
+odar t8g  hs8g:1
+t8g  hs8g scft8g:1
+ hs8g scft8g sdz8g:1
+hs8g scft8g sdz8g oehc8g:1
+scft8g sdz8g oehc8g 8am:1
+sdz8g oehc8g 8am odg:1
+oehc8g 8am odg tcoe:1
+8am odg tcoe oran:1
+odg tcoe oran :1
+tcoe oran  t8gs8g:1
+oran  t8gs8g porar:1
+ t8gs8g porar :1
+t8gs8g porar  8arar:1
+porar  8arar sccg:1
+ 8arar sccg dcc8g:1
+8arar sccg dcc8g odtg:1
+sccg dcc8g odtg odar:1
+dcc8g odtg odar odc8g:1
+odtg odar odc8g tg:1
+odar odc8g tg 8am:1
+odc8g tg 8am 8g8g:1
+tg 8am 8g8g :1
+8am 8g8g  8ar:1
+8g8g  8ar am:1
+ 8ar am odarg:1
+8ar am odarg :1
+am odarg  2ar:1
+odarg  2ar oram:1
+ 2ar oram tor:1
+2ar oram tor or:1
+oram tor or sdair:1
+tor or sdair soe:1
+or sdair soe or:1
+sdair soe or tdzg:1
+soe or tdzg aram:1
+or tdzg aram :1
+tdzg aram  :1
+aram   odan:1
+  odan 8ae:1
+ odan 8ae 8g:1
+odan 8ae 8g :1
+8ae 8g  etoar:1
+8g  etoar ortcg:1
+ etoar ortcg eo8am:1
+etoar ortcg eo8am oor:1
+ortcg eo8am oor odcc8g:1
+eo8am oor odcc8g odaeg:1
+oor odcc8g odaeg :1
+odcc8g odaeg  harae:1
+odaeg  harae dccgorak:1
+ harae dccgorak :1
+harae dccgorak  :1
+dccgorak   :1
+   ptcocptg:1
+  ptcocptg oearge:1
+ ptcocptg oearge :1
+ptcocptg oearge  gfo8g:1
+oearge  gfo8g odc8o8g:1
+ gfo8g odc8o8g so8:1
+gfo8g odc8o8g so8 oeoe8g:1
+odc8o8g so8 oeoe8g 8ar:1
+so8 oeoe8g 8ar ghcg:1
+oeoe8g 8ar ghcg :1
+8ar ghcg  ghar:1
+ghcg  ghar sco8g:1
+ ghar sco8g oeak:1
+ghar sco8g oeak :1
+sco8g oeak  ohzc8c:1
+oeak  ohzc8c ohc8g:1
+ ohzc8c ohc8g t8an:1
+ohzc8c ohc8g t8an oehcg:1
+ohc8g t8an oehcg dtg:1
+t8an oehcg dtg hg:1
+oehcg dtg hg :1
+dtg hg  4ohc8g:1
+hg  4ohc8g tghg:1
+ 4ohc8g tghg t8aeg:1
+4ohc8g tghg t8aeg :1
+tghg t8aeg  8ar:1
+t8aeg  8ar t8:1
+ 8ar t8 ohc8g:1
+8ar t8 ohc8g 4ohoe:1
+t8 ohc8g 4ohoe odc8g:1
+ohc8g 4ohoe odc8g 8o8g:1
+4ohoe odc8g 8o8g o8g:1
+odc8g 8o8g o8g dak:1
+8o8g o8g dak :1
+o8g dak  ghc8c:1
+dak  ghc8c 8am:1
+ ghc8c 8am tcg:1
+ghc8c 8am tcg am:1
+8am tcg am :1
+tcg am  sg:1
+am  sg tdzg:1
+ sg tdzg :1
+sg tdzg  oehtc8g:1
+tdzg  oehtc8g ohc8g:1
+ oehtc8g ohc8g 8ak:1
+oehtc8g ohc8g 8ak tchzg:1
+ohc8g 8ak tchzg 4ohcc8g:1
+8ak tchzg 4ohcc8g sc8g:1
+tchzg 4ohcc8g sc8g sc8g:1
+4ohcc8g sc8g sc8g oe:1
+sc8g sc8g oe :1
+sc8g oe  odc2:1
+oe  odc2 ar:1
+ odc2 ar :1
+odc2 ar  gdcc8etc8g:1
+ar  gdcc8etc8g ohcg:1
+ gdcc8etc8g ohcg odam:1
+gdcc8etc8g ohcg odam :1
+ohcg odam  :1
+odam   ohcoe:1
+  ohcoe tcdcg:1
+ ohcoe tcdcg tchcg:1
+ohcoe tcdcg tchcg oee:1
+tcdcg tchcg oee :1
+tchcg oee  tc2g:1
+oee  tc2g :1
+ tc2g  8am:1
+tc2g  8am tcdg:1
+ 8am tcdg ft2:1
+8am tcdg ft2 a:1
+tcdg ft2 a :1
+ft2 a  iir:1
+a  iir akk:1
+ iir akk 4odc8g:1
+iir akk 4odc8g 8ae:1
+akk 4odc8g 8ae t8g:1
+4odc8g 8ae t8g oetg:1
+8ae t8g oetg :1
+t8g oetg  gdtc:1
+oetg  gdtc g:1
+ gdtc g :1
+gdtc g  dc8g:1
+g  dc8g 4odt8g:1
+ dc8g 4odt8g 2ar:1
+dc8g 4odt8g 2ar oe8ak:1
+4odt8g 2ar oe8ak :1
+2ar oe8ak  :1
+oe8ak   sohtg:1
+  sohtg 4odg:1
+ sohtg 4odg oed:1
+sohtg 4odg oed :1
+4odg oed  tcdzg:1
+oed  tcdzg :1
+ tcdzg  g2air:1
+tcdzg  g2air air:1
+ g2air air to8am:1
+g2air air to8am hak:1
+air to8am hak :1
+to8am hak  gdt8g:1
+hak  gdt8g 4o8:1
+ gdt8g 4o8 :1
+gdt8g 4o8  ar:1
+4o8  ar :1
+ ar  thz:1
+ar  thz :1
+ thz  aidzg:1
+thz  aidzg :1
+ aidzg  or:1
+aidzg  or :1
+ or  etcg:1
+or  etcg ho8aeg:1
+ etcg ho8aeg odam:1
+etcg ho8aeg odam 8ar8g:1
+ho8aeg odam 8ar8g :1
+odam 8ar8g  htco:1
+8ar8g  htco oetdzg:1
+ htco oetdzg oeg:1
+htco oetdzg oeg :1
+oetdzg oeg  oht8g:1
+oeg  oht8g tfaea2:1
+ oht8g tfaea2 :1
+oht8g tfaea2  4odccg:1
+tfaea2  4odccg s:1
+ 4odccg s dae8am:1
+4odccg s dae8am :1
+s dae8am  tcdg:1
+dae8am  tcdg hz8aeg:1
+ tcdg hz8aeg :1
+tcdg hz8aeg  ohtc8g:1
+hz8aeg  ohtc8g thg:1
+ ohtc8g thg 2am:1
+ohtc8g thg 2am :1
+thg 2am  tar:1
+2am  tar am:1
+ tar am odorar:1
+tar am odorar hoe:1
+am odorar hoe 4odar:1
+odorar hoe 4odar tdzg:1
+hoe 4odar tdzg t8ae:1
+4odar tdzg t8ae dc8:1
+tdzg t8ae dc8 4odar:1
+t8ae dc8 4odar ar:1
+dc8 4odar ar 8am:1
+4odar ar 8am 8ak:1
+ar 8am 8ak :1
+8am 8ak  gdco:1
+8ak  gdco eor:1
+ gdco eor otcg:1
+gdco eor otcg oeg:1
+eor otcg oeg :1
+otcg oeg  odaeg:1
+oeg  odaeg dct8g:1
+ odaeg dct8g 4odt8g:1
+odaeg dct8g 4odt8g tor:1
+dct8g 4odt8g tor ar:1
+4odt8g tor ar aim:1
+tor ar aim 8aeg:1
+ar aim 8aeg :1
+aim 8aeg  or:1
+8aeg  or ar:1
+ or ar gdar:1
+or ar gdar oe:1
+ar gdar oe ae:1
+gdar oe ae odg:1
+oe ae odg :1
+ae odg  to8g:1
+odg  to8g 4odae:1
+ to8g 4odae tc8g:1
+to8g 4odae tc8g thzc8g:1
+4odae tc8g thzc8g tcdg:1
+tc8g thzc8g tcdg 8arak:1
+thzc8g tcdg 8arak :1
+tcdg 8arak  2air:1
+8arak  2air tcdar:1
+ 2air tcdar tcdg:1
+2air tcdar tcdg scd:1
+tcdar tcdg scd :1
+tcdg scd  toetc8g:1
+scd  toetc8g 4odc8g:1
+ toetc8g 4odc8g gdtcoethzg:1
+toetc8g 4odc8g gdtcoethzg :1
+4odc8g gdtcoethzg  :1
+gdtcoethzg   :1
+   dct8g:1
+  dct8g t8g:1
+ dct8g t8g tcftg:1
+dct8g t8g tcftg s8g:1
+t8g tcftg s8g 4opt8g:1
+tcftg s8g 4opt8g s8g8g:1
+s8g 4opt8g s8g8g t8aet8g:1
+4opt8g s8g8g t8aet8g gpt8g:1
+s8g8g t8aet8g gpt8g thz8g:1
+t8aet8g gpt8g thz8g 2pam:1
+gpt8g thz8g 2pam :1
+thz8g 2pam  hae:1
+2pam  hae 4odtg:1
+ hae 4odtg 8gtc8g:1
+hae 4odtg 8gtc8g odtg:1
+4odtg 8gtc8g odtg tdz8g:1
+8gtc8g odtg tdz8g t8am:1
+odtg tdz8g t8am dzg:1
+tdz8g t8am dzg eocc2:1
+t8am dzg eocc2 gdar:1
+dzg eocc2 gdar am:1
+eocc2 gdar am oe8ak:1
+gdar am oe8ak :1
+am oe8ak  ghae:1
+oe8ak  ghae sor:1
+ ghae sor t8ae:1
+ghae sor t8ae oet8g:1
+sor t8ae oet8g tar:1
+t8ae oet8g tar or:1
+oet8g tar or oe:1
+tar or oe dc8aim:1
+or oe dc8aim thzg:1
+oe dc8aim thzg odt8g:1
+dc8aim thzg odt8g tdzg:1
+thzg odt8g tdzg 8a2ak:1
+odt8g tdzg 8a2ak :1
+tdzg 8a2ak  ht8am:1
+8a2ak  ht8am tcdae:1
+ ht8am tcdae sc8g:1
+ht8am tcdae sc8g 4odc8ar:1
+tcdae sc8g 4odc8ar t8am:1
+sc8g 4odc8ar t8am oe8ar:1
+4odc8ar t8am oe8ar 4oe8ar:1
+t8am oe8ar 4oe8ar tc8g:1
+oe8ar 4oe8ar tc8g 8am:1
+4oe8ar tc8g 8am ohak:1
+tc8g 8am ohak :1
+8am ohak  esaiir:1
+ohak  esaiir orair:1
+ esaiir orair sc8g:1
+esaiir orair sc8g tctcg:1
+orair sc8g tctcg 8gdcg:1
+sc8g tctcg 8gdcg dair:1
+tctcg 8gdcg dair tc8g:1
+8gdcg dair tc8g 4odar:1
+dair tc8g 4odar tcdaeg:1
+tc8g 4odar tcdaeg toedg:1
+4odar tcdaeg toedg :1
+tcdaeg toedg  ptc8ar:1
+toedg  ptc8ar scar:1
+ ptc8ar scar 4odt8g:1
+ptc8ar scar 4odt8g 4odcc2:1
+scar 4odt8g 4odcc2 tcoe:1
+4odt8g 4odcc2 tcoe gpt8am:1
+4odcc2 tcoe gpt8am tc8g:1
+tcoe gpt8am tc8g erar:1
+gpt8am tc8g erar tc8an:1
+tc8g erar tc8an oet8am:1
+erar tc8an oet8am :1
+tc8an oet8am  tc8g:1
+oet8am  tc8g tcg:1
+ tc8g tcg dcc8g:1
+tc8g tcg dcc8g tg:1
+tcg dcc8g tg dc8g:1
+dcc8g tg dc8g 8g:1
+tg dc8g 8g 4odc8g:1
+dc8g 8g 4odc8g odcg:1
+8g 4odc8g odcg 2air:1
+4odc8g odcg 2air tdan:1
+odcg 2air tdan ohan:1
+2air tdan ohan :1
+tdan ohan  gsco2:1
+ohan  gsco2 ohar:1
+ gsco2 ohar ar:1
+gsco2 ohar ar to:1
+ohar ar to ram:1
+ar to ram tcdg:1
+to ram tcdg oet8am:1
+ram tcdg oet8am or:1
+tcdg oet8am or oe8ar:1
+oet8am or oe8ar t8ar:1
+or oe8ar t8ar odak:1
+oe8ar t8ar odak :1
+t8ar odak  esco8g:1
+odak  esco8g hzg:1
+ esco8g hzg 4odccg:1
+esco8g hzg 4odccg dcc8g:1
+hzg 4odccg dcc8g dt8g:1
+4odccg dcc8g dt8g tc8g:1
+dcc8g dt8g tc8g 4odc8g:1
+dt8g tc8g 4odc8g t8g:1
+tc8g 4odc8g t8g dae:1
+4odc8g t8g dae s2:1
+t8g dae s2 oe8am:1
+dae s2 oe8am :1
+s2 oe8am  8am:1
+oe8am  8am t8g:1
+ 8am t8g hc8g:1
+8am t8g hc8g dt8g:1
+t8g hc8g dt8g odcc8g:1
+hc8g dt8g odcc8g tcdzg:1
+dt8g odcc8g tcdzg t8g:1
+odcc8g tcdzg t8g dan:1
+tcdzg t8g dan tar:1
+t8g dan tar or:1
+dan tar or adc8g:1
+tar or adc8g odak:1
+or adc8g odak :1
+adc8g odak  gso2:1
+odak  gso2 o8g:1
+ gso2 o8g 2am:1
+gso2 o8g 2am odog:1
+o8g 2am odog odae:1
+2am odog odae sc8g:1
+odog odae sc8g :1
+odae sc8g  :1
+sc8g   :1
+   hzoo:1
+  hzoo rtoeg:1
+ hzoo rtoeg hzg:1
+hzoo rtoeg hzg tohg:1
+rtoeg hzg tohg tar:1
+hzg tohg tar 8g:1
+tohg tar 8g :1
+tar 8g  4odccam:1
+8g  4odccam todam:1
+ 4odccam todam 4ohtg:1
+4odccam todam 4ohtg 8am:1
+todam 4ohtg 8am :1
+4ohtg 8am  8tam:1
+8am  8tam hzcg:1
+ 8tam hzcg 4ohtcg:1
+8tam hzcg 4ohtcg ham:1
+hzcg 4ohtcg ham hzorg:1
+4ohtcg ham hzorg :1
+ham hzorg  4ohtg:1
+hzorg  4ohtg schtg:1
+ 4ohtg schtg dzoe:1
+4ohtg schtg dzoe tccg:1
+schtg dzoe tccg 8am:1
+dzoe tccg 8am 8ane:1
+tccg 8am 8ane :1
+8am 8ane  ohtor:1
+8ane  ohtor so:1
+ ohtor so htccg:1
+ohtor so htccg 2tccg:1
+so htccg 2tccg 8am:1
+htccg 2tccg 8am 8an:1
+2tccg 8am 8an or:1
+8am 8an or :1
+8an or  2tam:1
+or  2tam tar:1
+ 2tam tar tal:1
+2tam tar tal 8am:1
+tar tal 8am :1
+tal 8am  :1
+8am   so2am:1
+  so2am htor:1
+ so2am htor todg:1
+so2am htor todg :1
+htor todg  :1
+todg   4odtg:1
+  4odtg dgdam:1
+ 4odtg dgdam 8am:1
+4odtg dgdam 8am :1
+dgdam 8am  pam:1
+8am  pam tcar:1
+ pam tcar am:1
+pam tcar am tcar:1
+tcar am tcar sor:1
+am tcar sor tam:1
+tcar sor tam :1
+sor tam  oam:1
+tam  oam tam:1
+ oam tam dzg:1
+oam tam dzg rte:1
+tam dzg rte 2totg:1
+dzg rte 2totg 8am:1
+rte 2totg 8am :1
+2totg 8am  stcam:1
+8am  stcam soe:1
+ stcam soe hzam:1
+stcam soe hzam etam:1
+soe hzam etam etae:1
+hzam etam etae 8ae:1
+etam etae 8ae :1
+etae 8ae  8air:1
+8ae  8air ae8g:1
+ 8air ae8g l:1
+8air ae8g l :1
+ae8g l  oeor:1
+l  oeor tg:1
+ oeor tg tam:1
+oeor tg tam tg:1
+tg tam tg ham:1
+tam tg ham dtcg:1
+tg ham dtcg doe8g:1
+ham dtcg doe8g :1
+dtcg doe8g  tchtam:1
+doe8g  tchtam :1
+ tchtam  4odom:1
+tchtam  4odom tam:1
+ 4odom tam 4odtam:1
+4odom tam 4odtam esg:1
+tam 4odtam esg eo8aeg:1
+4odtam esg eo8aeg :1
+esg eo8aeg  ohccg:1
+eo8aeg  ohccg ham:1
+ ohccg ham :1
+ohccg ham  hzoe:1
+ham  hzoe toe:1
+ hzoe toe am:1
+hzoe toe am 4ohtg:1
+toe am 4ohtg ohtor:1
+am 4ohtg ohtor 8am:1
+4ohtg ohtor 8am :1
+ohtor 8am  soe:1
+8am  soe :1
+ soe  4oham:1
+soe  4oham :1
+ 4oham  otor:1
+4oham  otor 2tm:1
+ otor 2tm 8am:1
+otor 2tm 8am ghan:1
+2tm 8am ghan :1
+8am ghan  :1
+ghan   :1
+   partor:1
+  partor tohzg:1
+ partor tohzg roam:1
+partor tohzg roam ar:1
+tohzg roam ar :1
+roam ar  4ohtg:1
+ar  4ohtg ohtcg:1
+ 4ohtg ohtcg dtor:1
+4ohtg ohtcg dtor ghg:1
+ohtcg dtor ghg :1
+dtor ghg  8tor:1
+ghg  8tor tohg:1
+ 8tor tohg tghg:1
+8tor tohg tghg 8am:1
+tohg tghg 8am :1
+tghg 8am  ghtg:1
+8am  ghtg 4ohtg:1
+ ghtg 4ohtg 8tg:1
+ghtg 4ohtg 8tg hzg:1
+4ohtg 8tg hzg :1
+8tg hzg  8todtg:1
+hzg  8todtg tohzg:1
+ 8todtg tohzg tdzor:1
+8todtg tohzg tdzor :1
+tohzg tdzor  soe:1
+tdzor  soe htccg:1
+ soe htccg tdtcccl:1
+soe htccg tdtcccl thzam:1
+htccg tdtcccl thzam :1
+tdtcccl thzam  hto:1
+thzam  hto htor:1
+ hto htor soe:1
+hto htor soe so:1
+htor soe so tdoe:1
+soe so tdoe 8am:1
+so tdoe 8am :1
+tdoe 8am  oam:1
+8am  oam htor:1
+ oam htor to:1
+oam htor to tohtg:1
+htor to tohtg 8toe8:1
+to tohtg 8toe8 :1
+tohtg 8toe8  4odtam:1
+8toe8  4odtam to:1
+ 4odtam to dsoe:1
+4odtam to dsoe tom:1
+to dsoe tom :1
+dsoe tom  odtccg:1
+tom  odtccg to2ar:1
+ odtccg to2ar sorg:1
+odtccg to2ar sorg :1
+to2ar sorg  4ohtccam:1
+sorg  4ohtccam to8am:1
+ 4ohtccam to8am :1
+4ohtccam to8am  8tam:1
+to8am  8tam 8am:1
+ 8tam 8am 8am:1
+8tam 8am 8am 8ae2:1
+8am 8am 8ae2 :1
+8am 8ae2  oe:1
+8ae2  oe tar:1
+ oe tar o8:1
+oe tar o8 ar:1
+tar o8 ar tcar:1
+o8 ar tcar :1
+ar tcar  htcan:1
+tcar  htcan sg:1
+ htcan sg har:1
+htcan sg har 8an:1
+sg har 8an :1
+har 8an  gdoe:1
+8an  gdoe tcoe:1
+ gdoe tcoe odtg:1
+gdoe tcoe odtg ht:1
+tcoe odtg ht :1
+odtg ht  g8am:1
+ht  g8am odccg:1
+ g8am odccg 8am:1
+g8am odccg 8am :1
+odccg 8am  8am:1
+8am  8am 8an:1
+ 8am 8an tdaeg:1
+8am 8an tdaeg toeg:1
+8an tdaeg toeg :1
+tdaeg toeg  8am:1
+toeg  8am 4odcccl:1
+ 8am 4odcccl todcca:1
+8am 4odcccl todcca r:1
+4odcccl todcca r :1
+todcca r  2todcg:1
+r  2todcg gdcoe:1
+ 2todcg gdcoe toe:1
+2todcg gdcoe toe 8am:1
+gdcoe toe 8am :1
+toe 8am  2o8am:1
+8am  2o8am sg:1
+ 2o8am sg 8tg:1
+2o8am sg 8tg dzg:1
+sg 8tg dzg 8al:1
+8tg dzg 8al :1
+dzg 8al  8om:1
+8al  8om tor:1
+ 8om tor tor:1
+8om tor tor :1
+tor tor  :1
+   ptaf8al:1
+  ptaf8al 4oran:1
+ ptaf8al 4oran tfzae:1
+ptaf8al 4oran tfzae 2om:1
+4oran tfzae 2om pzor:1
+tfzae 2om pzor sam:1
+2om pzor sam hzg:1
+pzor sam hzg 8air:1
+sam hzg 8air :1
+hzg 8air  orae:1
+8air  orae sor:1
+ orae sor gham:1
+orae sor gham 4oham:1
+sor gham 4oham 4ooe8g:1
+gham 4oham 4ooe8g thg:1
+4oham 4ooe8g thg toe8g:1
+4ooe8g thg toe8g hor:1
+thg toe8g hor :1
+toe8g hor  4ohtg:1
+hor  4ohtg htg:1
+ 4ohtg htg 8am:1
+4ohtg htg 8am 8am:1
+htg 8am 8am 8oe2an:1
+8am 8am 8oe2an :1
+8am 8oe2an  po8aiir:1
+8oe2an  po8aiir pzg4ogptoe:1
+ po8aiir pzg4ogptoe r:1
+po8aiir pzg4ogptoe r :1
+pzg4ogptoe r  ok:1
+r  ok tg:1
+ ok tg :1
+ok tg  tg:1
+tg  tg 8tg:1
+ tg 8tg ftok:1
+tg 8tg ftok 8ar:1
+8tg ftok 8ar :1
+ftok 8ar  8am:1
+8ar  8am 4ortoe:1
+ 8am 4ortoe hzoeg:1
+8am 4ortoe hzoeg 2o:1
+4ortoe hzoeg 2o r:1
+hzoeg 2o r :1
+2o r  tg:1
+r  tg 2g:1
+ tg 2g tgharom:1
+tg 2g tgharom :1
+2g tgharom  odam:1
+tgharom  odam hzor:1
+ odam hzor gdam:1
+odam hzor gdam 2:1
+hzor gdam 2 :1
+gdam 2  8an:1
+2  8an al:1
+ 8an al 8al:1
+8an al 8al :1
+al 8al  4ohoe:1
+8al  4ohoe hzoe:1
+ 4ohoe hzoe odoe8g:1
+4ohoe hzoe odoe8g odtg:1
+hzoe odoe8g odtg ghororg:1
+odoe8g odtg ghororg 2oe8:1
+odtg ghororg 2oe8 :1
+ghororg 2oe8  ghtor:1
+2oe8  ghtor hzoe:1
+ ghtor hzoe tam:1
+ghtor hzoe tam g8:1
+hzoe tam g8 :1
+tam g8  gho8aeg:1
+g8  gho8aeg 8am:1
+ gho8aeg 8am oharo:1
+gho8aeg 8am oharo :1
+8am oharo  :1
+oharo   :1
+   ptara2g:1
+  ptara2g 4oforok:1
+ ptara2g 4oforok soam:1
+ptara2g 4oforok soam htcg:1
+4oforok soam htcg tdzcg:1
+soam htcg tdzcg oham:1
+htcg tdzcg oham pzar:1
+tdzcg oham pzar 8am:1
+oham pzar 8am :1
+pzar 8am  4ohar:1
+8am  4ohar toe:1
+ 4ohar toe 8am:1
+4ohar toe 8am oham:1
+toe 8am oham 4ohor:1
+8am oham 4ohor ghar:1
+oham 4ohor ghar otor:1
+4ohor ghar otor tchg:1
+ghar otor tchg dzor:1
+otor tchg dzor 8ok:1
+tchg dzor 8ok :1
+dzor 8ok  8tghtg:1
+8ok  8tghtg ghor2:1
+ 8tghtg ghor2 :1
+8tghtg ghor2  oham:1
+ghor2  oham 4optor:1
+ oham 4optor ohar:1
+oham 4optor ohar ohtam:1
+4optor ohar ohtam 2:1
+ohar ohtam 2 :1
+ohtam 2  4ohtor:1
+2  4ohtor gdghg:1
+ 4ohtor gdghg 8g:1
+4ohtor gdghg 8g :1
+gdghg 8g  8am:1
+8g  8am hzor:1
+ 8am hzor :1
+8am hzor  htor:1
+hzor  htor dzom:1
+ htor dzom 8am:1
+htor dzom 8am pztar:1
+dzom 8am pztar :1
+8am pztar  8am:1
+pztar  8am hzor:1
+ 8am hzor 8am:1
+8am hzor 8am 8ae:1
+hzor 8am 8ae 8g2:1
+8am 8ae 8g2 :1
+8ae 8g2  4odg:1
+8g2  4odg dcoe:1
+ 4odg dcoe odtor:1
+4odg dcoe odtor o2:1
+dcoe odtor o2 tg:1
+odtor o2 tg sal:1
+o2 tg sal :1
+tg sal  gdsg:1
+sal  gdsg ghtg:1
+ gdsg ghtg 8oe:1
+gdsg ghtg 8oe ghg8g:1
+ghtg 8oe ghg8g gdg:1
+8oe ghg8g gdg :1
+ghg8g gdg  odam:1
+gdg  odam gdtoe4o8:1
+ odam gdtoe4o8 torg:1
+odam gdtoe4o8 torg :1
+gdtoe4o8 torg  gdto:1
+torg  gdto htg:1
+ gdto htg 8am:1
+gdto htg 8am 8ame8:1
+htg 8am 8ame8 :1
+8am 8ame8  ohgthzg:1
+8ame8  ohgthzg ghorg8:1
+ ohgthzg ghorg8 :1
+ohgthzg ghorg8  ghoe:1
+ghorg8  ghoe dtg:1
+ ghoe dtg ohg:1
+ghoe dtg ohg t8:1
+dtg ohg t8 :1
+ohg t8  odg:1
+t8  odg sc:1
+ odg sc hzoe:1
+odg sc hzoe ohg:1
+sc hzoe ohg :1
+hzoe ohg  2om:1
+ohg  2om than:1
+ 2om than :1
+2om than  :1
+than   :1
+   hopzoe:1
+  hopzoe sam:1
+ hopzoe sam 4ohor:1
+hopzoe sam 4ohor oftor:1
+sam 4ohor oftor ohg:1
+4ohor oftor ohg torg:1
+oftor ohg torg 8am:1
+ohg torg 8am oho8:1
+torg 8am oho8 or:1
+8am oho8 or :1
+oho8 or  gdom:1
+or  gdom hzor:1
+ gdom hzor odam:1
+gdom hzor odam 4ohtg:1
+hzor odam 4ohtg 4ho8g:1
+odam 4ohtg 4ho8g 4odam:1
+4ohtg 4ho8g 4odam so:1
+4ho8g 4odam so gham:1
+4odam so gham :1
+so gham  4osg:1
+gham  4osg 4odam:1
+ 4osg 4odam hzoe:1
+4osg 4odam hzoe 8g:1
+4odam hzoe 8g dzor:1
+hzoe 8g dzor odg:1
+8g dzor odg 8g:1
+dzor odg 8g :1
+odg 8g  ptohtg:1
+8g  ptohtg 8am:1
+ ptohtg 8am fzoe:1
+ptohtg 8am fzoe 8ar:1
+8am fzoe 8ar toe:1
+fzoe 8ar toe 8am:1
+8ar toe 8am :1
+toe 8am  g:1
+8am  g :1
+ g  dg:1
+g  dg 4odtg:1
+ dg 4odtg 4ohtor:1
+dg 4odtg 4ohtor tdoe:1
+4odtg 4ohtor tdoe ohoeg:1
+4ohtor tdoe ohoeg :1
+tdoe ohoeg  sor:1
+ohoeg  sor soe:1
+ sor soe 4odtg:1
+sor soe 4odtg 4ohok:1
+soe 4odtg 4ohok o8g:1
+4odtg 4ohok o8g :1
+4ohok o8g  8toe:1
+o8g  8toe 8am:1
+ 8toe 8am :1
+8toe 8am  2or:1
+8am  2or tcg:1
+ 2or tcg dor:1
+2or tcg dor 4odor:1
+tcg dor 4odor 8am:1
+dor 4odor 8am :1
+4odor 8am  dom:1
+8am  dom toro8g:1
+ dom toro8g 4odam:1
+dom toro8g 4odam sorg:1
+toro8g 4odam sorg ohae:1
+4odam sorg ohae :1
+sorg ohae  sor:1
+ohae  sor scor:1
+ sor scor 8ar:1
+sor scor 8ar :1
+scor 8ar  gdto8g:1
+8ar  gdto8g 4ohtg:1
+ gdto8g 4ohtg gdam:1
+gdto8g 4ohtg gdam tg:1
+4ohtg gdam tg 4ohor8g:1
+gdam tg 4ohor8g :1
+tg 4ohor8g  ohtoeoe:1
+4ohor8g  ohtoeoe 8am:1
+ ohtoeoe 8am :1
+ohtoeoe 8am  4oho:1
+8am  4oho odtotor:1
+ 4oho odtotor 8tor:1
+4oho odtotor 8tor tg8am:1
+odtotor 8tor tg8am gtcg:1
+8tor tg8am gtcg doe:1
+tg8am gtcg doe 8a:1
+gtcg doe 8a :1
+doe 8a  iir:1
+8a  iir odtor:1
+ iir odtor 8am:1
+iir odtor 8am dzg:1
+odtor 8am dzg 8an:1
+8am dzg 8an 8am:1
+dzg 8an 8am :1
+8an 8am  :1
+  dso8g 4ohzg:1
+ dso8g 4ohzg 4ohoe8g:1
+dso8g 4ohzg 4ohoe8g top8an:1
+4ohzg 4ohoe8g top8an 2oe:1
+4ohoe8g top8an 2oe :1
+top8an 2oe  8or:1
+2oe  8or toe:1
+ 8or toe hzor:1
+8or toe hzor o2totor:1
+toe hzor o2totor 8am:1
+hzor o2totor 8am :1
+o2totor 8am  4odtol:1
+8am  4odtol sg:1
+ 4odtol sg tol:1
+4odtol sg tol 8am:1
+sg tol 8am 8g:1
+tol 8am 8g :1
+8am 8g  8sor:1
+8g  8sor 8ghorg:1
+ 8sor 8ghorg 8sor:1
+8sor 8ghorg 8sor 8am:1
+8ghorg 8sor 8am :1
+8sor 8am  8tor:1
+8am  8tor 4ohoe:1
+ 8tor 4ohoe gdtol:1
+8tor 4ohoe gdtol 8an:1
+4ohoe gdtol 8an :1
+gdtol 8an  godor:1
+8an  godor ghtor:1
+ godor ghtor 2am:1
+godor ghtor 2am ohg:1
+ghtor 2am ohg :1
+2am ohg  4ohtor:1
+ohg  4ohtor 8am:1
+ 4ohtor 8am :1
+4ohtor 8am  4ohor:1
+8am  4ohor tom:1
+ 4ohor tom tchtg:1
+4ohor tom tchtg 8am:1
+tom tchtg 8am :1
+tchtg 8am  8or:1
+8am  8or tor:1
+ 8or tor so:1
+8or tor so 8aim:1
+tor so 8aim 8am:1
+so 8aim 8am :1
+8aim 8am  2om:1
+8am  2om scg:1
+ 2om scg ohom:1
+2om scg ohom tcg:1
+scg ohom tcg hok:1
+ohom tcg hok :1
+tcg hok  4ohom:1
+hok  4ohom toror:1
+ 4ohom toror hzoe:1
+4ohom toror hzoe 8am:1
+toror hzoe 8am :1
+hzoe 8am  tor:1
+8am  tor sgeg:1
+ tor sgeg scam:1
+tor sgeg scam 8oho8g:1
+sgeg scam 8oho8g :1
+scam 8oho8g  2ohoim:1
+8oho8g  2ohoim :1
+ 2ohoim  ho8an:1
+2ohoim  ho8an pzam:1
+ ho8an pzam pzoro82:1
+ho8an pzam pzoro82 :1
+pzam pzoro82  2oim:1
+pzoro82  2oim tcodg:1
+ 2oim tcodg 8am:1
+2oim tcodg 8am 8a:1
+tcodg 8am 8a :1
+8am 8a  il:1
+8a  il 4ohor:1
+ il 4ohor 8am:1
+il 4ohor 8am toham:1
+4ohor 8am toham :1
+8am toham  2odtor:1
+toham  2odtor 4odoim:1
+ 2odtor 4odoim gdccoe2:1
+2odtor 4odoim gdccoe2 oghccg:1
+4odoim gdccoe2 oghccg 8am:1
+gdccoe2 oghccg 8am 8am:1
+oghccg 8am 8am o8g:1
+8am 8am o8g 8am:1
+8am o8g 8am 4dam:1
+o8g 8am 4dam 4ohae:1
+8am 4dam 4ohae 8am:1
+4dam 4ohae 8am :1
+4ohae 8am  gtodzcg:1
+8am  gtodzcg gdoe:1
+ gtodzcg gdoe 8am:1
+gtodzcg gdoe 8am 2:1
+gdoe 8am 2 :1
+8am 2  oshzo:1
+2  oshzo 8o:1
+ oshzo 8o 8am:1
+oshzo 8o 8am hzoe2:1
+8o 8am hzoe2 :1
+8am hzoe2  4ohoe:1
+hzoe2  4ohoe ghom:1
+ 4ohoe ghom tohzcg:1
+4ohoe ghom tohzcg :1
+ghom tohzcg  gho:1
+tohzcg  gho toe:1
+ gho toe 8am:1
+gho toe 8am :1
+toe 8am  :1
+   hoeor:1
+  hoeor todzg:1
+ hoeor todzg :1
+hoeor todzg  odg:1
+todzg  odg tom:1
+ odg tom odsoe:1
+odg tom odsoe oeg:1
+tom odsoe oeg odg:1
+odsoe oeg odg :1
+oeg odg  odscg:1
+odg  odscg to8g2:1
+ odscg to8g2 :1
+odscg to8g2  ghom:1
+to8g2  ghom oham:1
+ ghom oham oham:1
+ghom oham oham hzar:1
+oham oham hzar :1
+oham hzar  4odor:1
+hzar  4odor odam:1
+ 4odor odam :1
+4odor odam  oham:1
+odam  oham 4odtoe:1
+ oham 4odtoe tododor:1
+oham 4odtoe tododor :1
+4odtoe tododor  gtodtcg:1
+tododor  gtodtcg tdz:1
+ gtodtcg tdz :1
+gtodtcg tdz  tg:1
+tdz  tg tda:1
+ tg tda ro8am:1
+tg tda ro8am 8am:1
+tda ro8am 8am 2g:1
+ro8am 8am 2g :1
+8am 2g  odor:1
+2g  odor tcg:1
+ odor tcg dan:1
+odor tcg dan :1
+tcg dan  tor:1
+dan  tor hzo:1
+ tor hzo 8an:1
+tor hzo 8an dzoe8g:1
+hzo 8an dzoe8g :1
+8an dzoe8g  gso:1
+dzoe8g  gso so:1
+ gso so do2:1
+gso so do2 :1
+so do2  8am:1
+do2  8am odog:1
+ 8am odog totor:1
+8am odog totor 8am:1
+odog totor 8am :1
+totor 8am  :1
+   odtop:1
+  odtop toe:1
+ odtop toe sohoe:1
+odtop toe sohoe ohcoe:1
+toe sohoe ohcoe odccg:1
+sohoe ohcoe odccg 2:1
+ohcoe odccg 2 :1
+odccg 2  tor:1
+2  tor 8am:1
+ tor 8am 8:1
+tor 8am 8 :1
+8am 8  tom:1
+8  tom scg:1
+ tom scg dcg:1
+tom scg dcg so:1
+scg dcg so om:1
+dcg so om 2:1
+so om 2 toe:1
+om 2 toe e8g:1
+2 toe e8g :1
+toe e8g  odcam:1
+e8g  odcam odok:1
+ odcam odok :1
+odcam odok  4odccg:1
+odok  4odccg dcor8am:1
+ 4odccg dcor8am odcg:1
+4odccg dcor8am odcg dccg:1
+dcor8am odcg dccg 8am:1
+odcg dccg 8am 8air:1
+dccg 8am 8air 8am:1
+8am 8air 8am 2:1
+8air 8am 2 :1
+8am 2  odccg:1
+2  odccg 8am:1
+ odccg 8am 4odccg:1
+odccg 8am 4odccg tohcg:1
+8am 4odccg tohcg ho8g:1
+4odccg tohcg ho8g :1
+tohcg ho8g  odg:1
+ho8g  odg am:1
+ odg am 8:1
+odg am 8 :1
+am 8  4ohg:1
+8  4ohg 8am:1
+ 4ohg 8am toe:1
+4ohg 8am toe ohccoe:1
+8am toe ohccoe 8o8g:1
+toe ohccoe 8o8g :1
+ohccoe 8o8g  tco8:1
+8o8g  tco8 to8g:1
+ tco8 to8g :1
+tco8 to8g  so:1
+to8g  so dcccg:1
+ so dcccg dcg:1
+so dcccg dcg hcg:1
+dcccg dcg hcg 8am:1
+dcg hcg 8am 8aim:1
+hcg 8am 8aim :1
+8am 8aim  8an:1
+8aim  8an 8an:1
+ 8an 8an :1
+8an 8an  8am:1
+8an  8am 4oetg:1
+ 8am 4oetg 8an:1
+8am 4oetg 8an 0:1
+4oetg 8an 0 or:1
+8an 0 or 8am:1
+0 or 8am :1
+or 8am  8an:1
+8am  8an 8ae8g:1
+ 8an 8ae8g :1
+8an 8ae8g  oam:1
+8ae8g  oam tar:1
+ oam tar tsoe:1
+oam tar tsoe todam:1
+tar tsoe todam :1
+tsoe todam  :1
+todam   :1
+   hc8o:1
+  hc8o ts8:1
+ hc8o ts8 pziofg:1
+hc8o ts8 pziofg t8an:1
+ts8 pziofg t8an scg:1
+pziofg t8an scg fsg:1
+t8an scg fsg 8g:1
+scg fsg 8g oran:1
+fsg 8g oran tccpam:1
+8g oran tccpam ofg:1
+oran tccpam ofg scg:1
+tccpam ofg scg daeg:1
+ofg scg daeg 8g:1
+scg daeg 8g :1
+daeg 8g  oetcg:1
+8g  oetcg tcdg:1
+ oetcg tcdg 4odc8g:1
+oetcg tcdg 4odc8g scdscg:1
+tcdg 4odc8g scdscg 4oean:1
+4odc8g scdscg 4oean tdzsg:1
+scdscg 4oean tdzsg t8g:1
+4oean tdzsg t8g 8air:1
+tdzsg t8g 8air sdzcg:1
+t8g 8air sdzcg 8oe8:1
+8air sdzcg 8oe8 :1
+sdzcg 8oe8  4odaet8g:1
+8oe8  4odaet8g tcdam:1
+ 4odaet8g tcdam tcdzg:1
+4odaet8g tcdam tcdzg 8ar:1
+tcdam tcdzg 8ar sc8:1
+tcdzg 8ar sc8 4odcc8ar:1
+8ar sc8 4odcc8ar tc8g:1
+sc8 4odcc8ar tc8g 8ar:1
+4odcc8ar tc8g 8ar or:1
+tc8g 8ar or tccg:1
+8ar or tccg 8g:1
+or tccg 8g dzg:1
+tccg 8g dzg :1
+8g dzg  htc8g:1
+dzg  htc8g t8g:1
+ htc8g t8g oeam:1
+htc8g t8g oeam tc8g:1
+t8g oeam tc8g sdz8tg:1
+oeam tc8g sdz8tg toe:1
+tc8g sdz8tg toe or:1
+sdz8tg toe or or8g:1
+toe or or8g tcc2:1
+or or8g tcc2 aeg:1
+or8g tcc2 aeg odaetc:1
+tcc2 aeg odaetc :1
+aeg odaetc  k:1
+odaetc  k 8t8g:1
+ k 8t8g t8g:1
+k 8t8g t8g gdam:1
+8t8g t8g gdam :1
+t8g gdam  pt8am:1
+gdam  pt8am sc8ak:1
+ pt8am sc8ak 4oftc8g:1
+pt8am sc8ak 4oftc8g sc8g:1
+sc8ak 4oftc8g sc8g dt8g:1
+4oftc8g sc8g dt8g 8g8g:1
+sc8g dt8g 8g8g oftcdam:1
+dt8g 8g8g oftcdam sodzcg:1
+8g8g oftcdam sodzcg s8aeo:1
+oftcdam sodzcg s8aeo rg:1
+sodzcg s8aeo rg :1
+s8aeo rg  8t8ar:1
+rg  8t8ar tc8g:1
+ 8t8ar tc8g toeae:1
+8t8ar tc8g toeae 4odc8ar:1
+tc8g toeae 4odc8ar t8g:1
+toeae 4odc8ar t8g tdz8g:1
+4odc8ar t8g tdz8g 8ar:1
+t8g tdz8g 8ar ar:1
+tdz8g 8ar ar ae:1
+8ar ar ae g8g:1
+ar ae g8g ccc2am:1
+ae g8g ccc2am :1
+g8g ccc2am  etc8g:1
+ccc2am  etc8g sc8g:1
+ etc8g sc8g 4odam:1
+etc8g sc8g 4odam tdccg:1
+sc8g 4odam tdccg ftc8g:1
+4odam tdccg ftc8g odak:1
+tdccg ftc8g odak tfzcg:1
+ftc8g odak tfzcg 2am:1
+odak tfzcg 2am tpzg:1
+tfzcg 2am tpzg 8airok:1
+2am tpzg 8airok :1
+tpzg 8airok  htc8g:1
+8airok  htc8g soe:1
+ htc8g soe o8ae:1
+htc8g soe o8ae 4odam:1
+soe o8ae 4odam s8am:1
+o8ae 4odam s8am :1
+4odam s8am  pt8ar:1
+s8am  pt8ar sc8g:1
+ pt8ar sc8g ar:1
+pt8ar sc8g ar aiir:1
+sc8g ar aiir odair:1
+ar aiir odair gdcoe2:1
+aiir odair gdcoe2 sc8g:1
+odair gdcoe2 sc8g 4odz8g:1
+gdcoe2 sc8g 4odz8g eam:1
+sc8g 4odz8g eam sgdg:1
+4odz8g eam sgdg :1
+eam sgdg  8s8g:1
+sgdg  8s8g aram:1
+ 8s8g aram g:1
+8s8g aram g gdar:1
+aram g gdar t8g:1
+g gdar t8g gdae:1
+gdar t8g gdae oedam:1
+t8g gdae oedam 4odae8ar:1
+gdae oedam 4odae8ar tcoe:1
+oedam 4odae8ar tcoe 8ar:1
+4odae8ar tcoe 8ar am:1
+tcoe 8ar am :1
+8ar am  hoet8am:1
+am  hoet8am tdzg:1
+ hoet8am tdzg 2am:1
+hoet8am tdzg 2am oeor:1
+tdzg 2am oeor te2:1
+2am oeor te2 am:1
+oeor te2 am odg:1
+te2 am odg tc2:1
+am odg tc2 am:1
+odg tc2 am 8ae:1
+tc2 am 8ae :1
+am 8ae  ghor:1
+8ae  ghor t8ar:1
+ ghor t8ar scg:1
+ghor t8ar scg 4odam:1
+t8ar scg 4odam tor:1
+scg 4odam tor dar:1
+4odam tor dar scoe:1
+tor dar scoe dc8g:1
+dar scoe dc8g ohc8g:1
+scoe dc8g ohc8g hc8g:1
+dc8g ohc8g hc8g 2am:1
+ohc8g hc8g 2am :1
+hc8g 2am  8am:1
+2am  8am sdzg:1
+ 8am sdzg tcde:1
+8am sdzg tcde oe:1
+sdzg tcde oe 8am:1
+tcde oe 8am tc8g:1
+oe 8am tc8g gdccg:1
+8am tc8g gdccg 8am:1
+tc8g gdccg 8am ohae:1
+gdccg 8am ohae t8ak:1
+8am ohae t8ak 4odak:1
+ohae t8ak 4odak :1
+t8ak 4odak  4oedan:1
+4odak  4oedan oetcoe:1
+ 4oedan oetcoe 8am:1
+4oedan oetcoe 8am 8ar:1
+oetcoe 8am 8ar oe:1
+8am 8ar oe 8e8:1
+8ar oe 8e8 iir:1
+oe 8e8 iir a8or:1
+8e8 iir a8or am:1
+iir a8or am oftcc:1
+a8or am oftcc far:1
+am oftcc far :1
+oftcc far  ohcoe:1
+far  ohcoe toedae:1
+ ohcoe toedae 4odae:1
+ohcoe toedae 4odae 8ar:1
+toedae 4odae 8ar gd8g:1
+4odae 8ar gd8g :1
+8ar gd8g  :1
+gd8g   :1
+   p8air:1
+  p8air t8g:1
+ p8air t8g f8gdan:1
+p8air t8g f8gdan orair:1
+t8g f8gdan orair sgdaim:1
+f8gdan orair sgdaim oftg:1
+orair sgdaim oftg dar:1
+sgdaim oftg dar or:1
+oftg dar or am:1
+dar or am 8oe:1
+or am 8oe dg:1
+am 8oe dg as8g:1
+8oe dg as8g :1
+dg as8g  2or:1
+as8g  2or sg:1
+ 2or sg dar:1
+2or sg dar toe:1
+sg dar toe 4ohg:1
+dar toe 4ohg dt8g:1
+toe 4ohg dt8g oedg:1
+4ohg dt8g oedg 8ar:1
+dt8g oedg 8ar t8g:1
+oedg 8ar t8g gdar:1
+8ar t8g gdar oedc8am:1
+t8g gdar oedc8am o8g8g:1
+gdar oedc8am o8g8g :1
+oedc8am o8g8g  8am:1
+o8g8g  8am tor:1
+ 8am tor odan:1
+8am tor odan odan:1
+tor odan odan fto8g:1
+odan odan fto8g 2am:1
+odan fto8g 2am oram:1
+fto8g 2am oram 4odam:1
+2am oram 4odam gho8am:1
+oram 4odam gho8am odak:1
+4odam gho8am odak :1
+gho8am odak  godccg:1
+odak  godccg to8g:1
+ godccg to8g tcor:1
+godccg to8g tcor am:1
+to8g tcor am odo8g:1
+tcor am odo8g to8ae:1
+am odo8g to8ae gdc8g:1
+odo8g to8ae gdc8g 4odc8g:1
+to8ae gdc8g 4odc8g 8ae:1
+gdc8g 4odc8g 8ae oram:1
+4odc8g 8ae oram sdg:1
+8ae oram sdg :1
+oram sdg  ghc8g:1
+sdg  ghc8g dor:1
+ ghc8g dor or:1
+ghc8g dor or scdg:1
+dor or scdg dan:1
+or scdg dan ohar:1
+scdg dan ohar or:1
+dan ohar or am:1
+ohar or am odam:1
+or am odam dzoe:1
+am odam dzoe oe:1
+odam dzoe oe dor:1
+dzoe oe dor ohor:1
+oe dor ohor optg:1
+dor ohor optg :1
+ohor optg  edc8g:1
+optg  edc8g odtcg:1
+ edc8g odtcg sor:1
+edc8g odtcg sor 4og:1
+odtcg sor 4og dak:1
+sor 4og dak todz:1
+4og dak todz fzcg:1
+dak todz fzcg or:1
+todz fzcg or aeg:1
+fzcg or aeg so8g:1
+or aeg so8g :1
+aeg so8g  par8g:1
+so8g  par8g sc8g:1
+ par8g sc8g 4odar:1
+par8g sc8g 4odar scc8g:1
+sc8g 4odar scc8g oraeg:1
+4odar scc8g oraeg :1
+scc8g oraeg  oeanr:1
+oraeg  oeanr odar:1
+ oeanr odar ar:1
+oeanr odar ar :1
+odar ar  ocdar:1
+ar  ocdar am:1
+ ocdar am oedam:1
+ocdar am oedam oedg:1
+am oedam oedg 8ar:1
+oedam oedg 8ar ae8:1
+oedg 8ar ae8 :1
+8ar ae8  scd:1
+ae8  scd tcd:1
+ scd tcd 4odtg:1
+scd tcd 4odtg 8ar:1
+tcd 4odtg 8ar an:1
+4odtg 8ar an :1
+8ar an  har:1
+an  har am:1
+ har am 8ae:1
+har am 8ae ar:1
+am 8ae ar an:1
+8ae ar an tcor:1
+ar an tcor g8gk:1
+an tcor g8gk :1
+tcor g8gk  so8g:1
+g8gk  so8g odae:1
+ so8g odae s8g:1
+so8g odae s8g dsg:1
+odae s8g dsg or:1
+s8g dsg or :1
+dsg or  8ar:1
+or  8ar ar:1
+ 8ar ar gdar:1
+8ar ar gdar or:1
+ar gdar or gdg:1
+gdar or gdg t8g:1
+or gdg t8g ftor:1
+gdg t8g ftor :1
+t8g ftor  4odan:1
+ftor  4odan or:1
+ 4odan or scc8g:1
+4odan or scc8g oetc:1
+or scc8g oetc :1
+scc8g oetc  p:1
+oetc  p 2aroe:1
+ p 2aroe tc8g:1
+p 2aroe tc8g scdak:1
+2aroe tc8g scdak 4odar:1
+tc8g scdak 4odar te:1
+scdak 4odar te :1
+4odar te  gdcc8g:1
+te  gdcc8g tdzg:1
+ gdcc8g tdzg 8aeor:1
+gdcc8g tdzg 8aeor 8g:1
+tdzg 8aeor 8g :1
+8aeor 8g  pam:1
+8g  pam aeam:1
+ pam aeam ohaftk:1
+pam aeam ohaftk odarak:1
+aeam ohaftk odarak :1
+ohaftk odarak  odar:1
+odarak  odar tco8ae:1
+ odar tco8ae odzg:1
+odar tco8ae odzg :1
+tco8ae odzg  8an:1
+odzg  8an odzc8g:1
+ 8an odzc8g ohc8g:1
+8an odzc8g ohc8g odc8g:1
+odzc8g ohc8g odc8g :1
+ohc8g odc8g  et8g:1
+odc8g  et8g odam:1
+ et8g odam 8aimg:1
+et8g odam 8aimg :1
+odam 8aimg  haram:1
+8aimg  haram odam:1
+ haram odam toeo8g:1
+haram odam toeo8g :1
+odam toeo8g  :1
+toeo8g   :1
+   ptcg:1
+  ptcg dco8ar:1
+ ptcg dco8ar ae8g8g:1
+ptcg dco8ar ae8g8g :1
+dco8ar ae8g8g  4odg:1
+ae8g8g  4odg odae:1
+ 4odg odae s8g:1
+4odg odae s8g oedc8g:1
+odae s8g oedc8g optc2:1
+s8g oedc8g optc2 ar:1
+oedc8g optc2 ar or8am:1
+optc2 ar or8am :1
+ar or8am  4odar:1
+or8am  4odar odar:1
+ 4odar odar odc8g:1
+4odar odar odc8g 8ar:1
+odar odc8g 8ar :1
+odc8g 8ar  gdtcg:1
+8ar  gdtcg dam:1
+ gdtcg dam odar:1
+gdtcg dam odar tc8g:1
+dam odar tc8g odar:1
+odar tc8g odar araeor:1
+tc8g odar araeor :1
+odar araeor  sg:1
+araeor  sg 4odae:1
+ sg 4odae t8g:1
+sg 4odae t8g tdz8:1
+4odae t8g tdz8 :1
+t8g tdz8  ohor:1
+tdz8  ohor aiir:1
+ ohor aiir odg:1
+ohor aiir odg odoetg:1
+aiir odg odoetg 4odar:1
+odg odoetg 4odar odak:1
+odoetg 4odar odak :1
+4odar odak  or:1
+odak  or am:1
+ or am tcdo8g:1
+or am tcdo8g 8a:1
+am tcdo8g 8a :1
+tcdo8g 8a  r:1
+8a  r 4odoe:1
+ r 4odoe odam:1
+r 4odoe odam odar:1
+4odoe odam odar odg:1
+odam odar odg odoe8g:1
+odar odg odoe8g oe:1
+odg odoe8g oe :1
+odoe8g oe  eodar:1
+oe  eodar 4odar:1
+ eodar 4odar odar:1
+eodar 4odar odar :1
+4odar odar  odoe:1
+odar  odoe oe:1
+ odoe oe tc8g:1
+odoe oe tc8g 4odt8:1
+oe tc8g 4odt8 ar:1
+tc8g 4odt8 ar ar:1
+4odt8 ar ar or:1
+ar ar or 8ak:1
+ar or 8ak :1
+or 8ak  hor:1
+8ak  hor or:1
+ hor or ar:1
+hor or ar sodorak:1
+or ar sodorak oesc8g:1
+ar sodorak oesc8g 4odaik:1
+sodorak oesc8g 4odaik t8g:1
+oesc8g 4odaik t8g dar:1
+4odaik t8g dar oram:1
+t8g dar oram :1
+dar oram  gam:1
+oram  gam tcdam:1
+ gam tcdam odg:1
+gam tcdam odg gtccg:1
+tcdam odg gtccg :1
+odg gtccg  dsco:1
+gtccg  dsco dtcg:1
+ dsco dtcg 8ar:1
+dsco dtcg 8ar aik:1
+dtcg 8ar aik :1
+8ar aik  dtco:1
+aik  dtco fz8g:1
+ dtco fz8g oran:1
+dtco fz8g oran tcfae:1
+fz8g oran tcfae 8am:1
+oran tcfae 8am 8:1
+tcfae 8am 8 :1
+8am 8  k:1
+8  k ham:1
+ k ham oe:1
+k ham oe oeam:1
+ham oe oeam or:1
+oe oeam or :1
+oeam or  8an:1
+or  8an odam:1
+ 8an odam odam:1
+8an odam odam odam:1
+odam odam odam 8arak:1
+odam odam 8arak :1
+odam 8arak  2am:1
+8arak  2am oetccg:1
+ 2am oetccg t8g:1
+2am oetccg t8g :1
+oetccg t8g  gtcg:1
+t8g  gtcg dakar:1
+ gtcg dakar odg:1
+gtcg dakar odg gdc8g:1
+dakar odg gdc8g odair:1
+odg gdc8g odair o8g:1
+gdc8g odair o8g :1
+odair o8g  hoar:1
+o8g  hoar gdam:1
+ hoar gdam org:1
+hoar gdam org 8ae:1
+gdam org 8ae :1
+org 8ae  :1
+   ptc8an:1
+  ptc8an tcfam:1
+ ptc8an tcfam oe8g:1
+ptc8an tcfam oe8g :1
+tcfam oe8g  ho8ar:1
+oe8g  ho8ar 4odam:1
+ ho8ar 4odam oe:1
+ho8ar 4odam oe arak:1
+4odam oe arak :1
+oe arak  2airan:1
+arak  2airan odam:1
+ 2airan odam odak:1
+2airan odam odak :1
+odam odak  haramodam:1
+odak  haramodam tfzg:1
+ haramodam tfzg :1
+haramodam tfzg  2oeam:1
+tfzg  2oeam odar:1
+ 2oeam odar oeg:1
+2oeam odar oeg tdzg:1
+odar oeg tdzg :1
+oeg tdzg  4occ8am:1
+tdzg  4occ8am oe:1
+ 4occ8am oe tc8g:1
+4occ8am oe tc8g 8am:1
+oe tc8g 8am :1
+tc8g 8am  so8g:1
+8am  so8g 4odoe:1
+ so8g 4odoe tc8g:1
+so8g 4odoe tc8g 2a:1
+4odoe tc8g 2a :1
+tc8g 2a  r:1
+2a  r to8am:1
+ r to8am tdaegdc8g:1
+r to8am tdaegdc8g odae:1
+to8am tdaegdc8g odae :1
+tdaegdc8g odae  htg:1
+odae  htg pto8g:1
+ htg pto8g pt8g:1
+htg pto8g pt8g dor:1
+pto8g pt8g dor oe:1
+pt8g dor oe :1
+dor oe  htdam:1
+oe  htdam htc8g:1
+ htdam htc8g 4odam:1
+htdam htc8g 4odam oram:1
+htc8g 4odam oram :1
+4odam oram  2tc8g:1
+oram  2tc8g 4odoe:1
+ 2tc8g 4odoe tc8g:1
+2tc8g 4odoe tc8g 8aeor:1
+4odoe tc8g 8aeor ahzg:1
+tc8g 8aeor ahzg :1
+8aeor ahzg  gtccdccg:1
+ahzg  gtccdccg 8am:1
+ gtccdccg 8am odam:1
+gtccdccg 8am odam :1
+8am odam  hocc2:1
+odam  hocc2 tc8g:1
+ hocc2 tc8g dc8g:1
+hocc2 tc8g dc8g oeftc8g:1
+tc8g dc8g oeftc8g 4odc8g:1
+dc8g oeftc8g 4odc8g :1
+oeftc8g 4odc8g  8am:1
+4odc8g  8am tcfan:1
+ 8am tcfan :1
+8am tcfan  2am:1
+tcfan  2am oetcg:1
+ 2am oetcg dtc8g:1
+2am oetcg dtc8g odar:1
+oetcg dtc8g odar 4odt8g:1
+dtc8g odar 4odt8g 8g:1
+odar 4odt8g 8g :1
+4odt8g 8g  4odcc2:1
+8g  4odcc2 ak:1
+ 4odcc2 ak t8g:1
+4odcc2 ak t8g :1
+ak t8g  4odtcg:1
+t8g  4odtcg 4o8g:1
+ 4odtcg 4o8g or:1
+4odtcg 4o8g or aim:1
+4o8g or aim odam:1
+or aim odam odzg:1
+aim odam odzg :1
+odam odzg  sco8:1
+odzg  sco8 faiieg:1
+ sco8 faiieg :1
+sco8 faiieg  soe:1
+faiieg  soe dc8g:1
+ soe dc8g eor:1
+soe dc8g eor ar:1
+dc8g eor ar odar:1
+eor ar odar 4odg:1
+ar odar 4odg dc8g:1
+odar 4odg dc8g r:1
+4odg dc8g r :1
+dc8g r  ghccg:1
+r  ghccg 4odaik:1
+ ghccg 4odaik :1
+ghccg 4odaik  hotcg:1
+4odaik  hotcg 4odcc8g:1
+ hotcg 4odcc8g 4odam:1
+hotcg 4odcc8g 4odam odcor:1
+4odcc8g 4odam odcor 4odar:1
+4odam odcor 4odar odcc2ar:1
+odcor 4odar odcc2ar o0g:1
+4odar odcc2ar o0g :1
+odcc2ar o0g  2am:1
+o0g  2am ohan:1
+ 2am ohan tdzg:1
+2am ohan tdzg odae:1
+ohan tdzg odae odair:1
+tdzg odae odair aroe:1
+odae odair aroe :1
+odair aroe  4odcg:1
+aroe  4odcg odarg:1
+ 4odcg odarg :1
+4odcg odarg  ptc8g:1
+odarg  ptc8g tchar:1
+ ptc8g tchar ofair:1
+ptc8g tchar ofair aro8g:1
+tchar ofair aro8g :1
+ofair aro8g  :1
