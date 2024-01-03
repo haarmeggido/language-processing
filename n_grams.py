@@ -1,7 +1,8 @@
 import re
 
+
 def n_grams(folder_path: str, file_name: str, delimeters: str, alphabet: str):
-	with open(f'{folder_path}/{file_name}', 'r', encoding= "utf-8") as file:
+	with open(f'{folder_path}\\{file_name}', 'r', encoding= "utf-8") as file:
 		text = file.read()
 
 	text = text.lower()
@@ -40,9 +41,9 @@ def n_grams(folder_path: str, file_name: str, delimeters: str, alphabet: str):
 
 		ndc = sorted(dc.items(), key=lambda x:x[1], reverse = True)
 
-		with open(f"{folder_path}/words{i+1}.txt", 'w') as f:  
+		with open(f"{folder_path}/words{i+1}.txt", 'w') as f:
 			first = True
-			for key, value in dc.items():  
+			for key, value in dc.items():
 				if not first:
 					f.write('%s:%s\n' % (key, value))
 				else:

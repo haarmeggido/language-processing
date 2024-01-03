@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 
 # Read the data from the "words.txt" file
 data = {}
-with open("words_files/words.txt", "r") as file:
+with open("fsg_h_files/words1.txt", "r") as file:
     for line in file:
         word, count = line.strip().split(":")
         data[word] = int(count)
@@ -25,6 +25,6 @@ plt.ylabel("Word Count (log scale)")
 plt.grid(True)
 
 
-plt.savefig("zipfs_law_plot.png")
+plt.savefig("zipfs_law_plot_fsg.png")
 # Display the graph
 plt.show()
